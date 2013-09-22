@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="alert_message_delete_record">Voulez-vous supprimer le ou les enregistrement(s) sélectionné(s) ?</string>
+  <string name="app_name">Dictaphone</string>
+  <string name="audio_db_album_name">Enregistrements audio</string>
+  <string name="audio_db_artist_name">Vos enregistrements</string>
+  <string name="audio_db_playlist_name">Mes enregistrements</string>
+  <string name="audio_db_title_format">dd/MM/yyyy HH:mm:ss</string>
+  <string name="back">Retour</string>
+  <string name="button_ok">OK</string>
+  <string name="call_record">Enregistrer l\'appel (%d)</string>
+  <string name="call_record_or">ou</string>
+  <string name="default_record_name">Enregistrement sans titre</string>
+  <string name="delete">Supprimer</string>
+  <string name="delete_dialog_message">Voulez-vous supprimer l\'enregistrement en cours ?</string>
+  <string name="deleting_message">Suppression en cours...</string>
+  <string name="dialog_content_storage_full">En raison du manque d\'espace de stockage, l\'enregistrement a été contraint d\'arrêter. Supprimez les fichiers inutiles par le biais de l\'explorateur de fichiers, voulez-vous l\'ouvrir maintenant ?</string>
+  <string name="dialog_play">Lire</string>
+  <string name="dialog_send">Envoyer</string>
+  <string name="dialog_title_storage_full">Mémoire pleine</string>
+  <string name="dialog_warning">Attention</string>
+  <string name="duration_format_hour">%sh</string> 
+  <string name="duration_format_minute">%sm</string> 
+  <string name="duration_format_second">%ss</string>
+  <string name="error_app_internal">Erreur interne de l\'application</string>
+  <string name="error_app_internal_title">Erreur du Dictaphone</string>
+  <string name="error_filename_too_long">Nom de fichier trop long</string>
+  <string name="error_mediadb_new_record">Impossible d\'enregistrer les fichiers audio enregistrés</string>
+  <string name="error_sdcard_access">Impossible d\'accéder au stockage externe ou interne</string>
+  <string name="fm_record">Enregistrement FM (%d)</string>
+  <string formatted="false" name="hour">%d heure(s)</string>
+  <string name="insert_sd_card">Carte SD requise</string>
+  <string name="low_battery_error">La batterie est inférieure à 5%, pour s\'assurer que l\'enregistrement ne soit pas perdu il a été arrêté et sauvegardé.</string>
+  <string name="low_battery_message_title">Batterie faible</string>
+  <string name="low_battery_warning">Un arrêt inattendu peut causer la perte de l\'enregistrement, il est recommandé d\'enregistrer uniquement lorsque la batterie est complètement chargée.</string>
+  <string name="mark_now">(En cours)</string>
+  <string name="max_length_reached">Durée maximale atteinte</string>
+  <string name="menu_settings">Paramètres</string>
+  <string name="menu_view_record_list">Liste des enregistrements</string>
+  <string name="message_file_size_error">L\'enregistrement a atteint la taille d\'enregistrement maximum supportée par %s</string>
+  <string formatted="false" name="minute">%d minute</string>
+  <string name="no_file">Aucun enregistrement</string>
+  <string name="notification_playback">Lecture de l\'enregistrement...</string>
+  <string name="notification_recording">Enregistrement...</string>
+  <string name="notification_stopped">L\'Enregistrement a cessé</string>
+  <string formatted="false" name="notification_warning">Espace libre faible (moins de %d minutes)...</string>
+  <string name="open_file_explorer">Ouvrez l\'explorateur de fichiers</string>
+  <string formatted="false" name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
+  <string name="pause">Pause</string> 
+  <string name="play_record">Lecture</string>
+  <string name="preference_led_indicator">Enregistrement sous écran de verr.</string>
+  <string name="preference_led_indicator_prompt">Lors d\'un enregistrement sous écran de verrouillage l\'indiquer via la LED et la barre d\'état</string>
+  <string name="preference_record_scenes_dialog_title">"Sélectionner une scène d'enregistrement"</string>
+  <string name="preference_record_type_dialog_title">Choisir un type d\'enregistrement</string>
+  <string name="preference_record_type_title">Type d\'enregistrement</string>
+  <string name="preference_scenes">Paramètres des scènes</string>
+  <string name="preference_silent_mode">Enregistrement en silencieux</string>
+  <string name="preference_silent_mode_summary">Activer pour permettre les enregistrements en silencieux</string>
+  <string name="record_list">Liste des enregistrements</string>
+  <string name="record_loading">Chargement de l\'enregistrement, veuillez patienter.</string>
+  <string name="record_name_hour">.</string>
+  <string name="record_picker_title">Choisissez l\'enregistrement</string>
+  <string name="record_saving">Sauvegarde de l\'enregistrement en cours, merci de patienter !</string>
+  <string name="recording">Enregistrement...</string>
+  <string name="recording_stopped">Fin de l\'enregistrement</string>
+  <string name="rename">Renommer</string>
+  <string name="rename_dialog_title">Renommer cet enregistrement</string>
+  <string name="rename_duplicate">Nom de l\'enregistrement en double, veuillez le renommer :</string>
+  <string name="rename_illegal">Nom de l\'enregistrement incorrect, veuillez le renommer :</string>
+  <string name="sd_card_not_available">La carte SD n\'est pas disponible</string>
+  <string name="search_for_recordings_in_folders">Rechercher les dossiers pour les enregistrements</string>
+  <string formatted="false" name="second">%d secondes</string>
+  <string name="send_to">Envoyer à</string>
+  <string name="sound_recorder_settings">Paramètres d\'enregistrement</string>
+  <string name="start_recording">"Démarrer l'enregistrement"</string>
+  <string name="status_bar_anti_disturb">Téléphone en silencieux, ajustez le volume pour reprendre.</string>
+  <string name="status_bar_back">Cliquez pour revenir au dictaphone</string>
+  <string name="status_bar_recording">Enregistrement...</string>
+  <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause. "</string>
+  <string name="stop_recording">"Arrêter l'enregistrement"</string>
+  <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>
+  <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="toast_max_record_time">App : %1$s temps d\'enregistrement maximum %2$s</string>
+  <string name="unknown_caller">Appelant inconnu</string>
+  <string name="view_list_of_recordings">Voir les enregistrements</string>
+</resources>
