@@ -786,7 +786,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone.\"</string>
   <string name="dndm_summary">Quand "Ne pas déranger" est activé, les appels et notifications seront réduits au silence lorsque votre téléphone sera verrouillé.</string>
   <string name="dndm_auto_setting_group">Prévu</string>
   <string name="dndm_auto_button_title">Horaires</string>
-  <string name="dndm_auto_time_setting">Réglage de l'heure</string>
+  <string name="dndm_auto_time_setting">Réglage de l\'heure</string>
   <string name="dndm_auto_time_setting_summary">De %1$s à %2$s</string>
   <string name="dndm_auto_time_turn_on">De</string>
   <string name="dndm_auto_time_turn_on_title">Activer automatiquement "Ne pas déranger"</string>
