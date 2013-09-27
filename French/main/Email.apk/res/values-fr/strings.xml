@@ -253,7 +253,7 @@
   <string name="dialog_sync_all_preparing">Préparation du transfert de %1$d photos et de %2$d vidéos...</string>
   <string name="dialog_sync_all_scanning">Recherche de fichiers...</string>
   <string name="dialog_sync_all_server_error">Un problème est survenu lors de la communication avec le serveur. Veuillez réessayer ultérieurement.</string>
-  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l'application Mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, évènements d'agenda, etc.)."</string>
+  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l'application Mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, événements d'agenda, etc.)."</string>
   <string name="discard_action">Supprimer</string>
   <string name="done">OK</string>
   <string name="done_action">OK</string>
@@ -320,9 +320,9 @@
   <string name="mailbox_settings_mailbox_check_frequency_label">Fréquence de consultation</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Jours à synchroniser</string>
   <string name="mailbox_shortcut_picker_title">Sélectionner dossier</string>
-  <string name="manager_activity_last_sync_format">""Dernière synchronisation :
+  <string name="manager_activity_last_sync_format">"Dernière synchronisation :
 %1$s
-%2$s""</string>
+%2$s"</string>
   <string name="manager_do_not_upload">Ne pas transférer</string>
   <string name="manager_list_switcher_completed_format">Transferts terminés [%d]</string>
   <string name="manager_list_switcher_pending_format">Transferts en attente [%d]</string>
@@ -371,6 +371,7 @@ Cc : %4$s
   <string name="message_compose_subject_hint">Objet</string>
   <string name="message_compose_to_hint">À</string>
   <string name="message_decode_error">Une erreur s\'est produite lors du décodage du message.</string>
+  <string name="message_delete_dialog_title"></string>
   <string name="message_discarded_toast">Message supprimé.</string>
   <string name="message_is_empty_description">Aucun objet</string>
   <string name="message_list_load_more_messages_action">Charger plus de messages</string>
@@ -423,6 +424,7 @@ Cc : %4$s
   <string name="move_action">Déplacer</string>
   <string name="move_to_folder_dialog_title">Déplacer vers</string>
   <string name="multiple_new_message_notification_item">"<b>%1$s</b> %2$s"</string>
+  <string name="newer_action">Plus récent</string>
   <string name="next_action">Suivant</string>
   <string name="notification_multiple_new_messages_fmt">%1$d nouveaux messages</string>
   <string name="notification_to_account">à %1$s</string>
@@ -432,6 +434,7 @@ Cc : %4$s
   <string name="notify_uploads">Instant Upload</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
+  <string name="older_action">Plus ancien</string>
   <string name="password_expire_warning_content_title">Expiration mot de passe de verrouillage</string>
   <string name="password_expire_warning_dialog_content_fmt">Vous devrez bientôt modifier le code PIN ou le mot de passe de verrouillage de votre écran, faute de quoi les données du compte %s seront effacées. Le modifier maintenant ?</string>
   <string name="password_expire_warning_dialog_title">Expiration mot de passe de verrouillage</string>
@@ -564,6 +567,7 @@ Cc : %4$s
   <string name="upload">Transférer</string>
   <string name="upload_state_completed">Terminé</string>
   <string name="upload_state_failed">Échec.</string>
+  <string name="upload_state_queued"></string>
   <string name="upload_state_uploading">Transfert...</string>
   <string name="upload_state_waiting_retry">En attente d\'une nouvelle tentative</string>
   <string name="upload_state_waiting_wifi">En attente d\'une connexion Wi-Fi</string>

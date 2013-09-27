@@ -112,6 +112,7 @@
   <string name="st_sms_group">Messages</string>
   <string name="tab_blacklist">Liste noire</string>
   <string name="tab_block_log">Pare-feu</string>
+  <string name="tab_block_log_unKnowNumber">Numéro inconnu</string>
   <string name="tab_call">Journal d\'appel</string>
   <string name="tab_sms">Messages</string>
   <string name="tab_title">Anti-Spam</string>
