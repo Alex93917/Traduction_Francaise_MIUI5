@@ -100,11 +100,11 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="allow_bind_app_widget_activity_always_allow_bind">Toujours autoriser %1$s à créer des widgets et accéder à leurs données</string>
   <string name="allow_mock_location">Positions fictives</string>
   <string name="allow_mock_location_summary">Autoriser les positions fictives</string>
-  <string name="always_allow_bind_appwidgets_text">"Vous avez choisi de permettre à cette application de créer des widgets et d'accéder à leurs données."</string>
+  <string name="always_allow_bind_appwidgets_text">"Vous avez choisi de permettre à cette application de créer des widgets et d\'accéder à leurs données."</string>
   <string name="android_beam_disabled_summary">Indisponible, car la NFC est désactivée</string>
-  <string name="android_beam_explained">"\"\"Lorsque cette fonctionnalité est activée, vous pouvez partager le contenu d'une application avec un appareil compatible NFC en rapprochant les appareils. Vous pouvez, par exemple, partager des pages de navigateur, des vidéos YouTube, des contacts et plus encore.
+  <string name="android_beam_explained">"\"\"Lorsque cette fonctionnalité est activée, vous pouvez partager le contenu d\'une application avec un appareil compatible NFC en rapprochant les appareils. Vous pouvez, par exemple, partager des pages de navigateur, des vidéos YouTube, des contacts et plus encore.
 
-Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'appuyer sur votre écran. L'application détermine le contenu à transférer.\"\""</string>
+Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\'appuyer sur votre écran. L'application détermine le contenu à transférer.\"\""</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Désactivé</string>
   <string name="android_beam_on_summary">Prêt à partager le contenu de l\'application via NFC</string>
@@ -187,7 +187,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="auto_restore_title">Restaurer automatiquement</string>
   <string name="auto_startup_application_manage">Démarrage</string>
   <string name="auto_startup_count">Démarrage automatique de %d applications</string>
-  <string name="auto_startup_dialog_msg">"\"MIUI autorisera l'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d'énergie et de données.
+  <string name="auto_startup_dialog_msg">"\"MIUI autorisera l'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d\'énergie et de données.
   Autoriser le démarrage automatique ?\""</string>
   <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
   <string name="available_size">%s disponible</string>
@@ -197,7 +197,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="background_data_dialog_message">La désactivation des données en arrière-plan économise la batterie et réduit l\'utilisation des données. Certaines applications peuvent continuer d\'utiliser la connexion Internet en arrière-plan.</string>
   <string name="background_data_dialog_title">Dés. données arr.-plan ?</string>
   <string name="background_data_summary">Synchronisation, envoi et réception de données à tout moment</string>
-  <string name="background_process_stop_description">"Ceci est un ancien processus d'application qui peut toujours être exécuté en cas de besoin. Il n'existe généralement aucune raison de l'arrêter."</string>
+  <string name="background_process_stop_description">"Ceci est un ancien processus d\'application qui peut toujours être exécuté en cas de besoin. Il n'existe généralement aucune raison de l'arrêter."</string>
   <string name="backup_configure_account_default_summary">Aucun compte ne stocke actuellement des données sauvegardées.</string>
   <string name="backup_configure_account_title">Compte de sauvegarde</string>
   <string name="backup_data_summary">Sauvegarder les données d\'applications, les mots de passe Wi-Fi et d\'autres paramètres sur les serveurs Google</string>
@@ -360,7 +360,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_empty_list_bluetooth_off">Activez le Bluetooth pour voir les appareils.</string>
   <string name="bluetooth_enable">Activer le Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">Le code PIN contient des lettres ou des symboles.</string>
-  <string name="bluetooth_enter_passkey_msg">"Pour l'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir la clé d'accès requise de l'appareil : "</string>
+  <string name="bluetooth_enter_passkey_msg">"Pour l'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir la clé d\'accès requise de l'appareil : "</string>
   <string name="bluetooth_enter_passkey_other_device">Vous devrez peut-être également saisir ce mot de passe sur l\'autre appareil.</string>
   <string name="bluetooth_enter_pin_msg">"Pour l'association à :{&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir le code PIN requis de l'appareil : "</string>
   <string name="bluetooth_enter_pin_msg_hs">Entrez le PIN pour lier avec \"%1$s\". [Haute sécurité activé: Demande une clé de 16 caractère]</string>
@@ -398,9 +398,9 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_pairing">Association...</string>
   <string name="bluetooth_pairing_accept">Se connecter</string>
   <string name="bluetooth_pairing_decline">Annuler</string>
-  <string name="bluetooth_pairing_device_down_error_message">"Impossible d'établir la communication avec %1$s."</string>
-  <string name="bluetooth_pairing_error_message">"Impossible d'associer à %1$s."</string>
-  <string name="bluetooth_pairing_pin_error_message">"Impossible d'établir l'association avec %1$s en raison d'un code PIN ou d'une clé d'accès incorrects."</string>
+  <string name="bluetooth_pairing_device_down_error_message">"Impossible d\'établir la communication avec %1$s."</string>
+  <string name="bluetooth_pairing_error_message">"Impossible d\'associer à %1$s."</string>
+  <string name="bluetooth_pairing_pin_error_message">"Impossible d\'établir l'association avec %1$s en raison d\'un code PIN ou d\'une clé d\'accès incorrects."</string>
   <string name="bluetooth_pairing_rejected_error_message">Association refusée par %1$s</string>
   <string name="bluetooth_pairing_request">Demande d\'association Bluetooth</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Connexion Internet locale partagée</string>
@@ -509,7 +509,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="clear_cache_btn_text">Vider le cache</string>
   <string name="clear_data_dlg_text">"Toutes les données de cette application vont être définitivement supprimées, y compris tous les fichiers, les paramètres, les comptes, les bases de données, etc."</string>
   <string name="clear_data_dlg_title">Supprimer les données de l\'application ?</string>
-  <string name="clear_data_failed">"Impossible d'effacer les données de l'application."</string>
+  <string name="clear_data_failed">"Impossible d\'effacer les données de l'application."</string>
   <string name="clear_failed_dlg_text">"Impossible de supprimer les données de l'application."</string>
   <string name="clear_failed_dlg_title">Effacer les données</string>
   <string name="clear_user_data_text">Effacer les données</string>
@@ -751,7 +751,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone.\"</string>
   <string name="dock_settings">Station d\'accueil</string>
   <string name="dock_settings_summary">Paramètres audio de la station d\'accueil associée</string>
   <string name="dock_settings_title">Paramètres station d\'accueil</string>
-  <string name="dock_sounds_enable_summary_off">"N'émettre aucun son lorsque le téléphone est inséré dans la station d'accueil ou retiré de celle-ci"</string>
+  <string name="dock_sounds_enable_summary_off">"N'émettre aucun son lorsque le téléphone est inséré dans la station d\'accueil ou retiré de celle-ci"</string>
   <string name="dock_sounds_enable_summary_on">Émettre un son lorsque le téléphone est inséré dans la station d\'accueil ou retiré de celle-ci</string>
   <string name="dock_sounds_enable_title">Son d\'insertion</string>
   <string name="does_not_exist">"L'application n'existe pas."</string>
@@ -973,13 +973,13 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="headset_mode_volume">Ajustement du volume - haut/bas</string>
   <string name="headset_no_contected">Casque non connecté</string>
   <string name="headset_settings">Paramètres du casque</string>
-  <string name="heavy_weight_stop_description">"Impossible d'arrêter cette application en toute sécurité. Si vous l'arrêtez, vous risquez de perdre une partie du travail en cours."</string>
+  <string name="heavy_weight_stop_description">"Impossible d\'arrêter cette application en toute sécurité. Si vous l'arrêtez, vous risquez de perdre une partie du travail en cours."</string>
   <string name="help_label">Aide</string>
   <string name="hidden_ssid_label">SSID caché : </string>
   <string name="history_details_title">Informations sur l\'historique</string>
   <string name="home_key">Touche Accueil</string>
   <string name="ime_security_warning">Ce mode de saisie est susceptible d\'enregistrer le texte que vous saisissez, y compris vos données personnelles telles que les mots de passe et les numéros de carte de paiement. Il provient de l\'application %1$s. Voulez-vous vraiment l\'activer ?</string>
-  <string name="immediately_destroy_activities">"Ne pas conserver d'activité"</string>
+  <string name="immediately_destroy_activities">"Ne pas conserver d\'activité"</string>
   <string name="immediately_destroy_activities_summary">Arrêter chaque activité dès que l\'utilisateur la quitte</string>
   <string name="ims_reg_required_off">Désactivation de l\'enregistrement IMS requise</string>
   <string name="ims_reg_required_on">Activation de l\'enregistrement IMS requise</string>
@@ -1015,7 +1015,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="internal_media_format_title">Effacer la mémoire interne</string>
   <string name="internal_memory">Stockage interne</string>
   <string name="internal_storage">Stockage interne</string>
-  <string name="invalid_location">"L'emplacement d'installation n'est pas valide."</string>
+  <string name="invalid_location">"L'emplacement d\'installation n'est pas valide."</string>
   <string name="invalid_size_value">"Impossible de calculer la taille du package."</string>
   <string name="ipaddr_label">Adresse IP:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
@@ -1090,7 +1090,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpassword_continue_label">Continuer</string>
   <string name="lockpassword_illegal_character">Le mot de passe contient un caractère non autorisé.</string>
   <string name="lockpassword_ok_label">OK</string>
-  <string name="lockpassword_password_recently_used">"L'administrateur de l'appareil ne permet pas l'utilisation d'un mot de passe récent."</string>
+  <string name="lockpassword_password_recently_used">"L'administrateur de l'appareil ne permet pas l'utilisation d\'un mot de passe récent."</string>
   <string name="lockpassword_password_requires_alpha">Le mot de passe doit comporter au moins une lettre.</string>
   <string name="lockpassword_password_requires_digit">Le mot de passe doit comporter au moins un chiffre.</string>
   <string name="lockpassword_password_requires_symbol">Le mot de passe doit comporter au moins un symbole.</string>
@@ -1099,7 +1099,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpassword_password_too_short">Le mot de passe doit comporter au moins %d caractères.</string>
   <string name="lockpassword_pattern_set_toast">Le schéma a été défini.</string>
   <string name="lockpassword_pin_contains_non_digits">Le code PIN ne doit contenir que des chiffres compris entre 0 et 9.</string>
-  <string name="lockpassword_pin_recently_used">"L'administrateur de l'appareil ne permet pas l'utilisation d'un code PIN récent."</string>
+  <string name="lockpassword_pin_recently_used">"L'administrateur de l'appareil ne permet pas l'utilisation d\'un code PIN récent."</string>
   <string name="lockpassword_pin_set_toast">Le code PIN a été défini.</string>
   <string name="lockpassword_pin_too_long">Le code PIN doit comporter moins de %d chiffres.</string>
   <string name="lockpassword_pin_too_short">Le code PIN doit comporter au moins %d chiffres.</string>
@@ -1222,7 +1222,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="msd_driver_download">Télécharger le pilote</string>
   <string name="msd_driver_mac_download">Aller sur http://miuiandroid.com/mac/ pour télécharger à partir de votre MAC</string>
   <string name="msd_driver_windows_xp_download">Aller sur http://miuiandroid.com/windows/ pour télécharger à partir de votre PC</string>
-  <string name="msd_help_summary">"Problèmes d'accès au stockage du mobile via un ordinateur ? Veuillez sélectionner le système d'exploitation de votre ordinateur : "</string>
+  <string name="msd_help_summary">"Problèmes d\'accès au stockage du mobile via un ordinateur ? Veuillez sélectionner le système d\'exploitation de votre ordinateur : "</string>
   <string name="msd_help_title">Aide</string>
   <string name="msd_install">Installer le pilote</string>
   <string name="msd_install_finish">OK</string>
@@ -1470,7 +1470,7 @@ Donner cette autorisation aux applications peut provoquer des instabilités syst
   <string name="power_screen">Écran</string>
   <string name="power_usage_history">Utilisation de la batterie</string>
   <string name="power_usage_level_and_status">%1$s – %2$s</string>
-  <string name="power_usage_not_available">"Info d'utilisation batterie indisp."</string>
+  <string name="power_usage_not_available">"Info d\'utilisation batterie indisp."</string>
   <string name="power_usage_summary">Répartition de l\'utilisation de la batterie</string>
   <string name="power_usage_summary_title">Batterie</string>
   <string name="power_wifi">Wi-Fi</string>
@@ -1508,8 +1508,8 @@ Donner cette autorisation aux applications peut provoquer des instabilités syst
   <string name="proxy_error_dismiss">OK</string>
   <string name="proxy_error_empty_host_set_port">Le champ Port doit rester vide si le champ Hôte n\'est pas renseigné.</string>
   <string name="proxy_error_empty_port">Le champ \"Port\" est obligatoire.</string>
-  <string name="proxy_error_invalid_exclusion_list">"Le format de la liste d'exclusion spécifiée n'est pas correct. Séparez les noms de domaine à exclure par une virgule."</string>
-  <string name="proxy_error_invalid_host">"Le nom d'hôte saisi n'est pas valide."</string>
+  <string name="proxy_error_invalid_exclusion_list">"Le format de la liste d\'exclusion spécifiée n'est pas correct. Séparez les noms de domaine à exclure par une virgule."</string>
+  <string name="proxy_error_invalid_host">"Le nom d\'hôte saisi n'est pas valide."</string>
   <string name="proxy_error_invalid_port">"Le port indiqué n'est pas valide."</string>
   <string name="proxy_exclusionlist_hint">ex: sodu76.liamsi.yakou.com</string>
   <string name="proxy_exclusionlist_label">Ignorer le proxy pour</string>
