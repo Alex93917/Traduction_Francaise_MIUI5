@@ -151,7 +151,7 @@
   <string name="theme_component_title_ringtone">Sonnerie</string>
   <string name="theme_component_title_statusbar">Barre d\'état</string>
   <string name="theme_component_title_wallpaper">Fond d\'écran</string>
-  <string name="theme_current_using_has_update">Le thème actuel a été mis à jour, cliquez ici pour l\'appliquer</string>
+  <string name="theme_current_using_has_update">Le thème actuel a été mis à jour, appuyez ici pour l\'appliquer</string>
   <string name="theme_description_title_customized">Personnalisé</string>
   <string name="theme_description_title_default">Par défaut</string>
   <string name="theme_immediately_apply_tip">Le thème a été mis à jour, l\'appliquer immédiatement ?</string>
