@@ -5,7 +5,7 @@
   <string name="active_xiaomi_account_msg">"Veuillez aller sur le forum MIUI pour activer le compte Xiaomi : "</string>
   <string name="active_xiaomi_account_title">Activer le compte Xiaomi</string>
   <string name="app_name">Mise à jour</string>
-  <string name="apply_buddy_update_info_message">Appuyez sur confirmer pour commencer le processus de mise à jour</string>
+  <string name="apply_buddy_update_info_message">Cliquez sur confirmer pour commencer le processus de mise à jour</string>
   <string name="apply_existing_update_md5error_title">La signature MD5 ne correspond pas</string>
   <string name="apply_later_button_text">Annuler</string>
   <string name="apply_now_button_text">Confirmer</string>
@@ -14,7 +14,7 @@
   <string name="apply_update_dialog_update_button">Mettre à jour</string>
   <string name="apply_update_fail">La mise à jour du système a échoué</string>
   <string name="apply_update_timer">Mise à jour terminée, l\'appareil redémarrera dans %d secondes</string>
-  <string name="apply_upload_info_message">Cliquer sur Mettre à jour maintenant redémarrera automatiquement le téléphone pour appliquer la mise à jour.</string>
+  <string name="apply_upload_info_message">Appuyez sur "Mettre à jour" pour redémarrer automatiquement le téléphone pour appliquer la mise à jour.</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="applying_rom_message">Application de la mise à jour</string>
   <string name="applying_update">Application de la mise à jour...%s</string>
@@ -120,7 +120,7 @@
   <string name="sign_in_info_total_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sina_share_fail">Envoi échoué !</string> 
   <string name="sina_share_pendding">Envoi...</string> 
-  <string name="sina_share_success">Envoi réussi!</string> 
+  <string name="sina_share_success">Envoi réussi !</string> 
   <string name="sina_token_expired_warning">Le compte Weibo a expiré, veuillez vous reconnecter</string> 
   <string name="sina_token_invalid_warning">Le compte Weibo est invalide, veuillez vous reconnecter</string>
   <string name="stable_build">Version stable</string>

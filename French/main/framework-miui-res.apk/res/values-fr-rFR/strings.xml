@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activate">Activer</string>
   <string name="activate_fail_notification_title">Veuillez réactiver le service Xiaomi Sync</string>
   <string name="activating">Activation...</string>
   <string name="alarm_message_12_hour_formate">h:mm aa</string>
   <string name="alwaysUsePrompt">Définir par défaut (ne plus demander)</string>
-  <string name="android_lockscreen_glogin_instructions">Pour déverrouiller connectez vous avec votre compte</string>
+  <string name="android_lockscreen_glogin_instructions">Pour déverrouiller, connectez-vous avec votre compte</string>
   <string name="app_no_notification">aucune notification</string>
   <string name="app_notificaiton_on_notificationBar">Barre de notifications</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Barre d\'état et de notification</string>
@@ -325,7 +325,7 @@
   <string name="lockscreen_emergency_call">Appel d\'urgence</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez mal entré votre mot de passe %d fois. Après %d tentatives infructueuses de plus il vous sera demandé de déverrouiller votre téléphone avec vos détails de compte. 
   
-Réessayer dans %d secondes.\"</string>
+Réessayer dans %d secondes."</string>
   <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
   <string name="lockscreen_pattern_instructions">Dessinez un schéma pour déverrouiller le téléphone</string>
   <string name="lockscreen_pattern_wrong">Schéma incorrect, veuillez réessayer</string>
@@ -359,7 +359,7 @@ Réessayer dans %d secondes.\"</string>
   <string name="lunar_yue">Mois</string>
   <string name="lunar_zheng">Positif</string>
   <string name="memory_clear_nothing_result">Pas de mémoire à libérer</string>
-  <string name="memory_clear_result">"%1$s libre | %2$s disponible"</string>
+  <string name="memory_clear_result">"%1$s libérés | %2$s disponible"</string>
   <string name="minutes">%d minutes</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_device_name">Android</string>
@@ -398,7 +398,7 @@ Réessayer dans %d secondes.\"</string>
   <string name="perm_send_push_lab">Envoyer un message push</string>
   <string name="perm_tigger_toggle_dspt">Permettre aux applications d\'utiliser les boutons du widget de la barre d\'état</string>
   <string name="perm_tigger_toggle_lab">Utiliser les boutons du widget de la barre d\'état</string>
-  <string name="perm_use_find_device">Tracer le périphérique</string>
+  <string name="perm_use_find_device">Localiser l\'appareil</string>
   <string name="permdesc_accessNote">Autorise l\'application à lire et modifier vos notes stockées sur votre téléphone. Les applications malicieuses peuvent en profiter pour les envoyer à d\'autres personnes ou les supprimer.</string>
   <string name="permlab_accessNote">Notes d\'accès</string>
   <string name="pin_operation_failed">L\'opération PIN a échoué.</string>
@@ -467,7 +467,7 @@ Réessayer dans %d secondes.\"</string>
   <string name="user_agreement2">" Contrat d'utilisateur"</string>
   <string name="user_agreement3">" et "</string>
   <string name="user_agreement4">Règles de confidentialité</string>
-  <string name="user_agreement5">，Appuyez sur OK indique que vous acceptez et vous conformez au contenu ci-dessus, appuyez sur Annuler pour quitter.</string>
+  <string name="user_agreement5">，appuyez sur OK pour indiquer que vous acceptez le contenu ci-dessus, appuyez sur Annuler pour quitter.</string>
   <string name="v5_deselect_all">Tout désélectionner</string>
   <string name="v5_edit_mode_title_empty">Cocher des éléments</string>
   <string name="v5_icon_menu_bar_more_item_label">Plus</string>
