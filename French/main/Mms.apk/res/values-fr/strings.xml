@@ -103,7 +103,7 @@
   <string name="discard_message">Ignorer</string>
   <string name="discard_message_reason">Votre message va être supprimé, car aucun destinataire valide n\'a été spécifié.</string>
   <string name="discard_slideshow">Supprimer le diaporama</string>
-  <string name="dl_failure_notification">Impossible de télécharger le message \"%1$s\" de %2$s.</string>
+  <string name="dl_failure_notification">Impossible de télécharger le message "%1$s" de %2$s.</string>
   <string name="done">OK</string>
   <string name="download">Télécharger</string>
   <string name="download_later">Impossible de télécharger pour le moment. Veuillez réessayer ultérieurement.</string>
@@ -148,8 +148,8 @@
   <string name="group_message">Message groupé</string>
   <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
   <string name="group_resend_message">Renvoyer (%d)</string>
-  <string name="guild_add_attachments">Cliquez ici pour ajouter des pièces jointes ou des émoticônes au message</string>
-  <string name="guild_add_recipients">Cliquez ici pour ajouter des destinataires du carnet d\'adresse</string>
+  <string name="guild_add_attachments">Appuyez ici pour ajouter des pièces jointes ou des émoticônes au message</string>
+  <string name="guild_add_recipients">Appuyez ici pour ajouter des destinataires du carnet d\'adresse</string>
   <string name="has_invalid_recipient">Destinataire(s) non valide(s) : &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Adresse d\'expéditeur masquée</string>
   <string name="hint_search_sms">%d SMS</string>
@@ -211,6 +211,7 @@
   <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échoué, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activation_done">La messagerie MiCloud est maintenant activée</string>
   <string name="mx_auto_resend_mms">Renvoyer le MMS</string>
   <string name="mx_auto_resend_mms_summary">Envoyer automatiquement comme MMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
@@ -254,10 +255,6 @@
   <string name="phrase_list_title" formatted="false">Phrases (%1$d)</string>
   <string name="pick_too_many_recipients">Trop de destinataires</string>
   <string name="play">Lire</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="prefDefault_vibrateWhen">never</string>
-  <string name="prefDefault_vibrate_false">never</string>
-  <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Paramètres avancés</string>
   <string name="pref_edit_smsc_address">Numéro du centre SMS</string>
   <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
@@ -419,7 +416,7 @@
   <string name="type_to_compose_text_enter_to_send">Saisissez un message</string>
   <string name="type_to_compose_text_or_leave_blank">Saisissez un message ou laissez le champ vide</string>
   <string name="type_video">vidéo</string>
-  <string name="undelivered_msg_dialog_body">"\"Impossible d'envoyer ce message. %s tentatives\""</string>
+  <string name="undelivered_msg_dialog_body">"Impossible d'envoyer ce message. %s tentatives"</string>
   <string name="undelivered_msg_dialog_title">Message non transmis</string>
   <string name="undelivered_sms_dialog_body">Impossible d\'envoyer ce message.</string>
   <string name="unknown_num">Numéro inconnu</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account_bind_prompt">"Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter..."</string>
   <string name="add_task">Ajouter une tâche</string>
@@ -83,7 +83,7 @@
   <string name="dlg_error_unmount_text">Impossible de démonter le stockage USB. Veuillez réessayer plus tard</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Échec du téléchargement !</string>
-  <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de MiDrive. Cliquez sur le lien ci-dessous pour plus de détails :</string>
+  <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de MiDrive. Appuyez sur le lien ci-dessous pour plus de détails :</string>
   <string name="downloading">Téléchargement...</string>
   <string name="empty_dir_cleanup_indication">%s dossiers vides</string>
   <string name="empty_dir_title">Dossiers vides</string>
@@ -108,7 +108,7 @@
   <string name="file_too_large">"Le fichier est trop volumineux et ne peut être envoyé"</string>
   <string name="finished">Terminé</string>
   <string name="folder_exist">Le fichier existe déjà</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Cliquez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href="%1$s"&gt;Appuyez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
   <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres, des lettres de l\'alphabet. Les majuscules et les minuscules sont différenciées.</string>
   <string name="ftp_anonymous_login">FTP anonyme</string>
   <string name="ftp_invalid_username_or_password">Erreur d\'authentification</string>
@@ -133,7 +133,7 @@ Superflu"</string>
   <string name="instruction_pre">Démarrez le service pour activer le serveur FTP</string>
   <string name="item_name">Sans nom</string>
   <string name="kuaipan_label">MiDrive</string>
-  <string name="kuaipan_over_space">Votre MiDrive n\'a perdu aucun espace.</string>
+  <string name="kuaipan_over_space">Votre MiDrive n\'a plus assez d\'espace libre.</string>
   <string name="kuaipan_prompt">Aide MiDrive</string>
   <string name="kuaipan_prompt_message">"Le serveur est actuellement indisponible, veuillez réessayer plus tard"</string>
   <string name="kuaipan_tech_support">Support technique de Xiaomi</string>
@@ -221,7 +221,7 @@ Superflu"</string>
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
   <string name="restart_cleaning">Redémarrer</string>
   <string name="scanned">Scan achevé</string>
-  <string name="scanning" formatted="false">Scan de %d apps ... (sur %d apps)</string>
+  <string name="scanning" formatted="false">Scan de %d apps... (sur %d apps)</string>
   <string name="scanning_on_going">Scan en cours...</string>
   <string name="sd_card_available">Disponible : %1$s</string>
   <string name="sd_card_size">Total : %1$s</string>
@@ -240,7 +240,7 @@ Superflu"</string>
   <string name="signin_error">Réseau actuellement indisponible, veuillez réessayer</string> 
   <string name="signin_success">"Connexion réussie ! 
 Obtenez de l\'espace gratuit %1$s"</string>
-  <string name="space_info">Espace libre du réseau: %1$s disponible(s), total: %2$s</string>
+  <string name="space_info">Espace libre du réseau : %1$s disponible(s), total : %2$s</string>
   <string name="space_usage">Utilisation</string>
   <string name="start_cleanup">Démarrer le nettoyage</string>
   <string name="start_server">Démarrer le service</string>
@@ -265,7 +265,7 @@ Obtenez de l\'espace gratuit %1$s"</string>
   <string name="trans_task">Transfert par réseau</string>
   <string name="trans_task_delete_confirm_message">Êtes-vous sûr de vouloir supprimer les %1$d tâches sélectionnées ?</string>
   <string name="transing">Transfert</string>
-  <string name="trash_box_capacity">Espace libre de la corbeille: %1$s</string>
+  <string name="trash_box_capacity">Espace libre de la corbeille : %1$s</string>
   <string name="trash_box_link">Visitez pan.xiaomi.com pour vider la corbeille</string>
   <string name="trash_box_message1">Vous pouvez supprimer des fichiers non importants pour libérer de l\'espace</string>
   <string name="trash_box_message2">Vous pouvez supprimer des fichiers ou vider la corbeille pour libérer de l\'espace</string>
