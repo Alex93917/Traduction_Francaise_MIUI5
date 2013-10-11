@@ -10,7 +10,7 @@
   <string name="album_display_summary">Afficher la pochette de l\'album dans l\'interface du lecteur</string>
   <string name="album_download">Télécharger la pochette de l\'album</string>
   <string name="album_edit">Album</string>
-  <string name="album_picker_not_found">L\'application \"Galerie\" n\'a pas été trouvée sur le périphérique</string>
+  <string name="album_picker_not_found">L\'application "Galerie" n\'a pas été trouvée sur le périphérique</string>
   <string name="album_search_failed">Pochette introuvable !</string>
   <string name="album_search_local_descript">Local | %1$d x %2$d</string>
   <string name="album_search_online_descript">En ligne | %1$d x %2$d</string>
@@ -51,7 +51,7 @@
   <string name="create_confirm">Confirmer</string>
   <string name="create_equalzier_create_text_prompt">Nom de l\'effet de l\'égaliseur</string>
   <string name="create_playlist_create_text_prompt">Nom de la liste de lecture</string>
-  <string name="custom">Personnaliser</string>
+  <string name="custom">Personnalisé</string>
   <string name="default_interval">30</string>
   <string name="delete_file_from_sdcard">Supprimer tous les fichiers de la carte SD</string>
   <string name="delete_item">Supprimer</string>
@@ -90,8 +90,8 @@
   <string name="filter_by_duration_prefix">"Durée minimale : "</string>
   <string name="filter_by_duration_summary">Filtrer les fichiers en fonction de leur durée</string>
   <string name="filter_by_folder">Filtrer par dossier</string>
-  <string name="filter_by_folder_summary_off">Désactivé, cliquer pour activer le filtrage par dossier</string>
-  <string name="filter_by_folder_summary_on">Activé, cliquer pour modifier les dossiers filtrés</string>
+  <string name="filter_by_folder_summary_off">Désactivé, appuyez pour activer le filtrage par dossier</string>
+  <string name="filter_by_folder_summary_on">Activé, appuyez pour modifier les dossiers filtrés</string>
   <string name="filter_by_size">Filtrer par taille</string>
   <string name="filter_by_size_max">2 Mo</string>
   <string name="filter_by_size_min">0 Ko</string>
@@ -106,7 +106,7 @@
   <string name="id3_edit_failed">Impossible de modifier les informations ID3</string>
   <string name="id3_modify_confirm_check">Confirmer les modifications ID3 ?</string>
   <string name="id3_modify_confirm_text">Enregistrer</string>
-  <string name="impunity_declaration">La musique en ligne que vous êtes sur le point d\'utiliser provient du Service de Musique en Ligne Baidu. Appuyez sur \"Confirmer\" pour accepter ses conditions et l\'utiliser ou appuyez sur \"Annuler\" pour quitter.</string>
+  <string name="impunity_declaration">La musique en ligne que vous êtes sur le point d\'utiliser provient du Service de Musique en Ligne Baidu. Appuyez sur "Confirmer" pour accepter ses conditions et l\'utiliser ou appuyez sur "Annuler" pour quitter.</string>
   <string name="impunity_declaration_title">Déclaration</string>
   <string name="keep_quit_position_settings">Mémoriser la dernière position</string>
   <string name="keep_quit_position_summary">Restaurer la piste à la dernière position connue au redémarrage de l\'application</string>
@@ -142,7 +142,7 @@
   <string name="mobile_connect_settings">Réseau mobile</string>
   <string name="modify_id3_for_list">La liste actuelle des informations des musiques ID3 sera modifiée</string>
   <string name="modify_id3_for_selected">Les informations des musiques ID3 seront modifiées</string>
-  <string name="modify_meta">Modifier Meta Info</string>
+  <string name="modify_meta">Modifier les métadonnées</string>
   <string name="modify_tracks_id3_background">Modifier les informations ID3 des morceaux sélectionnées en arrière-plan</string>
   <string name="more">Plus</string>
   <string name="music_browser_label">Musique</string>
@@ -202,7 +202,7 @@
   <string name="retry">Réessayer</string>
   <string name="ringtone_menu">Utiliser comme sonnerie</string>
   <string name="ringtone_not_support">Format de sonnerie non pris en charge</string>
-  <string name="ringtone_set">\"%s\" a été défini comme sonnerie.</string>
+  <string name="ringtone_set">"%s" a été défini comme sonnerie.</string>
   <string name="save">Enregistrer</string>
   <string name="scanning">Analyse de la carte SD...</string>
   <string name="scanning_nosdcard">Analyse du périphérique de stockage USB...</string>

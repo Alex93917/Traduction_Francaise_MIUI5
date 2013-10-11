@@ -34,7 +34,7 @@
   <string name="always_enable_mms_summary_miui">Toujours recevoir les MMS même lorsque les données sont désactivées</string>
   <string name="answer_and_hangup_miui">Raccrocher et répondre</string>
   <string name="answer_features_setting_category_miui">Paramètres de réponse</string>
-  <string name="answer_miui">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Ecran général.</string>
+  <string name="answer_miui">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Écran général.</string>
   <string name="answer_state_setting_summary">Paramètres de la coupure de sonnerie, du capteur de proximité, etc.</string>
   <string name="answer_state_setting_title">Paramètres d\'état d\'appel entrant</string>
   <string name="answer_state_setting_title_miui">Paramètres d\'état d\'appel entrant</string>
@@ -86,11 +86,11 @@
   <string name="auto_ip_support_local_numbers">Support des numéros locaux</string>
   <string name="auto_record_call_summary_miui">Les Appels automatiques enregistrées sont stockées dans  MIUI\\sound_recorder\\call_rec sur la Carte SD</string>
   <string name="auto_record_call_title_miui">Enregistrer automatiquement</string>
-  <string name="auto_record_scenario_enteries_always_miui">Enregistrement automatique pour tous les numéros</string>
-  <string name="auto_record_scenario_enteries_whitelist_miui">Enregistrement automatique des numéros choisis</string>
+  <string name="auto_record_scenario_enteries_always_miui">Enregistrement auto. pour tous les numéros</string>
+  <string name="auto_record_scenario_enteries_whitelist_miui">Enregistrement auto. des numéros choisis</string>
   <string name="auto_record_scenario_title_miui">Mode d\'enregistrement automatique</string>
   <string name="auto_record_whitelist_miui">Configuration des numéros choisis</string>
-  <string name="auto_record_whitelist_no_item_miui">Appuyez sur le bouton du bas pour ajouter des numéros d\'enregistrement automatique</string>
+  <string name="auto_record_whitelist_no_item_miui">Cliquez sur le bouton du bas pour ajouter des numéros d\'enregistrement automatique</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d numéros</string>
   <string name="auto_redial_pref_summary_miui">Recomposer automatiquement si la ligne est occupée</string>
@@ -293,7 +293,7 @@
   <string name="current_areacode_sum_set_miui">Emplacement de l\'indicatif régional actuel : %s</string>
   <string name="cursorError">Erreur de curseur</string>
   <string name="custom_location_location_hint_miui">Nom</string>
-  <string name="custom_location_location_no_item_miui">"Appuyez sur "Ajouter" ci-dessous pour ajouter l'attribution personnalisée"</string>
+  <string name="custom_location_location_no_item_miui">"Cliquez sur "Ajouter" ci-dessous pour ajouter l'attribution personnalisée"</string>
   <string name="custom_location_number_hint_miui">Indicatif régional tel que 010, numéro de groupe tel que 68#####</string>
   <string name="cw_title_miui">Appel en attente</string>
   <string name="data_connected_change">"Impossible de changer de réseau pendant que le service de données est en cours d'utilisation. Arrêtez le service de données et sélectionner un autre réseau disponible ?"</string>
@@ -979,7 +979,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="sub_1">SUB 1</string>
   <string name="sub_2">SUB 2</string>
   <string name="sub_one">Gérer le 1er abonnement</string>
-  <string name="sub_two">Gérer le 2è abonnement</string>
+  <string name="sub_two">Gérer le 2e abonnement</string>
   <string name="subone">Abonnement 1</string>
   <string name="subtwo">Abonnement 2</string>
   <string name="sum_carrier_select">Sélectionner un opérateur réseau</string>
@@ -1067,8 +1067,8 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="username_title">Nom d\'utilisateur</string>
   <string name="ussdRunning">Exécution du code USSD...</string>
   <string name="vibrate_on_ring_title">Mode Vibreur lorsque le tél. sonne</string>
-  <string name="vm_change_failed">""Impossible de modifier le numéro de la messagerie vocale.
-Veuillez contacter votre opérateur si le problème persiste.""</string>
+  <string name="vm_change_failed">"Impossible de modifier le numéro de la messagerie vocale.
+Veuillez contacter votre opérateur si le problème persiste."</string>
   <string name="vm_changed">Le numéro de messagerie vocale a été modifié.</string>
   <string name="voice_privacy">Confidentialité voix</string>
   <string name="voice_privacy_miui">Confidentialité vocale</string>

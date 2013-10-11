@@ -4,7 +4,7 @@
   <string name="access_token_expired_warning">Votre compte Weibo a expiré, veuillez le rattacher</string>
   <string name="access_token_invalid_warning">Votre compte Weibo est invalide, veuillez le rattacher</string>
   <string name="account">Compte</string>
-  <string name="account_detail">Compte Xiaomi: %1$s</string>
+  <string name="account_detail">Compte Xiaomi : %1$s</string>
   <string name="account_dspt">"Les comptes Xiaomi permettent de synchroniser et sauvegarder vos messages, contacts, photos, etc."</string>
   <string name="account_hint_text">Mail/Numéro de téléphone</string>
   <string name="account_name">Compte : %1$s</string>
@@ -23,7 +23,7 @@
   <string name="bankcall_bank_account">Carte bancaire :</string>
   <string name="bankcall_call_hint">"Vous allez recevoir une demande de règlement d'Union (020-96585). Veuillez suivre les instructions pour compléter la transaction."</string>
   <string name="bankcall_card">Carte bancaire</string>
-  <string name="bankcall_card_hint">Veuillez entrer votre numéro de compte bancaire</string>
+  <string name="bankcall_card_hint">Entrez votre numéro de carte</string>
   <string name="bankcall_card_type">%1$s-%2$s</string>
   <string name="bankcall_card_type_tailnum">%1$s-%2$s (Carte # %3$s)</string>
   <string name="bankcall_city">Ville</string>
@@ -33,8 +33,8 @@
   <string name="bankcall_denom_number">%1$s RMB</string>
   <string name="bankcall_error_card">Veuillez entrer un numéro de compte bancaire valide</string>
   <string name="bankcall_error_card_info">Veuillez entrer des informations de compte bancaire valides</string>
-  <string name="bankcall_hint">\"Ce service est autorisé par Unionpay et 
-a plusieurs encodages pour assurer votre sécurité financière\"</string>
+  <string name="bankcall_hint">"Ce service est autorisé par Unionpay et 
+a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="bankcall_id_card">Carte d\'identité</string>
   <string name="bankcall_id_card_hint">"Carte d'identité correspondant au compte bancaire"</string>
   <string name="bankcall_merchant">Récepteur :</string>
@@ -51,7 +51,7 @@ a plusieurs encodages pour assurer votre sécurité financière\"</string>
   <string name="bind_weibo_description">Trouver les contacts téléphoniques, amis et d\'autres informations directement à partir de votre compte</string>
   <string name="binded">Associé</string>
   <string name="btn_activate">Activer</string>
-  <string name="btn_back">Arrière</string>
+  <string name="btn_back">Retour</string>
   <string name="btn_call">Appelez le support technique</string>
   <string name="btn_count_down_auto">%1$s secondes</string>
   <string name="btn_count_down_wait">%1$s secondes d\'attente</string>
@@ -120,17 +120,17 @@ a plusieurs encodages pour assurer votre sécurité financière\"</string>
   <string name="error_server_summary">Erreur du serveur, veuillez réessayer plus tard</string>
   <string name="error_server_title">Erreur de serveur</string>
   <string name="error_sim_not_ready">Carte SIM non prête</string>
-  <string name="error_too_frequent_visits_summary">\"Vous essayez de visiter trop souvent. 
-Veuillez réessayer après cinq minutes\"</string>
+  <string name="error_too_frequent_visits_summary">"Vous essayez de visiter trop souvent. 
+Veuillez réessayer après cinq minutes"</string>
   <string name="error_too_frequent_visits_title">Avertissement !</string>
-  <string name="error_unknown">Erreur inconnue: %1$s</string>
+  <string name="error_unknown">Erreur inconnue : %1$s</string>
   <string name="error_user_id_mismatch_summary">Veuillez vérifier les détails de votre compte et essayer à nouveau</string>
   <string name="error_user_id_mismatch_title">Erreur d\'authentification !</string>
   <string name="error_verify_summary">L\'Application n\'a pas l\'autorisation de solliciter le service</string>
   <string name="error_verify_title">Pas de permission</string>
   <string name="failed_to_send_activate_email">Impossible d\'envoyer un mail d\'activation</string>
   <string name="fee">%1$s MiCredits</string>
-  <string name="find_device">Tracer le périphérique</string>
+  <string name="find_device">Localiser l\'appareil</string>
   <string name="find_device_check_phone_error_title">Impossible d\'activer la localisation de l\'appareil</string>
   <string name="find_device_disabled_notice">"Vous pouvez la rouvrir via Paramètres - Synchronisation de comptes - Compte Xiaomi"</string>
   <string name="find_device_disabled_title">Localisation de l\'appareil désactivée</string>
@@ -151,19 +151,19 @@ Veuillez réessayer après cinq minutes\"</string>
   <string name="giftcard_denom_available">MiCredit(s) disponibles</string>
   <string name="giftcard_denom_frozen">MiCredit(s) gelés</string>
   <string name="giftcard_empty">Pas de carte-cadeau</string>
-  <string name="giftcard_expire">%1$s-%2$s-%3$s expiré</string>
-  <string name="giftcard_hint">\"MiCredits en carte-cadeau dépensés en premier
-et ne peuvent être utilisés si expirés\"</string>
+  <string name="giftcard_expire">Expire le %3$s-%2$s-%1$s </string>
+  <string name="giftcard_hint">"MiCredits en carte-cadeau dépensés en premier
+et ne peuvent être utilisés si expirés"</string>
   <string name="giftcard_record">MiCredit reçus</string>
-  <string name="giftcard_value">(%1$s MiCredit carte-cadeau)</string>
+  <string name="giftcard_value">" (%1$s MiCredit carte-cadeau)"</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Saisissez le mot de passe</string>
   <string name="int_phone_user_notice">Lors de l\'enregistrement d\'un numéro hors de Chine veuillez entrer votre code de pays, par exemple +33xxxxxxxxx</string>
   <string name="internet_comm">Services de messagerie</string>
   <string name="internet_message">Messagerie MiCloud</string>
-  <string name="label_order_name">Nom du produit : </string>
-  <string name="label_order_price">Quantité : </string>
+  <string name="label_order_name">"Nom du produit : "</string>
+  <string name="label_order_price">"Quantité : "</string>
   <string name="login">Se connecter</string>
   <string name="login_failed">Échec de la connexion</string>
   <string name="login_instead_reg">Connexion avec ce numéro de téléphone</string>
@@ -173,7 +173,7 @@ et ne peuvent être utilisés si expirés\"</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation de MiCredit</string>
   <string name="mibi_license_title">Contrat d\'utilisation de MiCredit</string>
   <string name="micloud_account">Compte Xiaomi</string>
-  <string name="micloud_account_label">Compte: %1$s</string>
+  <string name="micloud_account_label">Compte : %1$s</string>
   <string name="micloud_account_name">Compte Xiaomi</string>
   <string name="micloud_account_not_actived">Compte non activé</string>
   <string name="micloud_activate_account_fail_notify_title">Échec de l\'activation de votre compte Xiaomi</string>
@@ -186,8 +186,8 @@ et ne peuvent être utilisés si expirés\"</string>
   <string name="micloud_active_email_sent_1">Nous avons envoyé un lien d\'activation à votre adresse mail : </string>
   <string name="micloud_active_email_visit">Visitez %s</string>
   <string name="micloud_activing_account">Activation de votre compte</string>
-  <string name="micloud_activing_account_delayed">"\"Il faut probablement 30 secondes pour terminer l'activation. 
-Vous pouvez faire autre chose...\""</string>
+  <string name="micloud_activing_account_delayed">"Il faut probablement 30 secondes pour terminer l'activation. 
+Vous pouvez faire autre chose..."</string>
   <string name="micloud_activing_account_failed">Échec de l\'activation du compte</string>
   <string name="micloud_click_email">Cliquez sur le lien dans mail pour activer votre compte Xiaomi</string>
   <string name="micloud_click_email_to_valid">Cliquez sur le lien d\'activation dans le message envoyé à votre boîte de réception</string>
@@ -205,7 +205,7 @@ Vous pouvez faire autre chose...\""</string>
   <string name="micloud_intro_02_part_02">Les services cloud vous permettent de synchroniser vos contacts, messages, photos et autres données sur divers appareils mobiles.</string>
   <string name="micloud_intro_03_part_01">Ne perd jamais vos données et vous assure que vos contenus soient protégés</string>
   <string name="micloud_intro_03_part_02">Gère vos données et localise, verrouille ou efface le contenu de l\'appareil sur i.xiaomi.com.</string>
-  <string name="micloud_is_what">Qu\'est-ce que MiCloud?</string>
+  <string name="micloud_is_what">Qu\'est-ce que MiCloud ?</string>
   <string name="micloud_more">En apprendre plus</string>
   <string name="micloud_password_confirm_hint">Confirmer mot passe</string>
   <string name="micloud_password_error_inconsistent">Les mots de passe ne correspondent pas</string>
@@ -301,8 +301,8 @@ Vous pouvez faire autre chose...\""</string>
   <string name="progress_success_recharge_summary">Balance du compte : %1$s MiCredits</string>
   <string name="progress_success_recharge_title">Recharge de %1$s MiCredits effectuée</string>
   <string name="progress_voucher_creating">Mise à jour MiCredit...</string>
-  <string name="progress_warning_check">\"Pas encore mis à jour !  
-Nous vérifierons pour vous dans les deux jour ouvrables\"</string>
+  <string name="progress_warning_check">"Pas encore mis à jour !  
+Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt : 
 1. Contactez le service clientèle sur : %1$s 
 2. Fournir ce numéro de série : %2$s</string>

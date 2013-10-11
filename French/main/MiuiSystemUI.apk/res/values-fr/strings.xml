@@ -2,12 +2,12 @@
 <resources>
   <string name="accessibility_airplane_mode">Mode Avion</string>
   <string name="accessibility_back">Retour</string>
-  <string name="accessibility_battery_level">Batterie à %d pourcent</string>
+  <string name="accessibility_battery_level">Batterie à %d pour cent</string>
   <string name="accessibility_bluetooth_connected">Bluetooth connecté</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth déconnecté</string>
   <string name="accessibility_bluetooth_tether">Partage de connexion Bluetooth</string>
   <string name="accessibility_clear_all">Supprimer toutes les notifications</string>
-  <string name="accessibility_compatibility_zoom_button">Bouton \"Zoom de compatibilité\"</string>
+  <string name="accessibility_compatibility_zoom_button">Bouton "Zoom de compatibilité"</string>
   <string name="accessibility_compatibility_zoom_example">"Zoom de compatibilité avec la taille de l\'écran"</string>
   <string name="accessibility_data_connection_3.5g">3G+</string>
   <string name="accessibility_data_connection_3g">3G</string>
@@ -20,7 +20,7 @@
   <string name="accessibility_data_three_bars">Signal bon</string>
   <string name="accessibility_data_two_bars">Signal moyen</string>
   <string name="accessibility_home">Accueil</string>
-  <string name="accessibility_ime_switch_button">Bouton \"Changer le mode de saisie\"</string>
+  <string name="accessibility_ime_switch_button">Bouton "Changer le mode de saisie"</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">Aucun signal</string>
   <string name="accessibility_no_phone">Aucun signal</string>
@@ -32,7 +32,7 @@
   <string name="accessibility_phone_three_bars">Signal : bon</string>
   <string name="accessibility_phone_two_bars">Signal : moyen</string>
   <string name="accessibility_recent">Applications récentes</string>
-  <string name="accessibility_recents_item_dismissed">Application \"%s\" ignorée.</string>
+  <string name="accessibility_recents_item_dismissed">Application "%s" ignorée.</string>
   <string name="accessibility_remove_notification">Supprimer la notification</string>
   <string name="accessibility_ringer_silent">Sonnerie en mode silencieux</string>
   <string name="accessibility_ringer_vibrate">Sonnerie en mode vibreur</string>
@@ -72,9 +72,9 @@
   <string name="compat_mode_help_header">Zoom de compatibilité</string>
   <string name="compat_mode_off">"Étirer pour remplir l\'écran"</string>
   <string name="compat_mode_on">"Zoomer pour remplir l\'écran"</string>
-  <string name="data_usage_disabled_dialog">\"Vous avez atteint le plafond de consommation de données spécifié.
+  <string name="data_usage_disabled_dialog">"Vous avez atteint le plafond de consommation de données spécifié.
 
-Si vous utilisez des données supplémentaires, celles-ci pourront être facturées par l\'opérateur.\"</string>
+Si vous utilisez des données supplémentaires, celles-ci pourront être facturées par l\'opérateur."</string>
   <string name="data_usage_disabled_dialog_3g_title">Données 2G-3G désactivées</string>
   <string name="data_usage_disabled_dialog_4g_title">Données 4G désactivées</string>
   <string name="data_usage_disabled_dialog_enable">Réactiver connexion données</string>
@@ -93,7 +93,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="ext_media_badremoval_notification_title">La carte SD a été retirée de façon inattendue</string>
   <string name="ext_media_checking_notification_message">Vérification des erreurs.</string>
   <string name="ext_media_checking_notification_title">Préparation de la carte SD</string>
-  <string name="ext_media_mountable_notification_message">Ouvrir un média externe via l\'Explorateur de fichiers</string>
+  <string name="ext_media_mountable_notification_message">Ouvrir un média externe via l\'explorateur de fichiers</string>
   <string name="ext_media_mountable_notification_title">Stockage USB connecté</string>
   <string name="ext_media_nofs_notification_message">La carte SD est vide ou a un système de fichiers non supporté.</string>
   <string name="ext_media_nofs_notification_title">Carte SD vierge</string>
@@ -104,7 +104,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="ext_media_safe_unmount_notification_title">La carte SD peut être retirée en toute sécurité</string>
   <string name="ext_media_unmountable_notification_message">Carte SD endommagée. Vous devriez peut-être la formater.</string>
   <string name="ext_media_unmountable_notification_title">Carte SD endommagée</string>
-  <string name="filter_item_description">\"Paramètres-Paramètres de la barre d\'état-Notifications personnalisées\" pour définir le type de notification des applications</string> 
+  <string name="filter_item_description">"Paramètres-Paramètres de la barre d\'état-Notifications personnalisées" pour définir le type de notification des applications</string> 
   <string name="filter_item_preview_image">Aperçu</string>
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Position définie par GPS</string>
@@ -162,7 +162,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="notifications_off_title">Notifications désactivées</string>
   <string name="recent_apps_key">Touche des applications récentes</string>
   <string name="recent_apps_key_show">Afficher la touche des applications récentes</string>
-  <string name="return_to_incall_screen">Appuyez pour revenir à l\'appel</string>
+  <string name="return_to_incall_screen">Cliquez pour revenir à l\'appel</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
   <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
   <string name="screen_button_enabled_message">Les touches du bas de l\'écran sont activées</string>
@@ -179,7 +179,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screenshot_saving_ticker">Enregistrement de la capture d\'écran...</string>
   <string name="screenshot_saving_title">Enregistrement de la capture d\'écran...</string>
   <string name="settings_all_app_display_loading">Chargement, veuillez patienter...</string> 
-  <string name="settings_custom_notification">Notifications personnalisées</string>
+  <string name="settings_custom_notification">Notification personnalisée</string>
   <string name="settings_expandable_under_fullscreen">Extensible en plein écran</string>
   <string name="settings_expandable_under_fullscreen_summary">En glissant vers le bas à partir du haut de l\'écran</string>
   <string name="settings_expandable_under_keyguard">Extensible sous écran de verr.</string>
@@ -190,11 +190,11 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="settings_screenshot_notification_disabled">Aff. infos. de capture d\'écran</string>
   <string name="settings_show_flow_info">Afficher infos. du trafic</string>
   <string name="settings_show_network_speed">Afficher la vitesse du réseau</string>
-  <string name="settings_show_notificationBar_notification">Afficher les notifications de la barre de notification</string> 
-  <string name="settings_show_statusBar_notification">"Afficher les notifications de la barre d\'état"</string> 
-  <string name="settings_status_bar">"Barre d\'état"</string>
+  <string name="settings_show_notificationBar_notification">Afficher notifs de la barre de notification</string> 
+  <string name="settings_show_statusBar_notification">"Afficher notifs de la barre d'état"</string> 
+  <string name="settings_status_bar">"Barre d'état"</string>
   <string name="settings_toggle">Raccourcis</string>
-  <string name="settings_toggle_collapse_after_clicked">Réduire après un clic</string>
+  <string name="settings_toggle_collapse_after_clicked">Réduire après un appui</string>
   <string name="settings_toggle_layout_style">Style des commutateurs</string>
   <string name="settings_toggle_layout_style_applying">Modification du style des commutateurs...</string>
   <string name="settings_toggle_layout_style_compact">Compact</string>
@@ -219,7 +219,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_recent_inspect_item_title">"Informations sur l\'application"</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
   <string name="status_bar_recent_remove_item_title">Supprimer de la liste</string>
-  <string name="status_bar_recording_back">Cliquer pour retourner au dictaphone</string>
+  <string name="status_bar_recording_back">Appuyez pour retourner au dictaphone</string>
   <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause. "</string>
   <string name="status_bar_settings_airplane">Mode Avion</string>
   <string name="status_bar_settings_auto_brightness_label">Auto</string>
@@ -270,7 +270,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="tab_toggles_lable">Raccourcis</string>
   <string name="title_usb_accessory">Accessoire USB</string>
   <string name="toast_rotation_locked">Écran verrouillé en orientation paysage</string>
-  <string name="torch_activity_hint">Vous pouvez allumer la torche en maintenant la touche Accueil sous écran de verrouillage</string>
+  <string name="torch_activity_hint">Vous pouvez allumer la torche en maintenant la touche [icon] quand l\'écran est verrouillé</string>
   <string name="torch_activity_name">Torche</string>
   <string name="usb_accessory_confirm_prompt">Ouvrir %1$s lors de la connexion de cet accessoire USB ?</string>
   <string name="usb_accessory_permission_prompt">"Autoriser l\'application %1$s à accéder à l\'accessoire USB ?"</string>
@@ -295,12 +295,12 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="usb_storage_message">Vous êtes connecté à votre ordinateur par l\'USB. Appuyer sur le bouton ci-dessous si vous souhaitez copier des fichiers entre votre ordinateur et la mémoire de stockage USB de votre appareil Android.</string>
   <string name="usb_storage_notification_message">Sélectionnez cette option pour copier des fichiers vers/depuis votre ordinateur.</string>
   <string name="usb_storage_notification_title">Périphérique USB connecté</string>
-  <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, assurez-vous de bien avoir arrêté (\"Éjecté\") le périphérique USB visible de votre ordinateur.</string>
+  <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, assurez-vous de bien avoir arrêté ("Éjecté") le périphérique USB visible de votre ordinateur.</string>
   <string name="usb_storage_stop_notification_message">Sélectionnez cette option pour éjecter le périphérique USB.</string>
   <string name="usb_storage_stop_notification_title">Éjecter le périphérique USB</string>
   <string name="usb_storage_stop_title">Le périphérique de stockage USB est en cours d\'utilisation</string>
   <string name="usb_storage_title">Périphérique USB connecté</string>
   <string name="user_guide_for_notification">Lors de la réception d\'une notification, vous pouvez faire glisser la barre d\'état vers le bas pour voir le détail</string>
   <string name="user_guide_for_toggle">La liste d\'activation peut défiler horizontalement</string>
-  <string name="user_guide_for_toggle_list">Cliquer ici pour modifier les paramètres d\'activation/désactivation</string>
+  <string name="user_guide_for_toggle_list">Appuyez ici pour modifier les paramètres d\'activation/désactivation</string>
 </resources>

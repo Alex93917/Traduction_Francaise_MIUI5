@@ -22,7 +22,7 @@
   <string name="adding_recipients">Ajout de destinataires...</string>
   <string name="album_member">Membre de l\'album %s</string>
   <string name="album_name">Nom de l\'album</string>
-  <string name="album_quota_fulfiled">"Impossible de créer l'album; le nombre d'album a atteint la limite.."</string>
+  <string name="album_quota_fulfiled">"Impossible de créer l'album; le nombre d'albums a atteint la limite..."</string>
   <string name="album_share_exit_confirm">Êtes-vous certain de vouloir quitter l\'album partagé ?</string>
   <string name="album_share_kicked">Vous avez été retiré de %1$s</string>
   <string name="album_share_stat_content">Nouvelles invitations de partage d\'albums</string>
@@ -38,7 +38,7 @@
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Avis d\'information</string>
   <string name="alert_message_initial_cloud">Le système va automatiquement télécharger les anciennes et nouvelles photos ainsi que les captures d\'écran seulement lorsqu\'il y a une connexion Wi-Fi.</string>
-  <string name="alert_message_open_sync">Sync est requis, souhaitez-vous ouvrir Sync maintenant?</string>
+  <string name="alert_message_open_sync">Sync est requis, souhaitez-vous ouvrir Sync maintenant ?</string>
   <string name="already_apply_album">Ouvrir %1$s ?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Fond d\'écran Android</string>
@@ -90,12 +90,12 @@
   <string name="cloud_be_shared_guide_title">Cet album a été partagé par un ami</string>
   <string name="cloud_camera_display_name">Non trié</string>
   <string name="cloud_gallery_no_pictures">Aucune image trouvée dans MiCloud</string>
-  <string name="cloud_gallery_recyclebin_full">Corbeille MiCloud pleine, veuillez vider la corbeille sur i.xiaomi.com.</string>
+  <string name="cloud_gallery_recyclebin_full">Corbeille MiCloud pleine, veuillez la vider sur i.xiaomi.com.</string>
   <string name="cloud_gallery_space_full">Échec de l\'envoi ! Mémoire de la galerie MiCloud pleine</string>
   <string name="cloud_media_set_set">Albums MiCloud</string>
   <string name="cloud_owner_album_share_guide">Vous pouvez partager cet album avec des amis</string>
   <string name="cloud_screenshots_display_name">Captures d\'écran</string>
-  <string name="cloud_share_guide_message">\"Vous pouvez partager votre album MiCloud avec des amis.\"</string>
+  <string name="cloud_share_guide_message">"Vous pouvez partager votre album MiCloud avec des amis."</string>
   <string name="cloud_share_guide_title">Partage MiCloud !</string>
   <string name="cloud_tab_albums">Albums</string>
   <string name="cloud_tab_all">Tout</string>
@@ -140,8 +140,8 @@
   <string name="delete">Supprimer</string>
   <string name="delete_fail_too_many_items">Échec de la suppression, trop d\'éléments sélectionnés</string>
   <string name="delete_file">Êtes-vous sur de vouloir supprimer %1$d fichier(s) sélectionné(s) ?</string>
-  <string name="delete_files_and_folders">Êtes-vous sur de vouloir supprimer %1$d fichier(s) et %2$d dossier(s) sélectionnés?</string>
-  <string name="delete_folder">Êtes-vous sur de vouloir supprimer %1$d dossier(s) sélectionné(s)?</string>
+  <string name="delete_files_and_folders">Êtes-vous sur de vouloir supprimer %1$d fichier(s) et %2$d dossier(s) sélectionnés ?</string>
+  <string name="delete_folder">Êtes-vous sur de vouloir supprimer %1$d dossier(s) sélectionné(s) ?</string>
   <string name="deleting_files">Suppression des fichiers...</string>
   <string name="demo_video_folder_display_name">Vidéo de démo</string>
   <string name="deny">Rejeter</string>
@@ -171,7 +171,7 @@
   <string name="error_should_not_select_image">Attention : veuillez ne pas sélectionner un fichier image.</string>
   <string name="error_should_not_select_video">Attention : veuillez ne pas sélectionner un fichier vidéo.</string>
   <string name="error_socket_timeout">Délai d\'attente réseau écoulé, veuillez réessayer plus tard</string>
-  <string name="error_unknown_host">Le nom d\'hôte est inconnu, veuillez vérifier votre connexion réseau !</string>
+  <string name="error_unknown_host">Le nom d\'hôte est inconnu, veuillez vérifier votre connexion réseau.</string>
   <string name="exit">Quitter</string>
   <string name="exit_share">Quitter l\'album</string>
   <string name="exit_share_failed">La sortie de l\'album %1$s a échoué</string>
@@ -301,7 +301,7 @@
   <string name="open_public_title">Partager publiquement</string>
   <string name="open_single_image_failure">Impossible d\'ouvrir le fichier image !</string>
   <string name="open_sync_title">Sync requis</string>
-  <string name="operation_delete_confirm_message_folder">\"Les dossiers et fichiers seront supprimés en même temps.</string>
+  <string name="operation_delete_confirm_message_folder">Les dossiers et fichiers seront supprimés en même temps.</string>
   <string name="operation_failed">L\'opération a échoué !</string>
   <string name="operation_in_process">Traitement en cours...</string>
   <string name="operation_refresh">Actualiser</string>
@@ -309,7 +309,7 @@
   <string name="operation_set_as_screensaver">Définir comme écran de veille</string>
   <string name="operation_share">Partager</string>
   <string name="operation_successful">Partagé avec succès !</string>
-  <string name="operation_too_often">L\'opération à excédée la limite de fréquence, veuillez réessayer après 1 minute.</string>
+  <string name="operation_too_often">L\'opération excède la limite de fréquence, veuillez réessayer après 1 minute.</string>
   <string name="operation_unset_as_screensaver">Annuler l\'écran de veille</string>
   <string name="orientation">Orientation</string>
   <string name="other_category">Autres paramètres</string>
@@ -340,8 +340,8 @@
   <string name="remove_recent_album">Supprimer des albums favoris</string>
   <string name="rename_failed">Échec du renommage</string>
   <string name="renren_image">RenRen</string>
-  <string name="request_qr_code">Demande du code QR, veuillez patienter...</string>
-  <string name="request_qr_code_failed">La demande du code QR a échoué, appuyez pour réessayer</string>
+  <string name="request_qr_code">Demande de code QR, veuillez patienter...</string>
+  <string name="request_qr_code_failed">La demande de code QR a échoué, appuyez pour réessayer</string>
   <string name="request_sms_url_failed">Échec de la requête URL pour le partage via SMS</string>
   <string name="request_sms_url_msg">Requête URL pour le partage via SMS, veuillez patienter...</string>
   <string name="request_sms_url_title">Indice</string>
@@ -366,7 +366,7 @@
   <string name="screensaver_activate_only_charging">Activer l\'écran de veille uniquement pendant la charge</string>
   <string name="screensaver_category">Écran de veille</string>
   <string name="screensaver_no_data">Pas d\'image dans l\'album.</string>
-  <string name="screensaver_path">Album d\'écran de veille :</string>
+  <string name="screensaver_path">"Album d\'écran de veille : "</string>
   <string name="screensaver_path_not_set">Non défini</string>
   <string name="sd_not_available">Carte SD non montée ou indisponible</string>
   <string name="seconds">secondes</string>
@@ -443,7 +443,7 @@
   <string name="sync_album_summary">Envoyer vos photos et captures d\'écran sur MiCloud.</string>
   <string name="sync_history_power_on">Synchroniser lors de la charge</string>
   <string name="sync_only_in_wifi">Wi-Fi uniquement</string>
-  <string name="sync_only_in_wifi_alert">Éteindre uniquement l\'envoi en Wi-Fi peut consommer beaucoup de trafic réseau; êtes-vous sûr de vouloir l\'éteindre ?</string>
+  <string name="sync_only_in_wifi_alert">Désactiver l\'envoi en Wi-Fi uniquement peut consommer plus de trafic réseau; êtes-vous sûr de vouloir le désactiver ?</string>
   <string name="sync_only_in_wifi_summary">Il est recommandé de l\'activer pour éviter une consommation de trafic réseau.</string>
   <string name="system_album">Album système</string>
   <string name="tab_all_text">Les deux</string>
@@ -472,8 +472,8 @@
   <string name="untagged">Aucun tag</string>
   <string name="user_alias_self">Soi</string>
   <string name="video_err">"Impossible de lire la vidéo."</string>
-  <string name="view_sharers">Afficher les partageants</string>
-  <string name="vignette">Vignetage</string>
+  <string name="view_sharers">Afficher les partageurs</string>
+  <string name="vignette">Vignette</string>
   <string name="wallpaper">Fond d\'écran</string>
   <string name="warn">Attention</string>
   <string name="weikan_weikan">Weikan TV</string>
