@@ -2599,4 +2599,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="zone_auto_summaryOn">Utiliser le fuseau horaire fourni par le réseau</string>
   <string name="zone_list_menu_sort_alphabetically">Trier par ordre alphabétique</string>
   <string name="zone_list_menu_sort_by_timezone">Trier par fuseau horaire</string>
+  <string name="line_breaking_title">Optimisation des paragraphes de textes</string>
+  <string name="line_breaking_summary">Optimiser l'affichage des paragraphes avec un alinéa</string>
 </resources>
