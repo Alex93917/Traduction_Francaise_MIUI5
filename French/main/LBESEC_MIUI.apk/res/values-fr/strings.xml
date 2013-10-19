@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Dashboard_App">Applications</string>
-  <string name="Dashboard_HIPS_Disable_Content">Désactiver ceci diminue votre sécurité, cela provoquera l\'arrêt du suivi de vos application et de la protection de votre confidentialité par MIUI. Êtes-vous sûr de vouloir le désactiver?</string>
+  <string name="Dashboard_HIPS_Disable_Content">Désactiver ceci diminue votre sécurité, cela provoquera l\'arrêt du suivi de vos application et de la protection de votre confidentialité par MIUI. Êtes-vous sûr de vouloir le désactiver ?</string>
   <string name="Dashboard_HIPS_Disable_Title">LBE Guard</string>
   <string name="Dashboard_Log">Journal</string>
   <string name="Dashboard_Log_Clear_Content">L\ensemble du journal sera effacé. Êtes-vous sûr de vouloir continuer ?</string>
@@ -29,7 +29,7 @@
   <string name="Dashboard_Perm_SU_Switch">Permission ROOT</string>
   <string name="Dashboard_Su_Enable_Content">Activer ceci permettra aux applications de demander la permission ROOT. Des applications ayant ces permissions pourraient causer l\'instabilité du système, voire la perte de vos données ou des dégâts matériels. En êtes-vous sûr ?</string>
   <string name="Dashboard_Su_Enable_Title">Permission ROOT</string>
-  <string name="Generic_Canceling">Annulation en cours...</string>
+  <string name="Generic_Canceling">Annulation en cours…</string>
   <string name="Generic_Check">Vérifier</string>
   <string name="Generic_Clean">Nettoyer</string>
   <string name="Generic_Configuration">Paramètres</string>
@@ -39,9 +39,9 @@
   <string name="Generic_Good">Correct</string>
   <string name="Generic_HideSystemApp">Masquer le système d\'applications</string>
   <string name="Generic_InvalidInput">Entrée non valide</string>
-  <string name="Generic_Loading">Chargement...</string>
+  <string name="Generic_Loading">Chargement…</string>
   <string name="Generic_MonitoredApp">Applications surveillées (%1$d)</string>
-  <string name="Generic_Operating">En cours...</string>
+  <string name="Generic_Operating">En cours…</string>
   <string name="Generic_Optimize">Optimiser</string>
   <string name="Generic_Service_Disabled">Le service est désactivé</string>
   <string name="Generic_Service_Enabled">Le service est activé</string>
@@ -54,15 +54,15 @@
   <string name="Generic_TrustedApp">Applications de confiance (%1$d)</string>
   <string name="Generic_Update">Mise à jour logicielle</string>
   <string name="Generic_UserApp">Applications téléchargées (%d)</string>
-  <string name="Generic_Version">Version: %1$s</string>
+  <string name="Generic_Version">Version : %1$s</string>
   <string name="HIPS_Action_Accept">Autoriser</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Autoriser&lt;/font&gt;</string>
-  <string name="HIPS_Action_Accept_Count">Autorisé: %1$d</string>
+  <string name="HIPS_Action_Accept_Count">Autorisé : %1$d</string>
   <string name="HIPS_Action_Prompt">Demander</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Demander&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Refuser</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Refuser&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject_Count">Refusé: %1$d</string>
+  <string name="HIPS_Action_Reject_Count">Refusé : %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Confidentialité</string>
   <string name="HIPS_Group_Expense">Sécurité</string>
   <string name="HIPS_Group_Internet">Accès Internet</string>
@@ -103,9 +103,9 @@
   <string name="HIPS_Perm_Location_Desc">Localiser votre téléphone par le biais du réseau ou du GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s applications ont la permission de localiser votre téléphone</string>
   <string name="HIPS_Perm_Location_Monitor">Suivre votre position</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Source: Réseau cellulaire</string>
-  <string name="HIPS_Perm_Location_Source_GPS">Source: GPS</string>
-  <string name="HIPS_Perm_Location_Source_Network">Source: Réseau</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">Source : Réseau cellulaire</string>
+  <string name="HIPS_Perm_Location_Source_GPS">Source : GPS</string>
+  <string name="HIPS_Perm_Location_Source_Network">Source : Réseau</string>
   <string name="HIPS_Perm_MobileNetwork">Réseau mobile</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Accéder à Internet via le réseau mobile</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s applications ont la permission d\'accéder à Internet</string>
@@ -141,9 +141,9 @@
   <string name="HIPS_Perm_SendSMS_Data">envoyer un SMS à %1$s:%2$d</string>
   <string name="HIPS_Perm_SendSMS_Desc">Envoyer un SMS directement</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s applications ont la permission d\'envoyer des SMS</string>
-  <string name="HIPS_Perm_SendSMS_Port">Port de destination:</string>
-  <string name="HIPS_Perm_SendSMS_Recipient">Destinataire:</string>
-  <string name="HIPS_Perm_SendSMS_SMSC">Centre SMS:</string>
+  <string name="HIPS_Perm_SendSMS_Port">Port de destination :</string>
+  <string name="HIPS_Perm_SendSMS_Recipient">Destinataire :</string>
+  <string name="HIPS_Perm_SendSMS_SMSC">Centre SMS :</string>
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Centre SMS par défaut</string>
   <string name="HIPS_Perm_SendSMS_Text">envoyer un SMS à %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">Couper la sonnerie</string>
@@ -177,7 +177,7 @@
   <string name="Privacy_App_Trust_Summary_Off">MIUI ne surveillera pas cette application</string>
   <string name="Privacy_App_Trust_Summary_On">MIUI aura confiance en cette application</string>
   <string name="Privacy_App_Uninstall">Désinstaller</string>
-  <string name="Privacy_Perm_Count">Autorisé: %1$d Refusé: %2$d</string>
+  <string name="Privacy_Perm_Count">Autorisé : %1$d Refusé : %2$d</string>
   <string name="Su_Enable_Dialog">%1$s tente d\'obtenir la permission ROOT qui est désactivée par défaut pour assurer la sécurité du système. Si vous avez besoin de l\'activer, veuillez aller dans les paramètres puis dans la gestion des permissions.</string>
   <string name="Su_Unavailable">La Permission ROOT est désactivée dans la version stable de MIUI. Veuillez installer une version BETA de MIUI pour activer la permission ROOT.</string>
   <string name="SysOpt_Boost_AutoStart">Permission de démarrage automatique</string>

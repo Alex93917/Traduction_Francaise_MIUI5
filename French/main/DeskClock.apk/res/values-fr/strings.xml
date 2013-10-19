@@ -37,7 +37,7 @@
   <string name="common_settings">Paramètres généraux</string>
   <string name="confirm_abort">Confirmer</string>
   <string name="control_set_alarm">Régler l\'alarme</string>
-  <string name="control_set_alarm_with_existing">Alarme définie: %s</string>
+  <string name="control_set_alarm_with_existing">Alarme définie : %s</string>
   <string name="day">1 jour</string>
   <string name="day_concat">", "</string>
   <string name="days">%s jours</string>
@@ -74,7 +74,7 @@
   <string name="legal_workday_invalidate">Données expirées (Actuellement l\'alarme sonne de lun. à ven.)</string>
   <string name="legal_workday_invalidate_message">(Données expirées, mettre à jour dans les Paramètres)</string>
   <string name="legal_workday_message">(Alarme désactivée pendant les vacances)</string>
-  <string name="loading_ringtone">Chargement de la sonnerie...</string>
+  <string name="loading_ringtone">Chargement de la sonnerie…</string>
   <string name="menu_add_worldclock">Nouveau fuseau</string>
   <string name="menu_alarmclock_edit">Éditer les alarmes</string>
   <string name="menu_delete">Supprimer</string>

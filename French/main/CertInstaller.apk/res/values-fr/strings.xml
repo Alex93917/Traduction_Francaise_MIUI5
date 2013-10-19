@@ -3,7 +3,7 @@
     <string name="app_name">"Programme d'installation du certificat"</string>
     <string name="pick_file_title">Sélectionnez un certificat</string>
     <string name="pkcs12_password_dialog_title">Extraire le certificat</string>
-    <string name="extracting_pkcs12">Extraction en cours...</string>
+    <string name="extracting_pkcs12">Extraction en cours…</string>
     <string name="pkcs12_file_password_dialog_title">Extraire de %s</string>
     <string name="name_credential_dialog_title">Attribuer un nom au certificat</string>
     <string name="credential_name">Nom du certificat :</string>
@@ -18,7 +18,7 @@
     <string name="password_empty_error">Veuillez saisir le mot de passe.</string>
     <string name="name_empty_error">Veuillez saisir un nom.</string>
     <string name="name_char_error">Veuillez saisir un nom ne contenant que des lettres et des chiffres.</string>
-    <string name="storage_error">"Impossible d\'enregistrer le certificat. Veuillez appuyer sur \"OK\" pour réessayer."</string>
+    <string name="storage_error">"Impossible d\'enregistrer le certificat. Veuillez appuyer sur "OK" pour réessayer."</string>
     <string name="unable_to_save_cert">"Impossible d\'enregistrer le certificat. Le stockage des identifiants n\'est pas activé, ou il n\'est pas initialisé correctement."</string>
     <string name="cert_not_saved">"Le certificat n\'est pas installé."</string>
     <string name="no_cert_to_saved">Aucun certificat à installer.</string>

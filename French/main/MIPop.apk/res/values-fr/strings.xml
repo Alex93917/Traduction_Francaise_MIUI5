@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navibar">afficher</string>
+    <string name="app_name">MiPop</string>
+    <string name="full_screen">Navbar</string>
+    <string name="mipop_title">MiPop</string>
+    <string name="mipop_switch_title">MiPop</string>
+    <string name="mipop_switch_summary">MiPop activé，la barre de navigation pourra être remplacée</string>
+    <string name="mipop_fullscreen_title">Cacher la barre de navigation</string>
+    <string name="mipop_fullscreen_summary">"Une zone d'affichage plus grande sera disponible"</string>
+    <string name="widgetName">MiPop</string>
+    <string name="widgetText">MiPop</string>
+    <string name="fullscreenmode">Mode plein écran</string>
+    <string name="fullscreenmodeon">Cacher MiPop et la barre de navigation</string>
+    <string name="fullscreenmodeoff">Réafficher MiPop et la barre de navigation</string>
+    <string name="Save">Enregistrer</string>
+    <string name="Discard">Annuler</string>
+    <string name="Share">Partager</string>
+    <string name="SaveTO">Sauvegarde vers</string>
+    <string name="SaveFail">Sauvegarde echouée !</string>
+    <string name="runningFaceDetection">Veuillez patienter…</string>
+    <string name="power_off">Éteindre</string>
+    <string name="reboot">Redémarrer</string>
+    <string name="lock_screen">Écran de verrouillage</string>
+    <string name="screenshots">"Captures d'écran"</string>
+    <string name="volume">Volume</string>
+    <string name="mute">Muet</string>
+    <string name="no_support">Non supporté !</string>
+    <string name="fullScreem">Plein écran</string>
+    <string name="partScreem">"Partie de l'écran"</string>
+    <string name="mipop_first_key_title">Touche par défaut</string>
+    <string name="mipop_help_title">Aide</string>
+    <string name="help">AIDE</string>
+	<!-- reste help1, help2, help3 help4 à traduire, présent dans P188F04 & Nexus4 la version P188F04 à plus de strings -->
+</resources>
