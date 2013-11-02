@@ -12,10 +12,10 @@
   <string name="accessibility_button_goto">Atteindre</string>
   <string name="accessibility_button_larger">Plus grand</string>
   <string name="accessibility_button_more">Autres options</string>
-  <string name="accessibility_button_navscreen">Gestionnaire de page</string>
-  <string name="accessibility_button_newincognitotab">Nouvel onglet de navigation privée</string>
-  <string name="accessibility_button_newtab">Nouvel onglet</string>
-  <string name="accessibility_button_refresh">Rafraîchir</string>
+  <string name="accessibility_button_navscreen">Gestionnaire de pages</string>
+  <string name="accessibility_button_newincognitotab">Ouvrir un onglet de navigation privée</string>
+  <string name="accessibility_button_newtab">Ouvrir un nouvel onglet</string>
+  <string name="accessibility_button_refresh">Actualiser</string>
   <string name="accessibility_button_search">Rechercher</string>
   <string name="accessibility_button_smaller">Plus petit</string>
   <string name="accessibility_button_stop">Arrêter le chargement de la page</string>
@@ -28,7 +28,7 @@
   <string name="account">Compte</string>
   <string name="account_chooser_dialog_title">Choisir un compte</string>
   <string name="action">Se connecter</string>
-  <string name="add_bookmark">Ajouter aux favoris</string>
+  <string name="add_bookmark">Ajouter un favori</string>
   <string name="add_bookmark_short">Ajouter</string>
   <string name="add_folder">Créer un dossier</string>
   <string name="add_new_bookmark">Ajouter un favori</string>
@@ -39,6 +39,7 @@
   <string name="added_to_bookmarks">Ajouté aux favoris.</string>
   <string name="alert_tips">Le site que vous visitez présente un risque potentiel de sécurité, voulez-vous continuer ?</string>
   <string name="allow">Autoriser</string>
+  <string name="already_in_top_level">Favori déjà au plus haut niveau</string>
   <string name="app_new_version">Vous avez déjà téléchargé la dernière version</string>
   <string name="app_update_install">Nouvelle version téléchargée et prête pour l\'installation</string>
   <string name="application_name">Navigateur</string>
@@ -109,7 +110,7 @@
   <string name="clip_dialog_title">Ouvrir le lien copié ?</string>
   <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous les onglets ?</string>
   <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.fr</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_down_analytic_txt">Réduire</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -150,6 +151,8 @@
   <string name="delete_bookmark_warning">Supprimer le favori \"%s\" ?</string>
   <string name="delete_folder">Supprimer le dossier</string>
   <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
+  <string name="dialog_geolocation_reject">Masquer la position</string>
+  <string name="dialog_geolocation_share">Partager la position</string>
   <string name="disable_autofill">Désactiver la saisie automatique</string>
   <string name="disk_space_available">%1$s disponible</string>
   <string name="disk_space_selected">%1$s sélectionné</string>
@@ -158,7 +161,7 @@
   <string name="download">Télécharger</string>
   <string name="download_complete">Téléchargement terminé</string>
   <string name="download_default_path_txt">Définir comme chemin de téléchargement par défaut et ne plus me demander</string>
-  <string name="download_dialog_default_path_invalid">Chemin de téléchargement invalide, le chemin de téléchargement par défaut sera utilisé</string>
+  <string name="download_dialog_default_path_invalid">Chemin de téléchargement non valide, le chemin de téléchargement par défaut sera utilisé</string>
   <string name="download_dialog_file_length_hint_txt">Taille du fichier :</string>
   <string name="download_dialog_file_length_lessthan1kb">Moins de 1Ko</string>
   <string name="download_dialog_file_length_nolength_error_txt">Échec du calcul de la taille du fichier</string>
@@ -360,7 +363,7 @@
   <string name="pref_data_preload_title">Précharger les résultats de recherche</string>
   <string name="pref_data_preload_value_never_summary">Ne pas autoriser le navigateur à ouvrir des résultats sensibles en arrière-plan</string>
   <string name="pref_data_title">Gestion de la bande passante</string>
-  <string name="pref_default_text_encoding">Encodage du texte</string>
+  <string name="pref_default_text_encoding">Codage du texte</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
   <string name="pref_default_text_encoding_dialogtitle">Codage du texte</string>
   <string name="pref_default_zoom">Zoom par défaut</string>
@@ -410,7 +413,7 @@
   <string name="pref_images_preload_summary">" Autoriser le navigateur à précharger les images lorsque le serveur le supporte"</string>
   <string name="pref_images_preload_title">Préchargement d\'image</string>
   <string name="pref_images_preload_value_always_summary">Toujours autoriser le navigateur à précharger les images lorsque le serveur le supporte</string>
-  <string name="pref_images_preload_value_never_summary">Ne jamais autoriser le préchargemet d\'image</string>
+  <string name="pref_images_preload_value_never_summary">Ne jamais autoriser le préchargement d\'image</string>
   <string name="pref_images_preload_value_wifi_only_summary">Précharger les images uniquement en Wi-Fi</string>
   <string name="pref_inverted">Rendu inversé</string>
   <string name="pref_inverted_category">Rendu inversé de l\'écran</string>
@@ -494,14 +497,14 @@
   <string name="readmode_battery">Batterie </string>
   <string name="readmode_login">Connexion au compte</string>
   <string name="readmode_login_message">Les chapitres suivants requièrent de vous connecter avant de pouvoir les lire</string>
-  <string name="readmode_page_load_error">Échec du chargement de la page, veuillez appuyer sur Rafraîchir pour réessayer</string>
+  <string name="readmode_page_load_error">Échec du chargement de la page, veuillez appuyer sur Actualiser pour réessayer</string>
   <string name="readmode_page_loading">Chargement, veuillez patienter…</string>
   <string name="readmode_pay">S\'abonner au chapitre</string>
   <string name="readmode_pay_message">Les chapitres suivants nécessitent un abonnement avant de pouvoir les lire</string>
   <string name="readmode_reach_last_page">La dernière page a été atteinte</string>
   <string name="readmode_recommend">Voir les recommandés</string>
   <string name="readmode_recommend_message">"Vous avez lu toutes les sections de ce livre. Veuillez en choisir un autre."</string>
-  <string name="readmode_refresh">Rafraîchir</string>
+  <string name="readmode_refresh">Actualiser</string>
   <string name="readmodelist_bookmarks_to_show">Liste de lecture</string>
   <string name="recover">Récupérer</string>
   <string name="recover_from_crash">Continuer avec les dernière session de navigation</string>
@@ -591,12 +594,27 @@
   <string name="ua_switcher_desktop">Voir version ordinateur</string>
   <string name="uploads_disabled">Les transferts de fichiers sont désactivés.</string>
   <string name="url_copy_done">URL copiée</string>
-  <string name="url_hint">Rechercher ou entrer adresse</string>
+  <string name="url_hint">Rechercher ou saisir une URL</string>
   <string name="user_defined_webpage">Ajouter un lien</string>
   <string name="user_defined_webpage_title">Ajouter un lien sur page d\'accueil</string>
   <string name="username">Nom</string>
   <string name="view_certificate">Afficher le certificat</string>
   <string name="warning">Avertissement</string>
+  <string name="webapp_add_to_desktop">Ajouter sur l\'écran d\'accueil</string>
+  <string name="webapp_addtodeskpop_append">App. ajoutée sur l\'écran d\'accueil</string>
+  <!-- webapp_app_name à revoir? -->
+  <string name="webapp_app_name">Boutique Web MiMarket</string>
+  <string name="webapp_bottom_bar_addtodesk">Ajouter sur l\'écran d\'accueil</string>
+  <string name="webapp_bottom_bar_already_addtodesk">Déjà ajouté sur l\'écran d\'accueil</string>
+  <string name="webapp_bottom_bar_exit">Quitter</string>
+ <!--webapp_bottom_bar_hidebar & webapp_bottom_bar_showbar à revoir ? -->
+  <string name="webapp_bottom_bar_hidebar">Masquer la barre du bas</string>
+  <string name="webapp_bottom_bar_openbrowser">Ouvrir dans le navigateur</string>
+  <string name="webapp_bottom_bar_showbar">Afficher la barre du bas</string>
+  <string name="webapp_dialog_title">Ajouter l\'app. sur l\'écran d\'accueil</string>
+  <string name="webapp_splashview_loading">Chargement, veuillez attendre…</string>
+  <string name="webapp_web_forward">Suivant</string>
+  <string name="webapp_web_goback">Retour</string>
   <string name="website_settings_clear_all">Tout effacer</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Annuler</string>
   <string name="website_settings_clear_all_dialog_message">Supprimer toutes les données et les autorisations de localisation du site Web ?</string>
