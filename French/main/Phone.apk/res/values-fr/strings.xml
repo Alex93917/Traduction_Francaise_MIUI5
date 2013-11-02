@@ -89,12 +89,10 @@
   <string name="auto_record_scenario_enteries_always_miui">Enregistrement auto. pour tous les numéros</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Enregistrement auto. des numéros choisis</string>
   <string name="auto_record_scenario_title_miui">Mode d\'enregistrement automatique</string>
-  <string name="auto_record_unknown_miui">Numéros inconnus</string>
   <string name="auto_record_whitelist_miui">Configuration des numéros choisis</string>
   <string name="auto_record_whitelist_no_item_miui">Appuyez sur le bouton du bas pour ajouter des numéros d\'enregistrement automatique</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1 numéro</string>
   <string name="auto_record_whitelist_summary_miui">%d numéros</string>
-  <string name="auto_record_yellowpage_miui">Pages jaunes</string>
   <string name="auto_redial_pref_summary_miui">Recomposer automatiquement si la ligne est occupée</string>
   <string name="auto_redial_pref_title_miui">Recomposition automatique</string>
   <string name="auto_retry_mode_summary">Activer le mode Réessayer automatiquement</string>
@@ -247,7 +245,7 @@
   <string name="command_error_fdn_failure_miui">Cette opération n\'est pas autorisée lorsque la correction du numéro d\'appel est activée (FDN), réessayez après l\'avoir désactivée.</string>
   <string name="command_error_generic_failure_miui">Impossible de terminer cette opération, veuillez réessayer plus tard.</string>
   <string name="command_error_illegal_sim_or_me_miui">Échec de la sélection du réseau à cause d\'une mauvaise carte SIM/ME.</string>
-  <string name="command_error_invalid_response_miui">Réponse non valide du réseau, veuillez réessayer plus tard.</string>
+  <string name="command_error_invalid_response_miui">Réponse invalide du réseau, veuillez réessayer plus tard.</string>
   <string name="command_error_no_subscription_miui">Impossible de trouver l\'abonnement CDMA à partir de l\'emplacement spécifié.</string>
   <string name="command_error_op_denied_before_reg_miui">Cette opération n\'est pas autorisée avant que l\'appareil ne s\'enregistre sur le réseau.</string>
   <string name="command_error_op_denied_during_call_miui">Cette opération n\'est pas autorisée pendant un appel vocal, réessayez après que l\'appel soit terminé.</string>
@@ -301,7 +299,7 @@
   <string name="cw_title_miui">Appel en attente</string>
   <string name="data_connected_change">"Impossible de changer de réseau pendant que le service de données est en cours d'utilisation. Arrêtez le service de données et sélectionner un autre réseau disponible ?"</string>
   <string name="data_enable_summary">Activer l\'accès aux données sur le réseau mobile</string>
-  <string name="data_enabled">Données activées</string>
+  <string name="data_enabled">Activer les données</string>
   <string name="deact_all_sub_not_supported">La désactivation des deux abonnements n\'est pas pris en charge.</string>
   <string name="default_contacts_countrycode_hint_miui">Par exemple : 86</string>
   <string name="default_contacts_countrycode_miui">Code pays des contacts par défaut</string>
@@ -516,12 +514,12 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="invalidPin">Saisissez un code PIN comprenant 4 à 8 chiffres.</string>
   <string name="invalidPin2">Saisissez un code PIN2 comprenant 4 à 8 chiffres.</string>
   <string name="invalidPuk2">Saisissez une clé PUK2 à 8 chiffres.</string>
-  <string name="invalid_new_pin2_miui">Nouveau code PIN2 non valide, saisissez un code comportant de 4 à 8 chiffres.</string>
-  <string name="invalid_new_pin_miui">Nouveau code PIN non valide, saisissez un code comportant de 4 à 8 chiffres.</string>
-  <string name="invalid_pin2_miui">Code PIN2 non valide, saisissez un code comportant de 4 à 8 chiffres.</string>
-  <string name="invalid_pin_miui">Code PIN non valide, saisissez un code comportant de 4 à 8 chiffres.</string>
-  <string name="invalid_puk2_miui">Code PUK2 non valide, saisissez un code comportant de 4 à 8 chiffres.</string>
-  <string name="invalid_puk_miui">Code PUK non valide, saisissez un code comportant 8 chiffres.</string>
+  <string name="invalid_new_pin2_miui">Nouveau code PIN2 invalide, saisissez un code comportant de 4 à 8 chiffres.</string>
+  <string name="invalid_new_pin_miui">Nouveau code PIN invalide, saisissez un code comportant de 4 à 8 chiffres.</string>
+  <string name="invalid_pin2_miui">Code PIN2 invalide, saisissez un code comportant de 4 à 8 chiffres.</string>
+  <string name="invalid_pin_miui">Code PIN invalide, saisissez un code comportant de 4 à 8 chiffres.</string>
+  <string name="invalid_puk2_miui">Code PUK2 invalide, saisissez un code comportant de 4 à 8 chiffres.</string>
+  <string name="invalid_puk_miui">Code PUK invalide, saisissez un code comportant 8 chiffres.</string>
   <string name="ip_prefix_miui">Préfixe IP</string>
   <string name="ip_prefix_required_miui">Le préfixe IP est requis</string>
   <string name="ip_prefix_sum_miui">"Préfixe IP de l'opérateur : %s"</string>
@@ -764,14 +762,13 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="prefer_2g">Réseau 2G seulement</string>
   <string name="prefer_2g_summary">Économise la batterie</string>
   <string name="preference_category_ringtone">Sonnerie et vibreur</string>
-  <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré : CDMA/EvDo/GSM/WCDMA</string>
+  <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré : CDMA/EVDO/GSM/WCDMA</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Mode réseau préféré : CDMA/EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Mode réseau préféré : CDMA uniquement</string>
   <string name="preferred_network_mode_cdma_summary">Mode réseau préféré : CDMA</string>
   <string name="preferred_network_mode_dialogtitle">Mode réseau préféré</string>
   <string name="preferred_network_mode_evdo_only_summary">Mode réseau préféré : EvDo uniquement</string>
-  <!-- preferred_network_mode_global_summary string correcte ? a vérifier. -->
-  <string name="preferred_network_mode_global_summary">Mode réseau préféré : CDMA/EvDo/GSM/WCDMA</string>
+  <string name="preferred_network_mode_global_summary">Mode réseau préféré : CDMA/EVDO/GSM/WCDMA</string>
   <string name="preferred_network_mode_gsm_only_summary">Mode réseau préféré : GSM uniquement</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Mode réseau préféré : GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré : CDMA/LTE/EVDO</string>
@@ -864,7 +861,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="respond_via_sms_canned_response_4">"Je ne peux pas parler. On se rappelle ?"</string>
   <string name="respond_via_sms_canned_response_4_miui">"Je ne peux pas parler au téléphone, qu'y a-t-il ?"</string>
   <string name="respond_via_sms_confirmation_format">Message envoyé à %s.</string>
-  <string name="respond_via_sms_custom_message">Réponse personnalisée…</string>
+  <string name="respond_via_sms_custom_message">Message personnalisé</string>
   <string name="respond_via_sms_edittext_dialog_title">Réponse rapide</string>
   <string name="respond_via_sms_setting_title">Réponses rapides</string>
   <string name="respond_via_sms_setting_title_2">Modifier les réponses rapides</string>

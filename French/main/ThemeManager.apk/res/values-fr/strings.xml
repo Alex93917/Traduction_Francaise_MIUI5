@@ -45,7 +45,7 @@
   <string name="lockstyle_personal_settings">Personnalisation</string>
   <string name="long_ringtone_resource">Long</string>
   <string name="maml_component_customization_title">Paramètres des composants</string>
-  <string name="menu_refresh">Actualiser</string>
+  <string name="menu_refresh">Rafraîchir</string>
   <string name="mi_wallpaper">Fond d\'écran</string>
   <string name="online_no_network">Impossible de se connecter au réseau</string>
   <string name="online_search_hint">Recherche de ressources en ligne</string>
@@ -122,13 +122,12 @@
   <string name="resource_no_result">Aucun résultat</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">%1$s en ligne</string>
- <!-- resource_pack_confirm et resource_pack_warning à vérifier/Revoir ? -->
-  <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
- <!-- à traduire 
+<!-- à traduire 
+  <string name="resource_pack_confirm">You have already purchased %1$d items, but the current price is still better than individually purchasing left items, would you like to continue?</string>
   <string name="resource_pack_discount_info">%1$s Saved!</string>  Économisé(s?) ?
-  <string name="resource_pack_price_info">%1$s Original</string
- -->
-  <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restant, veuillez les acheter individuellement.</string>
+  <string name="resource_pack_price_info">%1$s Original</string>
+  <string name="resource_pack_warning">Warning! you have already purchased %1$d items, current price is no longer valid for left items, please purchase them individually.</string>
+-->
   <string name="resource_preview">Aperçu</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
@@ -156,7 +155,7 @@
   <string name="ringtone_volume_mute">La sonnerie est actuellement en mode silencieux.</string>
   <string name="sdcard_not_mounted_dialog_message">"Carte SD non disponible, veuillez en ajouter une."</string>
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
-  <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
+  <string name="selected_resource_file_invalid">Le fichier sélectionné est invalide.</string>
   <string name="short_ringtone_resource">Court(&lt;5s)</string>
   <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>
   <string name="theme_batch_has_update_text">%1$d nouvelle(s) version(s) de thème</string>
