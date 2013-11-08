@@ -35,6 +35,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="install_failed_invalid_apk">Le package semble corrompu.</string>
   <string name="install_failed_msg">Impossible d\'installer %1$s sur ce téléphone.</string>
   <string name="install_failed_older_sdk">Le package est uniquement compatible avec les dernières versions d\'Android.</string>
+  <string name="install_failed_system_incompatible">Cette app n\'est pas compatible avec MIUI.</string>
   <string name="install_failed_verify_failed">Impossible d\'installer le package, car il ne répond pas aux critères de validation.</string>
   <string name="install_failed_verify_timeout">Expiration du délai lors de la tentative de validation de ce package. Veuillez le réinstaller ultérieurement.</string>
   <string name="installing">Installation…</string>
@@ -59,7 +60,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="perm_sysopt_boost_auto_start">Autorisation de démarrage auto</string>
   <string name="perm_sysopt_boost_auto_start_summary">L\'application démarrera automatiquement !</string>
   <string name="privacy_relative">Autorisations de confidentialité</string>
-  <string name="safe_guard_support">Support technique %1$s</string>
+  <string name="safe_guard_support">Propulsé par %1$s</string>
   <string name="safe_relative">Autorisations de sécurité</string>
   <string name="security_settings_desc">Autoriser cette application à :</string>
   <string name="settings">Paramètres</string>

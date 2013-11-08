@@ -783,7 +783,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Liste des exceptions</string>
-  <string name="do_not_disturb_mode">NPD</string>
+  <string name="do_not_disturb_mode">Ne pas déranger</string>
   <string name="dock_audio_settings_title">Audio</string>
   <string name="dock_audio_summary_car">Paramètres support voiture associé</string>
   <string name="dock_audio_summary_desk">Paramètres station d\'accueil bureau associée</string>
@@ -1275,11 +1275,11 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="msd_install_status_undo">Installer le pilote</string>
   <string name="msd_install_succeed">Pilote installé</string>
   <string name="msd_install_windows_xp_step_2_1">1.Si l\'Assistant d\'installation apparaît, veuillez suivre les étapes pour terminer l\'installation du pilote</string>
-  <string name="msg_wlan_signal_found">Point d\'accès Wi-Fi %s trouvé, souhaitez-vous utiliser ce réseau Wi-Fi? L\'utilisation de ce réseau interrompra le service de données temporairement.</string> 
+  <string name="msg_wlan_signal_found">Point d\'accès Wi-Fi %s trouvé, souhaitez-vous utiliser ce réseau Wi-Fi? L\'utilisation de ce réseau interrompra le service de données temporairement.</string>
   <string name="mtp_ptp_mode_summary">Fonction MTP ou PTP active</string>
   <string name="multi_sim_settings_summary">Mettre en place des paramètres multi-Sim pour voix, données et SMS</string>
   <string name="multi_sim_settings_title">Paramètres multi-SIM</string>
-  <string name="multi_touch_points_category_title">Points multi-touch</string>
+  <string name="multi_touch_points_category_title">Tactile multi-point</string>
   <string name="multi_touch_points_preference">Redémarrez pour activer</string>
   <string name="musicfx_title">Effets musicaux</string>
   <string name="nearby_wifi">Connexions Wi-Fi proches</string>
@@ -1984,7 +1984,7 @@ Le code PIN est peut-être incorrect."</string>
 %1$s"</string>
   <string name="sync_plug"></string>
   <string name="sync_settings">Comptes &amp; synchronisation</string>
-  <string name="sync_wifi_label">Paramètres Wi-Fi</string>
+  <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Wi-Fi uniquement</string>
   <string name="system">Système</string>
   <string name="system_package">"Les mises à jour du système ne peuvent pas être installées sur des supports externes."</string>
@@ -2455,7 +2455,6 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_password">Mot de passe</string>
   <string name="wifi_poor_network_detection">Réseau optimal uniquement</string>
   <string name="wifi_poor_network_detection_summary">"Éviter les réseaux Wi-Fi ayant un mauvais signal ou une mauvaise liaison Internet."</string>
-  <string name="wifi_priority_settings_label">Paramètres de priorité</string>
   <string name="wifi_priority_type_title">Définir la priorité PA manuellement</string>
   <string name="wifi_priority_type_summary">Permet de définir la priorité de chaque point d\'accès manuellement</string>
   <string name="wifi_priority_settings_title">Paramètres de priorité PA</string>

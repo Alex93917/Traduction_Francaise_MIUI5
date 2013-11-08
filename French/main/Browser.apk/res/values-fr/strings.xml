@@ -81,7 +81,7 @@
   <string name="bookmark_this_page">Ajouter cette page aux favoris</string>
   <string name="bookmark_this_page_to_readmodelist">Ajouter cette page à la liste de lecture des favoris</string>
   <string name="bookmark_thumbnail_view">Vignettes</string>
-  <string name="bookmark_title">Légende</string>
+  <string name="bookmark_title">Nom du favori</string>
   <string name="bookmark_to_readmodelist_not_saved">"Impossible d'enregistrer la liste de lecture des favoris."</string>
   <string name="bookmark_to_readmodelist_saved">Enregistré dans liste de lecture des favoris.</string>
   <string name="bookmark_url">URL</string>
@@ -303,6 +303,11 @@
   <string name="navigation_button_newtab">Nouveau</string>
   <string name="navigation_button_tab">Onglet</string>
   <string name="navigation_button_view">Voir</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Notification de Wi-Fi disponible</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_title">Si vous utilisez le réseau mobile pour accéder à internet, MIUI vous avertira si une connexion Wi-Fi est disponible à proximité</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Connexion Wi-Fi locale disponible</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Une connexion Wi-Fi est disponible. Voulez-vous vous connecter ?</string>
+  <string name="network_show_wifi_setting_tip_dialog_notshow">Se souvenir de mon choix</string>
   <string name="new_folder">Nouveau dossier</string>
   <string name="new_incognito_tab">Nouvel onglet navigation privée</string>
   <string name="new_tab">Nouvel onglet</string>
@@ -494,7 +499,7 @@
   <string name="quicklinks_most_visited">Ajouter les sites les plus visités sur la page d\'accueil</string>
   <string name="quicklinks_most_visited_subtitle">Afficher les sites récemment visités dans \"Nouvel onglet\"</string>
   <string name="readmode_already_add_to_bookshelf">Ajouté à l\'étagère</string>
-  <string name="readmode_battery">Batterie </string>
+  <string name="readmode_battery">Batterie</string>
   <string name="readmode_login">Connexion au compte</string>
   <string name="readmode_login_message">Les chapitres suivants requièrent de vous connecter avant de pouvoir les lire</string>
   <string name="readmode_page_load_error">Échec du chargement de la page, veuillez appuyer sur Actualiser pour réessayer</string>
@@ -585,7 +590,7 @@
   <string name="tab_opened_background_in_incognito">Nouvel onglet privé ouvert</string>
   <string name="tab_quicklinks">Liens rapides</string>
   <string name="tab_snapshots">Pages enregistrées</string>
-  <string name="tab_yellowpage">Pages jaunes</string>
+  <string name="tab_yellowpage">Sites</string>
   <string name="title_bar_loading">Chargement…</string>
   <string name="too_many_subwindows_dialog_message">Seule une fenêtre pop-up peut être ouverte à la fois.</string>
   <string name="too_many_subwindows_dialog_title">Fenêtre contextuelle déjà ouverte</string>

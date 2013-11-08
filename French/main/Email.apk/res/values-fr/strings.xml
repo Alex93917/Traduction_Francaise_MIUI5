@@ -185,8 +185,8 @@
   <string name="add_cc_bcc_menu">Ajouter Cc/Bcc</string>
   <string name="add_file_attachment">Joindre un fichier</string>
   <string name="add_quick_responses_action">Créer nouveau</string>
-  <string name="alert_selected_all_message">"a au moins %d messages, sélectionner tout ?"</string>
-  <string name="alert_title_selected">Sélectionner tout</string>
+  <string name="alert_selected_all_message">"a au moins %d messages, tout sélectionner ?"</string>
+  <string name="alert_title_selected">Tout sélectionner</string>
   <string name="app_name">Mail</string>
   <string name="application_name">Instant Upload</string>
   <string name="attachment_info_apk_install_disabled">"Les applications ne peuvent pas être installées directement depuis un mail. Enregistrez tout d'abord cette application, puis installez-la à l'aide de l'application Téléchargements."</string>
@@ -227,7 +227,7 @@
   <string name="contextmenu_send_mail">Envoyer un mail</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="copy_email">Copier l\'adresse mail </string>
+  <string name="copy_email">Copier l\'adresse mail</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
   <string name="create_action">Créer</string>
   <string name="debug_clear_webview_cache">Vider le cache</string>
