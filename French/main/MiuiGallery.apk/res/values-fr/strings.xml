@@ -189,7 +189,7 @@
   <string name="fail_init_gallery_db_helper">Application fermée, impossible d\'ouvrir la base de données de la galerie, le disque est plein.</string>
   <string name="fail_to_apply">Impossible de joindre album.</string>
   <string name="fail_to_pick_email">Aucun Mail valide sélectionné</string>
-  <string name="fail_to_sync_album">Impossible de synchroniser l\'album au serveur. Veuillez vérifiez votre connexion réseau !</string>
+  <string name="fail_to_sync_album">Impossible de synchroniser l\'album au serveur. Veuillez vérifier votre connexion réseau !</string>
   <string name="file_size">Taille fichier</string>
   <string name="filllight">Éclairage d\'appoint</string>
   <string name="fisheye">Objectif fisheye</string>
@@ -338,7 +338,7 @@
   <string name="qsbk_save">QSBK</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">Yeux rouges</string>
-  <string name="redeye_tooltip">Touchez pour supprimer les yeux rouges</string>
+  <string name="redeye_tooltip">Appuyer sur yeux rouges pour les effacer</string>
   <string name="remove_hidden_album">Ne plus masquer</string>
   <string name="remove_recent_album">Supprimer des albums favoris</string>
   <string name="rename_failed">Échec du renommage</string>
@@ -441,7 +441,7 @@
   <string name="straighten">Redresser</string>
   <string name="straighten_tooltip">Faire glisser la photo pour la redresser</string>
   <string name="sync_album">Synchroniser les albums</string>
-  <string name="sync_album_error">Impossible de télécharger les photos dans cet album. Veuillez réessayer plus tard.</string>
+  <string name="sync_album_error">Impossible de télécharger les photos de cet album. Veuillez réessayer plus tard.</string>
   <string name="sync_album_in_proecess">L\'album est actuellement en cours de synchronisation, veuillez patienter…</string>
   <string name="sync_album_set_error">Impossible de télécharger la liste des albums. Veuillez réessayer plus tard.</string>
   <string name="sync_album_summary">Envoyer vos photos et captures d\'écran sur MiCloud.</string>
@@ -465,7 +465,7 @@
   <string name="tint">Coloration</string>
   <string name="title">Titre</string>
   <string name="to_count">%d total</string>
-  <string name="too_many_recipients">Le message a trop de destinataires(%1$s), le nombre total autorisé est de %2$s.</string>
+  <string name="too_many_recipients">Le message a trop de destinataires (%1$s), le nombre total autorisé est de %2$s.</string>
   <string name="try_to_send">Tentative d\'envoi</string>
   <string name="turn_left">Faire pivoter à gauche</string>
   <string name="turn_right">Faire pivoter à droite</string>
@@ -490,4 +490,14 @@
   <string name="widget_type_shuffle">Affichage aléatoire des images</string>
   <string name="width">Largeur</string>
   <string name="yes">Oui</string>
+  <string name="pick_too_much_tips">"Impossible de sélectionner autant d\'éléments (%d maximum)."</string>
+  <string name="operation_add_picture">Ajouter des images</string>
+  <string name="preparing_data_to_delete">Préparation de la suppression.</string>
+  <string name="picker_tab_camera">Appareil photo</string>
+  <string name="picker_no_items_selected">Aucun élément sélectionné</string>
+  <string name="picker_select_album_title_empty">Sélectionner un album</string>
+  <string name="picker_no_album_selected">Aucun album sélectionné</string>
+  <string name="video_download_start">Démarrer le téléchargement de la vidéo</string>
+  <string name="video_download_in_process">La vidéo est en cours de téléchargement</string>
+  <string name="video_not_exist">La vidéo n\'existe pas</string>
 </resources>

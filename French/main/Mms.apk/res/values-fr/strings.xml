@@ -63,7 +63,7 @@
   <string name="confirm_delete_message">Le message va être supprimé.</string>
   <string name="confirm_dialog_locked_title">Supprimer le message verrouillé ?</string>
   <string name="confirm_dialog_title">Supprimer ?</string>
-  <string name="confirm_export_dialog_description">Supprimer la sélection de contact privé, la conversation sera déplacé vers avec les SMS normal. Voulez-vous continuer?</string>
+  <string name="confirm_export_dialog_description">Supprimer la sélection de contact privé, la conversation sera déplacé vers avec les SMS normaux. Voulez-vous continuer ?</string>
   <string name="confirm_export_dialog_title">Supprimer les contacts privés</string>
   <string name="confirm_no_block_positive">"Ne pas bloquer et restaurer"</string>
   <string name="confirm_no_block_title">"Ne pas bloquer le numéro et restaurer tous les messages ?"</string>
@@ -263,8 +263,8 @@
   <string name="pref_edit_smsc_address">Numéro du centre SMS</string>
   <string name="pref_forward_title">Transférer</string>
   <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
-  <string name="pref_mms_settings_title">Paramètres MMS</string>
-  <string name="pref_notification_settings_title">Paramètres de notification</string>
+  <string name="pref_mms_settings_title">Messages multimédias (MMS)</string>
+  <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Autre</string>
   <string name="pref_sms_theme_title">Configuration des thèmes</string>
   <string name="pref_summary_allow_si_sl_push">Autoriser la réception et la notification des messages WAP push (SI/SL)</string>
@@ -293,7 +293,7 @@
   <string name="pref_title_hide_festival">Masquer l\'onglet Recommandé</string>
   <string name="pref_title_manage_sim_messages">Gestion messages carte SIM</string>
   <string name="pref_title_miui_card">Envoyer via MiCard</string>
-  <string name="pref_title_mms_auto_retrieval">Récupération automatique</string>
+  <string name="pref_title_mms_auto_retrieval">Récupération auto</string>
   <string name="pref_title_mms_delete">Limite pour les MMS</string>
   <string name="pref_title_mms_read_reports">Confirmation de lecture</string>
   <string name="pref_title_mms_retrieval_during_roaming">Récupération en itinérance</string>
@@ -430,7 +430,7 @@
   <string name="too_many_unsent_mms">"Impossible d'envoyer le message maintenant. Trop grand nombre de MMS non envoyés."</string>
   <string name="try_to_send">Essayer d\'envoyer</string>
   <string name="type_attachment">pièce jointe</string>
-  <string name="type_audio">Audio</string>
+  <string name="type_audio">audio</string>
   <string name="type_picture">image</string>
   <string name="type_to_compose_text_enter_to_send">Saisissez un message</string>
   <string name="type_to_compose_text_or_leave_blank">Saisissez un message ou laissez le champ vide</string>
@@ -450,4 +450,10 @@
   <string name="view_message_details">Afficher les détails</string>
   <string name="wap_push_title">"[WAP Push]"</string>
   <string name="yes">OK</string>
+  <string name="sp_conversation_title">Messages de notification</string>
+  <string name="title_collapse_sp_messages">Combiner les messages opérateur</string>
+  <string name="pref_collapse_sp_messages_summary">Combine les messages envoyés par l\'opérateur sous la même entrée</string>
+  <string name="sp_mark_as_read_title">Tout marquer comme lu</string>
+  <string name="sp_mark_as_read">Marquer tous les messages comme lu ?</string>
+  <string name="sp_mark_as_read_progress">En cours…</string>
 </resources>

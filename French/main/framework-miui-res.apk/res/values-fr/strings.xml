@@ -222,7 +222,7 @@ Réessayer dans %d secondes."</string>
   <string name="the_double_ninth_festival">Fête de Chung Yeung</string>
   <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
   <string name="the_laba_rice_porridge_festival">Festival de la bouillie de riz</string>
-  <string name="the_mid_autumn_festival">Festival de mi automne</string>
+  <string name="the_mid_autumn_festival">Festival de mi-automne</string>
   <string name="the_rains">Eaux de pluie</string>
   <string name="the_spring_festival">Nouvel an chinois</string>
   <string name="toast_lockscreen_glogin_empty_password">Mot de passe requis.</string>
@@ -268,4 +268,6 @@ Réessayer dans %d secondes."</string>
   <string name="yellow_page_sms_send_failed">Échec de l\'envoi du SMS !</string>
   <string name="yellow_page_sms_sending">Envoi en cours…</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer un message en mode privé.</string>
+  <string name="grant_permissions_account">Autoriser l\'accès au compte</string>
+  <string name="grant_permissions_apps">Autoriser l\'accès aux applis</string>
 </resources>
