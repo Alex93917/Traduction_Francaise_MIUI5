@@ -17,8 +17,8 @@
   <string name="bankcall_debit_card">Carte de débit</string>
   <string name="bankcall_denom">Montant :</string>
   <string name="bankcall_denom_number">%1$s RMB</string>
-  <string name="bankcall_error_card">Veuillez entrer un numéro de compte bancaire valide</string>
-  <string name="bankcall_error_card_info">Veuillez entrer des informations de compte bancaire valides</string>
+  <string name="bankcall_error_card">Veuillez saisir un numéro de compte bancaire valide</string>
+  <string name="bankcall_error_card_info">Veuillez saisir des informations de compte bancaire valides</string>
   <string name="bankcall_hint">"Ce service est autorisé par Unionpay et 
 a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="bankcall_id_card">Carte d\'identité</string>
@@ -67,8 +67,8 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="error_common_summary">Erreur système, veuillez réessayer plus tard</string>
   <string name="error_common_title">Erreur système</string>
   <string name="error_expired_summary">Votre commande a expiré</string>
-  <string name="error_frozen_summary">Votre compte a été verrouillé</string>
-  <string name="error_frozen_title">Compte verrouillé !</string>
+  <string name="error_frozen_summary">Votre compte a été gelé</string>
+  <string name="error_frozen_title">Compte gelé !</string>
   <string name="error_giftcard_summary">Impossible d\'obtenir les informations de la carte-cadeau</string>
   <string name="error_has_bought_summary">Vous avez déjà acheté ce produit</string>
   <string name="error_has_bought_title">Répéter l\'achat</string>
@@ -90,7 +90,7 @@ Veuillez réessayer dans cinq minutes"</string>
   <string name="forget_password">&lt;u&gt;Réinitialiser le mot de passe&lt;/u&gt;</string>
   <string name="format_date">dd MMM yyyy</string>
   <string name="format_time">dd MMM yyyy hh:mmaa</string>
-  <string name="frozen">(Verrouillé)</string>
+  <string name="frozen">(Gelé)</string>
   <string name="giftcard_acitivity_and_denomination">Carte-cadeau %2$s MiCredit de %1$s</string>
   <string name="giftcard_denom">MiCredit</string>
   <string name="giftcard_denom_available">MiCredit disponible</string>
@@ -147,7 +147,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="hfb_tariff">Tarif information</string>
   <string name="hfb_trans_error_label">No previous transactions found</string>
   <string name="hfb_trans_result_progress_label">Searching for previous transactions...</string>
-  <string name="hfb_umpay_info">Call * 10658008 for  China Mobile Communications accounts to pay via SMS</string>
+  <string name="hfb_umpay_info">Call * 10658008 for China Mobile Communications accounts to pay via SMS</string>
   <string name="hfb_upgrade_download_fail">Failed to download update, please try again later</string>
   <string name="hfb_upgrade_download_sucess">New version downloaded successfully!</string>
  <!-- -->
@@ -340,8 +340,8 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_telecom_sending">Mise en contact avec votre fournisseur de réseau…</string>
   <string name="onemore_click_exit">Appuyer encore pour quitter</string>
   <string name="order_price">%1$s MiCredits</string>
-  <string name="password_error">Veuillez entrer votre mot de passe</string>
-  <string name="password_hint">Veuillez entrer votre mot de passe Xiaomi :</string>
+  <string name="password_error">Veuillez saisir votre mot de passe</string>
+  <string name="password_hint">Veuillez saisir votre mot de passe Xiaomi :</string>
   <string name="pay_record_empty">Aucun historique de paiement</string>
   <string name="pay_record_typeall">Tous</string>
   <string name="paytool_alipay">Alipay</string>
@@ -350,8 +350,8 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="paytool_msp_not_installed">Vous n\'avez pas installé le plugin de sécurité mobile %1$s, l\'installer maintenant ?</string>
   <string name="paytool_tenpay">Tenpay</string>
   <string name="prepaid_edit_limit">chiffres</string>
-  <string name="prepaid_error_card_length">Veuillez entrer le numéro de la carte prépayée ou le mot de passe correctement</string>
-  <string name="prepaid_error_card_number">Veuillez entrer le montant de la recharge correctement</string>
+  <string name="prepaid_error_card_length">Veuillez saisir le numéro de la carte prépayée ou le mot de passe correctement</string>
+  <string name="prepaid_error_card_number">Veuillez saisir le montant de la recharge correctement</string>
   <string name="prepaid_error_carrier">Veuillez sélectionner votre opérateur</string>
   <string name="prepaid_error_denomination">Sélectionnez le montant de la recharge</string>
   <string name="prepaid_error_password">Saisissez le mot de passe de la carte prépayée</string>
@@ -398,8 +398,8 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="recharge_grid_edit_hint">Montant (RMB)</string>
   <string name="recharge_grid_edit_limit">%1$s~%2$s RMB</string>
   <string name="recharge_grid_edit_upper_limit">Ne peut excéder %1$s RMB</string>
-  <string name="recharge_grid_error_denomination">Veuillez entrer le montant correct entre %1$d et %2$d RMB</string>
-  <string name="recharge_grid_picker_hint">Veuillez entrer le montant MiCredit</string>
+  <string name="recharge_grid_error_denomination">Veuillez saisir le montant correct entre %1$d et %2$d RMB</string>
+  <string name="recharge_grid_picker_hint">Veuillez saisir le montant MiCredit</string>
   <string name="recharge_group_favorite">Méthodes de recharge utilisées</string>
   <string name="recharge_group_others">Autres méthodes de recharge</string>
   <string name="recharge_message_title">Recharge par SMS</string>
@@ -434,6 +434,6 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="voucher_edit_hint">Code :</string>
   <string name="voucher_edit_limit">chiffres</string>
   <string name="voucher_error_password">Code de bon MiCredit non valide !</string>
-  <string name="voucher_error_password_empty">Champ vide, veuillez entrer un code !</string>
-  <string name="voucher_input_password_prompt">Entrer le code</string>
+  <string name="voucher_error_password_empty">Champ vide, veuillez saisir un code !</string>
+  <string name="voucher_input_password_prompt">Saisir le code</string>
  </resources>

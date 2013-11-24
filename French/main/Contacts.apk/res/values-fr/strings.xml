@@ -29,7 +29,7 @@
   <string name="add_xiaomi_account_dialog_btn">Utiliser un compte Xiaomi</string>
   <string name="add_xiaomi_account_dialog_msg">Pour une meilleure expérience pensez à utiliser votre compte Xiaomi pour synchroniser et récupérer vos contacts, et pour les gérer à partir de votre ordinateur.</string>
   <string name="add_xiaomi_account_dialog_title">Choisir le compte de synchronisation</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Basculer vers l\'édition du contact sélectionné ? Les informations que vous avez entrées jusqu\'à présent seront copiées.</string>
+  <string name="aggregation_suggestion_edit_dialog_message">"Modifier le contact sélectionné ? Les informations saisies jusqu\'ici seront copiées."</string>
   <string name="aggregation_suggestion_edit_dialog_title">Éditer les contacts sélectionnés</string>
   <string name="aggregation_suggestion_join_dialog_message">Associer ce contact au contact sélectionné ?</string>
   <string name="all_list_empty">Aucun contact</string>
@@ -57,7 +57,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="callAgain">Renouveler l\'appel</string>
   <string name="callBack">Rappeler</string>
   <string name="callDetailTitle">Détails de l\'appel</string>
-  <string name="callDetailsDurationFormat" formatted="false">%1$s min %2$s sec</string>
+  <string name="callDetailsDurationFormat" formatted="false">%1$s min %2$s s</string>
   <string name="callShortcutActivityTitle">Choisissez un numéro à appeler</string>
   <string name="call_assistant">Appel de %s</string>
   <string name="call_callback">Rappel automatique</string>
@@ -143,7 +143,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="clearFrequentsConfirmation">"Cette opération efface la liste des personnes que vous contactez le plus souvent dans les applications Contacts et Téléphone, et oblige vos applications de messagerie électronique à apprendre à nouveau les adresses que vous utilisez le plus souvent."</string>
   <string name="clearFrequentsConfirmation_title">Effacer les contacts fréquents ?</string>
   <string name="clearFrequentsProgress_title">Suppression des contacts fréquents</string>
-  <string name="clear_default">Effacer par défaut</string>
+  <string name="clear_default">Effacer les valeurs par défaut</string>
   <string name="clear_digits">effacer le numéro de téléphone</string>
   <string name="click_close">Appuyez pour fermer</string>
   <string name="close_dial_pad">fermer le pavé de numérotation</string>
@@ -346,8 +346,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="eventLabelsGroup">Événements</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">L\'export vers la carte SIM est terminé</string>
- <!-- export_sim_contact_finish_failure à raccourcir eventuellent ? string originale : Transferred: %1$d Remaining: %2$d -->
-  <string name="export_sim_contact_finish_failure">Stockage SIM plein, terminé : %1$d inachevé : %2$d</string>
+  <string name="export_sim_contact_finish_failure">Transféré : %1$d Restant : %2$d</string>
   <string name="export_sim_contact_finish_success">%d contact(s) copié(s) de la carte SIM</string>
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
@@ -539,7 +538,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="menu_select_none">Tout désélectionner</string>
   <string name="menu_sendSMS">Envoyer un SMS au contact</string>
   <string name="menu_sendTextMessage">Envoyer un SMS</string>
-  <string name="menu_set_ring_tone">Sonnerie appelant enregistrée</string>
+  <string name="menu_set_ring_tone">Définir sonnerie</string>
   <string name="menu_settings">Paramètres</string>
   <string name="menu_share">Partager</string>
   <string name="menu_show_all_calls">Afficher tous les appels</string>
@@ -572,7 +571,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="nickname_editor_title">Modifier le Pseudo</string>
   <string name="nickname_picker_name_column">Nom du contact</string>
   <string name="nickname_picker_nickname_column">Titre</string>
-  <string name="noAccounts">Vous avez besoin d\'un compte pour créer des groupes</string>
+  <string name="noAccounts">Vous devez posséder un compte pour créer des groupes.</string>
   <string name="noContactHelpTextAccountsInfo">Synchroniser les contacts Xiaomi, Google et Exchange.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données sauvegardées dans le compte Xiaomi et MiTalk</string>
   <string name="noContacts">Aucun contact</string>
@@ -1023,7 +1022,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="t9_search_guide">Entrez le numéro ou recherchez des contacts avec l\'index T9.</string>
   <string name="take_new_photo">Prendre une autre photo</string>
   <string name="take_photo">Prendre une photo</string>
-  <string name="titleJoinContactDataWith">Rejoindre le contact</string>
+  <string name="titleJoinContactDataWith">Joindre les contacts</string>
   <string name="title_other_devices">Autres périphériques disponibles</string>
   <string name="title_paired_devices">Périphériques appareillé</string>
   <string name="toast_call_detail_error">Impossible de consulter les détails de l\'appel demandé.</string>
@@ -1082,4 +1081,48 @@ Pour ajouter un contact à la liste de favoris :
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Supprimer les données</string>
   <string name="zero_items_selected">Aucun élément sélectionné</string>
+  <string name="account_unactivated">Compte non activé.</string>
+  <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
+  <string name="resource_account_current">Compte : %1$s</string>
+  <string name="resource_account_fail_to_add">Impossible d\'ajouter le compte !</string>
+  <string name="resource_account_login">Connexion</string>
+  <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Xiaomi.</string>
+  <string name="resource_account_login_title">Connexion</string>
+  <string name="resource_account_switch">Changer de compte</string> 
+  <string name="resource_comment_loading_list">Chargement des commentaires…</string>
+  <string name="resource_comment_score_count">%1$s utilisateurs</string>
+ <!-- resource_exchange & resource_exchange_window_title à revoir ? -->
+  <string name="resource_exchange">Activer un code</string>
+  <string name="resource_exchange_confirm">Confirmer</string>
+  <string name="resource_exchange_empty_format">Veuillez saisir un code !</string>
+  <string name="resource_exchange_has_bought">Vous avez déjà acheté ce thème.</string>
+  <string name="resource_exchange_has_expired">Ce code a expiré.</string>
+  <string name="resource_exchange_has_used">Ce code a déjà été utilisé.</string>
+  <string name="resource_exchange_hint">Saisissez votre code</string>
+  <string name="resource_exchange_purchase_unkown_error">Une erreur inconnue s\'est produite. Veuillez vous connecter via http://market.xiaomi.com pour voir l\'état de votre paiement.</string>
+  <string name="resource_exchange_share_code_content">Vous avez reçu un code pour %1$s sur le magasin de thèmes MIUI. Votre code MiCredit est : %2$s. Appuyer %3$s pour l\'utiliser maintenant.</string>
+ <!-- resource_exchange_share_code_dlg_content à revoir? : "pour %1$s est : %2$s" ?? -->
+  <string name="resource_exchange_share_code_dlg_content">Code acheté avec succès pour %1$s est : %2$s. Vous pouvez maintenant le partager avec des amis.</string>
+  <string name="resource_exchange_share_code_dlg_title">Envoyer un code</string>
+  <string name="resource_exchange_success">Transaction réussie</string>
+  <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>
+  <string name="resource_exchange_universal_finish">Utilisez ce code pour télécharger un thème depuis le magasin de thèmes MIUI.</string>
+  <string name="resource_exchange_universal_goon">Ce code peut être utilisé pour télécharger n\'importe quel thème depuis le magasin de thèmes MIUI.</string> 
+  <string name="resource_exchange_window_title">Activer un code</string>
+  <string name="resource_exchange_wrong_format_by_local">Code saisi non valide</string>
+  <string name="resource_exchange_wrong_format_by_server">Le code n\'a pas pu être validé. Veuillez vérifier votre code.</string>
+  <string name="resource_hint">Alerte</string>
+  <string name="resource_menu_refresh">Actualiser</string>
+  <string name="resource_present">Cadeau</string>
+  <string name="resource_purchase_getting_order">Récupération des informations de paiement…</string>
+  <string name="resource_purchase_verifying_payment">Vérification des informations de paiement…</string>
+  <string name="resource_purchase_waiting_payment">En attente d\'informations de paiement…</string>
+  <string name="resource_ringtone_volume_mute">Sonnerie mise en sourdine</string>
+  <string name="resource_save_to_note">Sauvegarder vers Notes</string>
+  <string name="resource_send">Envoyer</string>
+  <string name="resource_unable_to_access">"Nous sommes désolés
+le contenu que vous recherchez n\'est actuellement pas disponible dans votre région."</string>
+  <string name="resource_unknow_error">Une erreur inconnue s\'est produite.</string>
+  <string name="resource_user_know">OK</string>
+  <string name="to_activate_the_account">Veuillez activer votre compte Xiaomi</string>
 </resources>

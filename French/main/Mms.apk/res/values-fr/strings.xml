@@ -105,7 +105,7 @@
   <string name="discard_message">Ignorer</string>
   <string name="discard_message_reason">Votre message va être supprimé, car aucun destinataire valide n\'a été spécifié.</string>
   <string name="discard_slideshow">Supprimer le diaporama</string>
-  <string name="dl_failure_notification">Impossible de télécharger le message "%1$s" de %2$s.</string>
+  <string name="dl_failure_notification">Impossible de télécharger le message \"%1$s\" de %2$s.</string>
   <string name="done">OK</string>
   <string name="download">Télécharger</string>
   <string name="download_later">Impossible de télécharger pour le moment. Veuillez réessayer ultérieurement.</string>
@@ -173,7 +173,7 @@
   <string name="menu_edit">Modifier</string>
   <string name="menu_forward">Transférer</string>
   <string name="menu_lock">Verrouiller</string>
-  <string name="menu_new_manual">Entrer le numéro manuellement</string>
+  <string name="menu_new_manual">Saisir le numéro manuellement</string>
   <string name="menu_pick_from_contact">Sélectionner à partir des contacts</string>
   <string name="menu_preferences">Paramètres</string>
   <string name="menu_unlock">Déverrouiller</string>
@@ -214,12 +214,16 @@
   <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échoué, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activate_int_popup_msg">MiMessaging permet aux utilisateurs MIUI de s\'envoyer des messages sans utiliser de crédit SMS.</string>
+  <!-- mx_activate_int_popup_msg & mx_activate_popup_msg à vérifier : les deux phrases apparaissent en même temps ? -->
+  <string name="mx_activate_popup_msg">MiMessaging permet aux utilisateurs MIUI de s\'envoyer des messages sans utiliser de crédit SMS.</string>
   <string name="mx_activation_done">La messagerie MiCloud est maintenant activée</string>
   <string name="mx_auto_resend_mms">Renvoyer le MMS</string>
   <string name="mx_auto_resend_mms_summary">Envoyer automatiquement comme MMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
   <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_btn_enable">Activer</string>
+  <string name="mx_btn_enable_now">Activer MiMessaging</string>
   <string name="mx_count_dspt">Depuis l\'activation, MIUI a envoyé %1$d message(s) cloud pour vous (%2$s)</string>
   <string name="mx_current_status">Statut : En ligne</string>
   <string name="mx_dspt">Envoyer des messages via internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
@@ -237,7 +241,7 @@
   <string name="new_message">Nouveau message</string>
   <string name="new_message_arrived">Nouveau message</string>
   <string name="new_phrase">Nouveau message rapide</string>
-  <string name="new_phrase_hint">Entrer les phrases couramment utilisées</string>
+  <string name="new_phrase_hint">Saisir les phrases couramment utilisées</string>
   <string name="nickname_placeholder">Surnom</string>
   <string name="no">Annuler</string>
   <string name="no_block_button_msg">"Ne pas bloquer les messages de ce numéro"</string>
@@ -324,6 +328,9 @@
   <string name="received_label">"Date de réception : "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Destinataire : "</string>
+ <!-- à traduire : 
+  <string name="refill_now">Refill</string>
+ -->
   <string name="refresh">Actualiser</string>
   <string name="refresh_failed">La mise à jour a échouée</string>
   <string name="refreshing">Actualisation…</string>
@@ -369,7 +376,7 @@
   <string name="send_signature_confirm_dialog_message">Vous n\'avez pas écrit de contenu, voulez-vous l\'envoyer ?</string>
   <string name="send_signature_confirm_dialog_title">Confirmer l\'envoi</string>
   <string name="send_sms">Envoyer un message</string>
-  <string name="send_to">À : </string>
+  <string name="send_to">À :</string>
   <string name="send_to_count">%1$s message(s) envoyé(s)</string>
   <string name="send_to_index_contact">Envoi de %1$s sur %2$s…</string>
   <string name="sent_label">"Date d'envoi : "</string>

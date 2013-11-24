@@ -6,10 +6,10 @@
   <string name="all_numbers">Tous les numéros</string>
   <string name="app_label">Pages jaunes</string>
   <string name="callrecordview_item_newcontact">Nouveau contact</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$dmin %2$ds</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
   <string name="callrecordview_item_op_time_missed">Non connecté</string>
-  <string name="callrecordview_item_op_time_only_minutes">%dmin</string>
-  <string name="callrecordview_item_op_time_only_seconds">%ds</string>
+  <string name="callrecordview_item_op_time_only_minutes">%d min</string>
+  <string name="callrecordview_item_op_time_only_seconds">%d s</string>
   <string name="callrecordview_item_op_time_rejected">Rejeté</string>
   <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
@@ -27,6 +27,8 @@
   <string name="expresss_inquiry_all_logistics">Tous</string>
   <string name="express_inquiry_button_text">Suivre</string>
   <string name="express_inquiry_data_owner">Information de suivi fournies par %s</string>
+  <string name="express_inquiry_delete_warning_multiple">Supprimer les %d éléments sélectionnés ?</string>
+  <string name="express_inquiry_delete_warning_single">Supprimer l\'élément sélectionné ?</string>
  <!-- balance_inquiry_default_sp_name remplacer "opérateur"? original : Operator -->
   <string name="balance_inquiry_default_sp_name">Opérateur</string>
   <string name="expresss_inquiry_frequently_used_logistics">Fréquents</string>
@@ -70,7 +72,7 @@
   <string name="payment_back">Annuler</string>
   <string name="payment_failed_common_problems">Un problème est survenu lors du paiement.</string>
   <string name="payment_unknown_status_summary">Vérifiez votre connexion réseau et réessayez.</string>
-  <string name="payment_unknown_status_title">"Erreur du statut de paiement"</string>
+  <string name="payment_unknown_status_title">Erreur du statut de paiement</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="provider_tag">Source de données</string>
   <string name="recharge_actual_price">Prix :</string>
@@ -97,7 +99,7 @@
   <string name="recharge_user_confirm_summary">"Vous serez facturé %1$s pour %2$s RMB
 Montant total : %3$s RMB"</string>
   <string name="recharge_user_confirm_title">Confirmer</string>
-  <string name="remind_another_time">"Ne pas demander pour ce numéro</string>
+  <string name="remind_another_time">Ne pas demander pour ce numéro</string>
   <string name="remind_user_confirm">OK</string>
   <string name="remind_user_suspect_number_message">"Les malfaiteurs peuvent usurper l'identité d'autres personnes pour frauder, en cas de doute rappelez pour vérifier l'identité de l'appelant. Les banques, les sociétés d'e-commerce etc. ne vous demanderont jamais votre mot de passe ou vos informations bancaires."</string>
   <string name="remind_user_suspect_number_title">Méfiez-vous des appels frauduleux</string>

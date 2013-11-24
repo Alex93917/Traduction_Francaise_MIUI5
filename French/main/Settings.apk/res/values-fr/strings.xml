@@ -144,7 +144,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="apn_type">Type d\'APN</string>
   <string name="apn_user">Nom d\'utilisateur</string>
   <string name="app_disable_dlg_text">Si vous désactivez une application intégrée, cela peut provoquer des dysfonctionnements d\'autres applications.</string>
-  <string name="app_disable_dlg_title">Désactiver l\'app intégrée ?</string>
+  <string name="app_disable_dlg_title">Désactiver l\'appli intégrée ?</string>
   <string name="app_disable_notifications_dlg_text">Si vous désactivez les notifications de cette application, vous risquez de manquer des alertes et des mises à jour importantes.</string>
   <string name="app_disable_notifications_dlg_title">Désactiver les notifications ?</string>
   <string name="app_factory_reset">Désinstaller les mises à jour</string>
@@ -704,7 +704,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_additional_status_summary">Numéro de téléphone, Signal, IMEI, etc.</string>
   <string name="device_admin_add_title">Administrateur de l\'appareil</string>
   <string name="device_admin_settings_title">Paramètres de gestion de l\'appareil</string>
-  <string name="device_admin_status">Cet administrateur est actif et permet à l\'application %1$s d\'effectuer les opérations suivantes : </string>
+  <string name="device_admin_status">Cet administrateur est actif et permet à l\'application %1$s d\'effectuer les opérations suivantes :</string>
   <string name="device_admin_title">Gestion de l\'appareil</string>
   <string name="device_admin_warning">L\'activation de cet administrateur permettra à l\'application %1$s d\'effectuer les opérations suivantes :</string>
   <string name="device_cpu">CPU</string>
@@ -801,7 +801,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dolby_bassboost_high">Élevée</string>
   <string name="dolby_bassboost_low">Faible</string>
   <string name="dolby_bassboost_normal">Standard</string>
-  <string name="dolby_bassboost_title">Amplificateur de basses : </string>
+  <string name="dolby_bassboost_title">Amplificateur de basses :</string>
   <string name="dolby_dialogue_enhancer">Amélioration des dialogues</string>
   <string name="dolby_effects">Effets Dolby</string>
   <string name="dolby_eq_enter_alert_msg">Souhaitez-vous ouvrir l\'égaliseur Dolby ?</string>
@@ -820,7 +820,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dolby_roomsize_low">Petite salle</string>
   <string name="dolby_roomsize_normal">Salle normale</string>
   <string name="dolby_roomsize_summary">Son Surround disponible avec les écouteurs</string>
-  <string name="dolby_roomsize_title">Mode Surround : </string>
+  <string name="dolby_roomsize_title">Mode Surround :</string>
   <string name="dolby_surround_virtualizer">Virtualiseur de son Surround</string>
   <string name="dolby_volume_leveler">Nivellement du volume</string>
   <string name="drive_mode">Mode Voiture</string>
@@ -922,7 +922,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Petite</string>
-  <string name="font_size_summary">Modifier la taille du texte dans les applications suivantes : </string>
+  <string name="font_size_summary">Modifier la taille du texte dans les applications suivantes :</string>
   <string name="force_hw_ui">Forcer le rendu GPU</string>
   <string name="force_hw_ui_summary">Forcer l\'utilisation du GPU pour le dessin 2D</string>
   <string name="force_msaa">Forcer MSAA 4x</string>
@@ -1004,7 +1004,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="help_url_users"></string>
   <string name="help_url_vpn"></string>
   <string name="help_url_wifi"></string>
-  <string name="hidden_ssid_label">SSID caché : </string>
+  <string name="hidden_ssid_label">SSID caché :</string>
   <string name="history_details_title">Informations sur l\'historique</string>
   <string name="home_key">Touche Accueil</string>
   <string name="ime_security_warning">Ce mode de saisie est susceptible d\'enregistrer le texte que vous saisissez, y compris vos données personnelles telles que les mots de passe et les numéros de carte de paiement. Il provient de l\'application %1$s. Voulez-vous vraiment l\'activer ?</string>
@@ -1031,9 +1031,9 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="install_unknown_applications">Autoriser l\'installation d\'applications issues de sources inconnues</string>
   <string name="insufficient_storage">Espace de stockage insuffisant.</string>
   <string name="intent_sender_account_label">Compte :</string>
-  <string name="intent_sender_action_label">Action : </string>
-  <string name="intent_sender_data_label">Données : </string>
-  <string name="intent_sender_resource_label">Ressource : </string>
+  <string name="intent_sender_action_label">Action :</string>
+  <string name="intent_sender_data_label">Données :</string>
+  <string name="intent_sender_resource_label">Ressource :</string>
   <string name="intent_sender_sendbroadcast_text">Envoyer broadcast</string>
   <string name="intent_sender_startactivity_text">Démarrer activité</string>
   <string name="internal_format">Formater le stockage interne</string>
@@ -1167,7 +1167,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpattern_tutorial_continue_label">Suivant</string>
   <string name="lte_ram_dump_off">Désactiver le vidage de la mémoire RAM du LTE</string>
   <string name="lte_ram_dump_on">Activer le vidage de la mémoire RAM du LTE</string>
-  <string name="macaddr_label">Adresse MAC : </string>
+  <string name="macaddr_label">Adresse MAC :</string>
   <string name="main_running_process_description">Processus principal en cours d\'utilisation.</string>
   <string name="man_add_application">Ajouter manuellement des applications</string>
   <string name="manage_device_admin">Administrateurs de l\'appareil</string>
@@ -1268,9 +1268,9 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
 5) Accéder à l\'appareil monté : "mtpfs /media/mtp" via Nautilus; même répertoire local
 6) Désinstaller l\'appareil "fusermount -u /media/mtp"
 Remarque : pour environnement Ubuntu 8.04"</string>
-  <string name="msd_install_retry_mac">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
-  <string name="msd_install_retry_windows_vista">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
-  <string name="msd_install_retry_windows_xp">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
+  <string name="msd_install_retry_mac">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
+  <string name="msd_install_retry_windows_vista">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
+  <string name="msd_install_retry_windows_xp">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
   <string name="msd_install_status_done">Pilote déjà installé</string>
   <string name="msd_install_status_undo">Installer le pilote</string>
   <string name="msd_install_succeed">Pilote installé</string>
@@ -1300,7 +1300,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="no_device_admins">Aucun administrateur disponible.</string>
   <string name="no_media_button_receiver">Non</string>
   <string name="no_nearby_wifi">Aucun réseau Wi-Fi proche détecté</string>
-  <string name="no_running_services">Pas de services en cours</string>
+  <string name="no_running_services">Aucun service en cours</string>
   <string name="no_services">Inactif</string>
   <string name="noise_suppression">Suppression du bruit</string>
   <string name="normal_date_format">Format régional (%s)</string>
@@ -1313,16 +1313,15 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="nsd_quick_toggle_summary">Autoriser les applications d\'autres appareils à identifier les applications de celui-ci</string>
   <string name="nsd_quick_toggle_title">Identification du service réseau</string>
   <string name="oem_radio_info_label">Infos/paramètres OEM</string>
- <!-- à traduire : 
-  <string name="oldman_mode_entry_title">senior mode</string>
-  <string name="oldman_mode_entry_name">senior mode settings</string>
-  <string name="oldman_mode_settings_caption">senior mode settings</string>
-  <string name="oldman_mode_enabled_name">enable senior mode</string>
-  <string name="oldman_mode_summary">enable or disable senior mode, will reboot!</string>
-  <string name="oldman_mode_confirm_title">senior mode confirm</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">enable senior mode ?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">disable senior mode ?</string>
- -->
+  <string name="oldman_mode_entry_title">mode sénior</string>
+  <string name="oldman_mode_entry_name">paramètres mode sénior</string>
+  <string name="oldman_mode_settings_caption">paramètres mode sénior</string>
+ <!-- oldman_mode_enabled_name ok ? -->
+  <string name="oldman_mode_enabled_name">activer le mode sénior</string>
+  <string name="oldman_mode_summary">activer ou désactiver le monde sénior, redémarrage requis !</string>
+  <string name="oldman_mode_confirm_title">confirmation mode sénior</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">activer le monde sénior ?</string>
+  <string name="oldman_mode_confirm_will_normal_mode_text">désactiver le monde sénior ?</string>
   <string name="onscreen_keyboard_settings_summary">Paramètres du clavier virtuel</string>
   <string name="other_relative">Autres autorisations</string>
   <string name="overlay_display_devices_title">Simul. affich. secondaires</string>
@@ -1559,14 +1558,14 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="proxy_error_invalid_exclusion_list">"Le format de la liste d'exclusion spécifiée n'est pas correct. Séparez les noms de domaine à exclure par une virgule."</string>
   <string name="proxy_error_invalid_host">"Le nom d'hôte saisi n'est pas valide."</string>
   <string name="proxy_error_invalid_port">"Le port indiqué n'est pas valide."</string>
-  <string name="proxy_exclusionlist_hint">ex : sodu76.liamsi.yakou.com</string>
+  <string name="proxy_exclusionlist_hint">"example.com,mycomp.test.com,localhost"</string>
   <string name="proxy_exclusionlist_label">Ignorer le proxy pour</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Nom d\'hôte du proxy</string>
   <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Port du proxy</string>
   <string name="proxy_settings_label">Paramètres proxy</string>
-  <string name="proxy_settings_title">Paramètres proxy</string>
+  <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_warning_limited_support">Le proxy HTTP est utilisé par le navigateur, mais ne peut pas l\'être par les autres applications.</string>
   <string name="quick_launch_assign_application">Attribuer l\'application</string>
   <string name="quick_launch_clear_cancel_button">Annuler</string>
@@ -1607,7 +1606,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="radio_controls_title">Plus…</string>
   <string name="radio_info_band_mode_label">Choisir une bande radio</string>
   <string name="radio_info_call_redirect_label">Redirection des appels :</string>
-  <string name="radio_info_call_status_label">État de l\'appel : </string>
+  <string name="radio_info_call_status_label">État de l\'appel :</string>
   <string name="radio_info_cellinfo_label">Infos sur la cellule :</string>
   <string name="radio_info_current_network_label">Réseau actuel :</string>
   <string name="radio_info_data_attempts_label">Tentatives :</string>
@@ -1621,7 +1620,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="radio_info_neighboring_location_label">CID voisin :</string>
   <string name="radio_info_network_type_label">Type de réseau :</string>
   <string name="radio_info_phone_number_label">Numéro de téléphone :</string>
-  <string name="radio_info_ping_hostname">Nom de l\'hôte du ping (www.google.com) : </string>
+  <string name="radio_info_ping_hostname">Nom de l\'hôte du ping (www.google.com) :</string>
   <string name="radio_info_ping_ipaddr">Adr. IP ping :</string>
   <string name="radio_info_ppp_received_label">PPP reçus :</string>
   <string name="radio_info_ppp_resets_label">Nombre de réinitialisations PPP depuis le démarrage :</string>
@@ -1675,7 +1674,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
 
 Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="rssi_label">RSSI :</string>
-  <string name="running_process_item_removed_user_label">Utilisateur retiré</string>
+  <string name="running_process_item_removed_user_label">Utilisateur supprimé</string>
   <string name="running_process_item_user_label">Utilisateur : %1$s</string>
   <string name="running_processes_item_description_p_p">%1$d processus et %2$d services</string>
   <string name="running_processes_item_description_p_s">%1$d processus et %2$d service</string>
@@ -1789,7 +1788,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="security_relative">Sécurité</string>
   <string name="security_settings_billing_desc">Cette application peut engendrer des frais :</string>
   <string name="security_settings_desc">Cette application peut accéder aux éléments suivants de votre téléphone :</string>
-  <string name="security_settings_desc_multi">Cette application peut accéder aux éléments de votre téléphone répertoriés ci-dessous. Afin d\'améliorer les performances et de réduire l\'utilisation de la mémoire, certaines autorisations sont accordées à %1$s, car elle s\'exécute au sein du même processus que les applications %2$s : </string>
+  <string name="security_settings_desc_multi">Cette application peut accéder aux éléments de votre téléphone répertoriés ci-dessous. Afin d\'améliorer les performances et de réduire l\'utilisation de la mémoire, certaines autorisations sont accordées à %1$s, car elle s\'exécute au sein du même processus que les applications %2$s :</string>
   <string name="security_settings_premium_sms_desc">Envoyer un SMS premium</string>
   <string name="security_settings_summary">Définir les paramètres de l\'option Ma position et de verrouillage</string>
   <string name="security_settings_title">Sécurité</string>
@@ -1798,7 +1797,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_application">Sélectionner une application</string>
   <string name="select_device_admin_msg">Administrateurs de l\'appareil</string>
- <!-- à traduire ;
+ <!-- à traduire :
   <string name="select_ssid_type_title">Reselection among SSID</string>
  -->
   <string name="select_subscription">Sélectionner Abonnement</string>
@@ -1885,7 +1884,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_lock_settings_category">Configurer verrouillage carte SIM</string>
   <string name="sim_lock_settings_title">Verrouillage de la SIM</string>
   <string name="sim_management_title">Gestion SIM</string>
-  <string name="sim_pin_attempts">Tentatives restantes : </string>
+  <string name="sim_pin_attempts">Tentatives restantes :</string>
   <string name="sim_pin_change">Modifier code PIN carte SIM</string>
   <string name="sim_pin_disabled">PIN1 désactivé !</string>
   <string name="sim_pin_enabled">PIN1 activé !</string>
@@ -1966,7 +1965,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="summary_font_size">%1$s</string>
   <string name="supplicant_state_label">État suppliant :</string>
   <string name="sync_active">Synchronisation activée</string>
-  <string name="sync_automatically">Synchro auto des données des apps</string>
+  <string name="sync_automatically">Synchro auto</string>
   <string name="sync_calendar">Agenda</string>
   <string name="sync_contacts">Contacts</string>
   <string name="sync_disabled">Synchronisation désactivée</string>
@@ -2270,7 +2269,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="volume_alarm_mute">Couper le son des alarmes</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
-  <string name="volume_media_description">Musique, vidéo, jeux et autres médias</string>
+  <string name="volume_media_description">Musique, vidéo, jeux et autres fichiers multimédias</string>
   <string name="volume_media_mute">Couper le son de la musique et des autres médias</string>
   <string name="volume_notification_description">Notifications</string>
   <string name="volume_notification_mute">Couper le son des notifications</string>
@@ -2373,7 +2372,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_display_paired_devices">Affichages associés</string>
   <string name="wifi_display_search_for_devices">Rechercher affichages</string>
   <string name="wifi_display_searching_for_devices">Recherche en cours…</string>
-  <string name="wifi_display_settings_empty_list_wifi_display_disabled">L\'affichage sans fil est désactivé, car la connexion Wi-Fi est inactive.</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">L\'affichage sans fil est désactivé, car le Wi-Fi n\'est pas activé.</string>
   <string name="wifi_display_settings_empty_list_wifi_display_off">Pour voir les appareils, activez l\'affichage sans fil.</string>
   <string name="wifi_display_settings_title">Affichage sans fil</string>
   <string name="wifi_display_status_available">Disponible</string>
@@ -2439,7 +2438,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_p2p_disconnect_message">Si vous vous déconnectez, votre connexion avec %1$s prendra fin.</string>
   <string name="wifi_p2p_disconnect_multiple_message">Si vous vous déconnectez, votre connexion avec %1$s et %2$s autres appareils prendra fin.</string>
   <string name="wifi_p2p_disconnect_title">Déconnecter ?</string>
-  <string name="wifi_p2p_failed_connect_message">"Impossible de se connecter."</string>
+  <string name="wifi_p2p_failed_connect_message">Impossible de se connecter.</string>
   <string name="wifi_p2p_failed_rename_message">Échec du changement de nom de l\'appareil.</string>
   <string name="wifi_p2p_menu_advanced">Paramètres avancés</string>
   <string name="wifi_p2p_menu_create_group">Créer un groupe</string>
@@ -2468,7 +2467,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_quick_toggle_summary">Activer le Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Enregistré.</string>
-  <string name="wifi_required_info_text">Pour terminer la configuration de votre tablette, vous devez disposer d\'un accès Wi-Fi. Une fois la configuration effectuée, vous pouvez choisir d\'utiliser un forfait de données pour mobile ou un réseau Wi-Fi.</string>
+  <string name="wifi_required_info_text">Pour terminer la configuration de votre tablette, vous devez disposer d\'un accès Wi-Fi. Une fois la configuration effectuée, vous pouvez choisir d\'utiliser un réseau de données mobile ou le Wi-Fi.</string>
   <string name="wifi_save">Enregistrer</string>
   <string name="wifi_secured_first_item">Sécurisé par %1$s.</string>
   <string name="wifi_secured_second_item">, sécurisé par %1$s.</string>
@@ -2622,7 +2621,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_wps_failed_tkip">La configuration de sécurité du routeur sans fil (TKIP) n\'est pas compatible.</string>
   <string name="wifi_wps_failed_wep">La configuration de sécurité du routeur sans fil (WEP) n\'est pas compatible.</string>
   <string name="wifi_wps_in_progress">La configuration WPS est déjà en cours et peut prendre jusqu\'à deux minutes.</string>
-  <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton "Configuration Wi-Fi protégée" de votre routeur. Celui-ci peut s\'appeler "WPS" ou contenir ce symbole : </string>
+  <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton "Configuration Wi-Fi protégée" de votre routeur. Celui-ci peut s\'appeler "WPS" ou contenir ce symbole :</string>
   <string name="wifi_wps_onstart_pin">Saisissez le code %1$s sur votre routeur Wi-Fi. La configuration peut prendre jusqu\'à deux minutes.</string>
   <string name="wifi_wps_overlap_error">Autre session protégée Wi-Fi détectée. Réessayez dans quelques minutes</string>
   <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS…</string>
@@ -2790,7 +2789,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="context_new_contact">Nouveau contact</string>
   <string name="custom_mark_category">Personnalisé</string>
   <string name="deep_clean_tips_cache">iconCertaines applications utilisent des fichiers de cache pour stocker des ressources, téléchargées, supplémentaires (ex : paroles de chansons, musique, images, etc.). Soyez prudent lorsque vous nettoyez ces fichiers.</string>
-  <string name="deep_clean_tips_large_file">iconLe Nettoyeur indique les fichiers volumineux (plus grand que 10Mo) qui sont actuellement stockées sur votre appareil. Vous pouvez seulement décider si oui ou non vous avez encore besoin d\'eux.</string>
+  <string name="deep_clean_tips_large_file">iconLe Nettoyeur indique les fichiers volumineux (plus grand que 10 Mo) qui sont actuellement stockées sur votre appareil. Vous pouvez seulement décider si oui ou non vous avez encore besoin d\'eux.</string>
   <string name="deep_clean_tips_residual">iconLes résidus sont des fichiers (ex : des vidéos, fonds d\'écran, musique, etc) qui ont été téléchargés sur la carte SD de votre appareil par des applications qui ont depuis été désinstallés. Soyez prudent lorsque vous nettoyez, certains de ces fichiers peuvent peut-être encore vous être utiles.</string>
   <string name="deep_clean_title_cache">Cache</string>
   <string name="deep_clean_title_large_file">Fichiers volumineux</string>
@@ -2916,7 +2915,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_clean_garbage">Nettoyé : %d Mo</string>
   <string name="opt_disabled_autorun">%d démarr. auto. d\'appli(s) désactivé(s)</string>
   <string name="opt_done_desc">Terminé</string>
-  <string name="opt_freed_ram">%dMo de mémoire vive libérés</string>
+  <string name="opt_freed_ram">%d Mo de mémoire vive libérés</string>
   <string name="opt_garbage_size">Taille totale :</string>
   <string name="opt_item_app_perm">Gestion des permissions</string>
   <string name="opt_item_autorun">Démarr. auto.</string>
@@ -2949,7 +2948,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="optimize_apk_list_empty_content">Aucun fichier apk trouvé.</string>
   <string name="optimize_cache_header_left">Fichiers cache : %d</string>
   <string name="optimize_cache_list_empty_content">Aucun fichier cache trouvé.</string>
-  <string name="optimize_done">"Ok, c\'est fini !"</string>
+  <string name="optimize_done">Ok, c\'est fini !</string>
   <string name="optimize_large_file_header_left">Fichiers volumineux : %d</string>
   <string name="optimize_large_file_list_empty_content">Aucun fichier volumineux trouvé.</string>
   <string name="optimize_now">Démarrer</string>
@@ -2979,9 +2978,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_autorun_control_desc">Augmenter le nombre d\'applications démarrant automatiquement peut augmenter la consommation d\'énergie de votre téléphone</string>
   <string name="power_autorun_control_title">Démarr. auto.</string>
   <string name="power_autorun_empty">Aucunes applis installées</string>
-  <string name="power_battery_history_days">%1$d jours %2$d h%3$d mins</string>
-  <string name="power_battery_history_hours">%1$d h %2$d mins</string>
-  <string name="power_battery_history_minutes">%1$d mins</string>
+  <string name="power_battery_history_days">%1$d jours %2$d h %3$d min</string>
+  <string name="power_battery_history_hours">%1$d h %2$d min</string>
+  <string name="power_battery_history_minutes">%1$d min</string>
   <string name="power_battery_history_zero_minutes">0 min</string>
   <string name="power_center_battery_full">La batterie est chargée</string>
   <string name="power_center_charge_time">La charge terminera dans %1$s</string>
@@ -2997,7 +2996,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_on_time_title">Planificateur</string>
   <string name="power_center_state_off">Désactivé</string>
   <string name="power_center_state_on">Activé</string>
-  <string name="power_center_title">Batterie</string> 
+  <string name="power_center_title">Batterie</string>
   <string name="power_chooser_check_box_summary">Choisissez un profil de gestion d\'énergie pour prolonger la vie de la batterie</string>
   <string name="power_chooser_check_box_title">Économiser la batterie</string>
   <string name="power_chooser_mine_summary">Sauvegarder les paramètres système d\'origine</string>
@@ -3055,7 +3054,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_dialog_vibration_title">Vibrer</string>
   <string name="power_mgr">Énergie</string>
   <string name="power_mode_airplane_mode">Mode avion</string>
-  <string name="power_mode_auto_clean_memery_lock_screen">Verrouiller l\'écran après %1$d mins</string>
+  <string name="power_mode_auto_clean_memery_lock_screen">Verrouiller l\'écran après %1$d min</string>
   <string name="power_mode_auto_clean_memory">Nettoyer la mémoire automatiquement</string>
   <string name="power_mode_auto_clean_memory_in_five_minutes">Après 5 minutes</string>
   <string name="power_mode_auto_clean_memory_in_one_minute">Après 1 minute</string>
@@ -3119,25 +3118,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_usage_sort_title">Voir la consommation d\'énergie</string>
   <string name="power_used_hours">h</string>
   <string name="power_used_hours_test">8</string>
-  <string name="power_used_mins">mins</string>
+  <string name="power_used_mins">min</string>
   <string name="power_used_mins_test">23</string>
   <string name="power_used_prefix">Énergie consommée</string>
- <!-- probablement à NE PAS traduire  :
-  <string name="pref_key_last_check_canceled">last_check_canceled</string>
-  <string name="pref_key_last_scan_data">lastScanDate</string>
-  <string name="pref_key_latest_optimize_date">latest_optimize_date</string>
-  <string name="pref_key_need_update_app_count">need_update_app_count</string>
-  <string name="pref_key_package_synced">package_synced</string>
-  <string name="pref_key_risk_amount">riskAmount</string>
-  <string name="pref_key_scan_type">scanType</string>
-  <string name="pref_key_virus_amount">virusAmount</string>
-  <string name="pref_key_virus_auto_update_lib">virusAutoUpdate</string>
-  <string name="pref_key_virus_auto_update_lib_time">virusAutoUpdateTime</string>
-  <string name="pref_key_virus_cloud">virusScanCloud</string>
-  <string name="pref_key_virus_install">virusScanInstall</string>
-  <string name="pref_key_virus_is_update">virusScanIsUpdate</string>
-  <string name="pref_key_virus_lib_version">virusLibVersion</string>
- -->
   <string name="process_list_empty_hints">Aucun processus en cache.</string>
   <string name="process_manage_title">%1$d processus stoppés, %2$s de mémoire vide libérés</string>
   <string name="process_manager_actionbar_title">Mémoire utilisée</string>
@@ -3153,7 +3136,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="quick_scan_cleaning_title">Nettoyage…</string>
   <string name="quick_scan_doing_title">Analyse…</string>
   <string name="quick_scan_list_loading_hits">Analyse…</string>
-  <string name="quick_scan_result_summary">Le nettoyage commencera dans %d secs</string>
+  <string name="quick_scan_result_summary">Le nettoyage commencera dans %d sec</string>
   <string name="quick_scan_result_title">%s éléments trouvés</string>
   <string name="realtime_protection">Protection</string>
   <string name="realtime_protection_title">Protection</string>
@@ -3186,7 +3169,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="start_optimize_protection">Démarrage de l\'optimisation de la protection en temps réel…</string>
   <string name="start_optimize_trash">Démarrage de l\'optimisation du cache des applications…</string>
   <string name="storage_size_content">%1$s utilisés | %2$s disponibles</string>
-  <string name="storage_size_title">Stockage</string> 
+  <string name="storage_size_title">Stockage</string>
   <string name="summary_install_virus">Vérifier les applis avant l\'installation</string>
   <string name="summary_mms">Bloquer les messages indésirables (ventes, pub., etc.)</string>
   <string name="summary_permission">Protéger ma confidentialité des applis tierces</string>
@@ -3195,7 +3178,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="summary_virus_update">Mettre à jour automatiquement les définitions de virus quand connecter via Wi-Fi</string>
   <string name="system_cache_title">Cache système</string>
   <string name="title_app_update_no">Mises à jour disponibles pour %d applis</string>
-  <string name="title_app_update_yes">Toutes les applis sont à jour</string> 
+  <string name="title_app_update_yes">Toutes les applis sont à jour</string>
   <string name="title_data_flow_no">Moniteur de données inactif</string>
   <string name="title_data_flow_yes">Moniteur de données actif</string>
   <string name="title_install_virus_no">Moniteur d\'installations inactif</string>
