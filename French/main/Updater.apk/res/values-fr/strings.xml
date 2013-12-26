@@ -13,8 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Annuler</string>
   <string name="apply_update_dialog_update_button">Mettre à jour</string>
   <string name="apply_update_fail">La mise à jour du système a échoué</string>
-  <!-- apply_update_timer  "Update completed: device will reboot in %d seconds" modifié 3.10.12 : "device will reboot in %d second", à raccourcir ? -->
-  <string name="apply_update_timer">Mise à jour terminée, l\'appareil redémarrera dans %d secondes</string>
+  <string name="apply_update_timer">l\'appareil redémarrera dans %d secondes</string>
   <string name="apply_upload_info_message">Appuyez sur "Mettre à jour" pour redémarrer automatiquement le téléphone pour appliquer la mise à jour.</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="applying_rom_message">Application de la mise à jour</string>
@@ -22,7 +21,7 @@
   <string name="best_update">2. Meilleure mise à jour</string>
   <string name="boot_recovery">Redémarrer dans le Recovery</string>
   <string name="cancel_download_buton_text">Annuler</string>
-  <string name="check_update">Rechercher des mises à jour</string>
+  <string name="check_update">Rech. des mises à jour</string>
   <string name="check_update_policy">Vérifier les mises à jour</string>
   <string name="check_update_when_wifi_available">Uniquement en connexion Wi-Fi</string>
   <string name="checking_for_updates">Vérification des mises à jour…</string>
@@ -103,7 +102,7 @@
   <string name="reboot_to_new_system">Redémarrer vers la nouvelle version</string>
   <string name="recommend">Recommandés</string>
   <string name="recommend_comment_hint">Raison (facultatif)</string>
-  <string name="recommend_vote_title">Sondage de l\'équipe MIUI Beta</string>
+  <string name="recommend_vote_title">Sondage de l\'équipe MIUI Bêta</string>
   <string name="refuse_recommend_reason">Veuillez saisir une raison</string>
   <string name="sdcard_has_no_space_dialog_body">La carte SD ne dispose pas d\'assez d\'espace libre, plus d\'espace est nécessaire pour cette opération</string>
   <string name="sdcard_has_no_space_dialog_title">La mémoire disponible sur la carte SD est faible</string>
@@ -117,8 +116,8 @@
   <string name="share_update">Partager les informations de mise à jour système</string>
   <string name="share_update_content_sign">J\'ai mis à jour MIUI vers %1$s ! Mon rang d\'utilisateur de mise à jour est %2$s. Pour le changelog détaillé, veuillez visiter %3$s</string>
   <string name="share_update_content_unsign">J\'ai mis à jour MIUI vers %1$s ! Pour le journal des modifications détaillé, consultez %2$s</string>
-  <string name="sign_in_add_account">Veuillez activer votre compte Xiaomi</string>
-  <string name="sign_in_add_account_helper">Votre téléphone n\'a pas de compte MIUI actif, ajoutez-en un pour recevoir des points utilisateur</string>
+  <string name="sign_in_add_account">Veuillez vous connecter avec un compte Xiaomi</string>
+  <string name="sign_in_add_account_helper">Aucun compte Xiaomi configuré, veuillez en ajouter un.</string>
   <string name="sign_in_info">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sign_in_info_rank_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>

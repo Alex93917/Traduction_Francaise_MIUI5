@@ -41,6 +41,7 @@
   <string name="express_inquiry_serial_number_prefix">"Numéro de série : "</string>
   <string name="balance_inquiry_title">Consultation du solde</string>
   <string name="login_before_recharging">Vous devez vous connecter avant de pouvoir recharger.</string>
+  <string name="login_before_use">Vous devez vous connecter avant de pouvoir l\'utiliser.</string>
   <string name="login_ok">Se connecter</string>
   <string name="mark_number_custom_dialog_maintitle">Accepter ou corriger la marque</string>
   <string name="mark_number_dialog_maintitle">Marquer comme numéro de spam et l\'envoyer</string>
@@ -60,7 +61,7 @@
  <!-- à traduire :
   <string name="packages_title">Preferential flow of packages</string>
  -->
-  <string name="select_package_before_buy">Veuillez sélectionnez le package que vous souhaitez acheter</string>
+  <string name="select_package_before_buy">Veuillez sélectionner le package que vous souhaitez acheter</string>
   <string name="packages_select_to_buy_title">Vous choisissez d\'acheter :</string>
   <string name="packages_pay_hint">Envoyer un SMS (gratuit)</string>
   <string name="packages_pay_success">Message envoyé</string>
@@ -73,7 +74,6 @@
   <string name="payment_failed_common_problems">Un problème est survenu lors du paiement.</string>
   <string name="payment_unknown_status_summary">Vérifiez votre connexion réseau et réessayez.</string>
   <string name="payment_unknown_status_title">Erreur du statut de paiement</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="provider_tag">Source de données</string>
   <string name="recharge_actual_price">Prix :</string>
   <string name="recharge_charge_range">Prix : ¥%1$s-%2$s</string>
@@ -128,4 +128,19 @@ Montant total : %3$s RMB"</string>
   <string name="express_inquiry_no_history">Pas d\'historique</string>
   <string name="express_inquiry_internal_failure">"Une erreur est survenue.
 Veuillez vérifier le numéro de suivi"</string>
+  <string name="provider">Identifié par %s</string>
+  <string name="order_empty_hint">Aucune commande</string>
+  <string name="order_id">Ref. commande : %s</string>
+  <string name="order_merchant_title">Mes commandes - %s</string>
+  <string name="order_price">%s</string>
+  <string name="order_status">%s</string>
+  <string name="navigation_search_all_cities">Toutes les villes</string>
+  <string name="navigation_search_automatically_positioned_city">Ville actuelle</string>
+  <string name="navigation_search_hot_cities">Populaire</string>
+ <!-- navigation_search_no_city_list à revoir : No City data found! -->  
+  <string name="navigation_search_no_city_list">Aucune donnée trouvée !</string>
+  <string name="navigation_search_positioning">Localisation…</string>
+  <string name="navigation_search_positioning_failed">Impossible de localiser la ville</string>
+  <string name="express_inquiry_data_owner_prefix">Infos de suivi fourni par</string>
+  <string name="express_inquiry_data_owner_suffix"/>
 </resources>

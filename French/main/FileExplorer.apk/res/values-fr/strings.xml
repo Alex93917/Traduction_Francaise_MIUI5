@@ -108,7 +108,7 @@
   <string name="file_too_large">"Le fichier est trop volumineux et ne peut être envoyé"</string>
   <string name="finished">Terminé</string>
   <string name="folder_exist">Le fichier existe déjà</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href="%1$s"&gt;Appuyez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Appuyez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
   <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres, des lettres de l\'alphabet. Les majuscules et les minuscules sont différenciées.</string>
   <string name="ftp_anonymous_login">FTP anonyme</string>
   <string name="ftp_invalid_username_or_password">Erreur d\'authentification</string>
@@ -283,7 +283,7 @@ Obtenez de l\'espace gratuit %1$s"</string>
   <string name="upload_failed">Échec du téléchargement !</string>
   <string name="upload_file_toolarge_message">Les fichiers %1$d allant au-delà de 300 Mo ne peuvent pas être partagés. Veuillez vérifier la gestion de transfert pour plus de détails.</string>
   <string name="uploading">Envoi…</string>
-  <string name="used">Utilisé</string>
+  <string name="used">"Utilisé "</string>
   <string name="user_guide">Guide de l\'utilisateur</string>
   <string name="user_guide_download_other_version">"Télécharger MiDrive pour PC ou Mac"</string>
   <string name="user_guide_kuaipan_copy">"Utilisez MiDrive pour accéder à vos fichiers sur plusieurs appareils"</string>

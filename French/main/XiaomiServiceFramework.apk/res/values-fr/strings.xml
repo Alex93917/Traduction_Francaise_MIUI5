@@ -5,7 +5,7 @@
   <string name="access_token_invalid_warning">Votre compte Weibo est non valide, veuillez le rattacher</string>
   <string name="account">Compte</string>
   <string name="account_dspt">Un compte Xiaomi permet de synchroniser et sauvegarder vos messages, contacts, photos, etc.</string>
-  <string name="account_hint_text">Mail ou Numéro de téléphone</string>
+  <string name="account_hint_text">Mail ou numéro de téléphone</string>
   <string name="account_name">Compte : %1$s</string>
   <string name="activate_phone_failed_notif_title">Échec de l\'activation du service MiCloud</string>
   <string name="activate_phone_send_sms_fail">Échec de l\'envoi du SMS d\'activation, impossible d\'ouvrir le service de synchronisation</string>
@@ -77,7 +77,7 @@
   <string name="dirty_mms_count">%d message(s)</string>
   <string name="dirty_note_count">%d note(s)</string>
   <string name="disable_find_device_error">Erreur : %1$s</string>
-  <string name="disable_micloud">&lt;u&gt;Désactiver MiCloud&lt;/u&gt;</string>
+  <string name="disable_micloud"><u>Désactiver MiCloud</u></string>
   <string name="email_already_be_used">Adresse mail déjà associée avec un autre compte.</string>
   <string name="enableAll">Tout activer</string>
   <string name="enable_find_device_error">Erreur : %1$s</string>
@@ -154,7 +154,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_input_password_prompt">Saisissez le mot de passe</string>
   <string name="micloud_intro_01_part_01">Sauvegarde vos données mobiles</string>
   <string name="micloud_intro_01_part_02">Messagerie gratuite via Wi-Fi</string>
-  <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB et comptes mail pour déplacer vos fichiers !</string>
+  <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB et mails pour déplacer vos fichiers !</string>
   <string name="micloud_intro_02_part_02">Synchronise vos contacts, messages, photos et autres données sur divers appareils.</string>
   <string name="micloud_intro_03_part_01">Sécurise le contenu de votre téléphone à distance</string>
   <string name="micloud_intro_03_part_02">Localise, verrouille ou supprime le contenu de votre appareil à distance sur i.xiaomi.com.</string>
@@ -174,7 +174,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="mili_center">MiCredit</string>
   <string name="my_xiaomi_account">Compte Xiaomi</string>
   <string name="next">Suivant</string>
-  <string name="nobind">Ne pas associer</string>
+  <string name="nobind">Non associé</string>
   <string name="noRemind">Ne pas rappeler</string>
   <string name="other_settings">Autres paramètres</string>
   <string name="password">Mot de passe</string>
@@ -231,8 +231,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="user_agreement_p5">En vous inscrivant, vous acceptez les</string>
   <string name="vcode">Code de vérification</string>
   <string name="vcode_prompt_long">Veuillez saisir le code de vérification généré par Xiaomi</string>
- <!-- vcode_notification_title à revoir ? original : Your login verification is incomplete -->
-  <string name="vcode_notification_title">La vérification de compte n\'est pas complétée.</string>
+  <string name="vcode_notification_title">La vérification de votre compte est incomplète.</string>
   <string name="wipe_data_dialog_title">Certains éléments n\'ont pas été synchronisés.</string>
   <string name="wipe_data_dialog_msg">%s n\'ont pas été synchronisés (ces données seront perdues si vous continuez).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>

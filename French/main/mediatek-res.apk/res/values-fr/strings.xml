@@ -15,8 +15,8 @@
   <string name="serviceProvisioned">Service mis en service.</string>
   <string name="serviceUnknown">Problème de connexion ou code MMI non valide.</string>
   <string name="cfServiceNotForwarded">Non transmis</string>
-  <string name="permlab_receiveCbSms">Recevoir SMS CB</string>
-  <string name="permdesc_receiveCbSms">Permet à une application de recevoir et traiter des messages SMS CB. Des applications malveillantes peuvent surveiller vos messages et les supprimer sans que vous les voyez.</string>
+  <string name="permlab_receiveCbSms">recevoir SMS CB</string>
+  <string name="permdesc_receiveCbSms">Permet à l\'application de recevoir et traiter des messages SMS CB. Des applications malveillantes peuvent surveiller vos messages et les supprimer sans que vous les voyez.</string>
   <string name="keyguard_password_enter_puk_code">Entrez le code PUK</string>
   <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
   <string name="keyguard_password_enter_new_pin_code">Entrez le nouveau code PIN</string>
@@ -121,7 +121,7 @@
   <string name="dismiss">Rejeter</string>
   <string name="keyguard_wrong_code_input">Code incorrect.</string>
   <string name="keyguard_code_length_prompt">Entrez entre 4 et 8 chiffres.</string>
-  <string name="keyguard_code_donnot_mismatch">"Ne correspondent pas."</string>
+  <string name="keyguard_code_donnot_mismatch">Ne correspondent pas.</string>
   <string name="for_text">pour</string>
   <string name="keyguard_internal_call">Appel interne</string>
   <string name="keyguard_not_set">Non défini</string>
@@ -186,8 +186,8 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="sim_missing_slot2">Emplacement 2 : pas de carte SIM détectée</string>
   <string name="sim_missing">Aucune carte SIM détectée</string>
   <string name="sim_missing_detail">Veuillez vérifier si la carte SIM est prête</string>
-  <string name="wap_push_setting_noti_ticker">Accepter le service Auto-push ou pas ?</string>
-  <string name="wap_push_setting_noti_title">Accepter le service Auto-push ou pas?</string>
+  <string name="wap_push_setting_noti_ticker">Accepter le service Auto-push ?</string>
+  <string name="wap_push_setting_noti_title">Accepter le service Auto-push ?</string>
   <string name="wap_push_setting_noti_text">Veuillez appuyer pour sélectionner</string>
   <string name="url_dialog_choice_title">Messages</string>
   <string name="url_dialog_choice_message">Ceci va ouvrir le navigateur, continuer ?</string>
@@ -238,5 +238,5 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
   <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
   <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
- -->  
+ -->
 </resources>

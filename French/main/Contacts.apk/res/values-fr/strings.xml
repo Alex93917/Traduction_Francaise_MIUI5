@@ -25,7 +25,7 @@
   <string name="add_organization">Ajouter une entreprise</string>
   <string name="add_slide_before">Ajouter une diapositive (avant)</string>
   <string name="add_to_my_contacts">Ajouter à mes Contacts</string>
-  <string name="add_wait">Ajouter Attendre</string>
+  <string name="add_wait">Ajouter une attente</string>
   <string name="add_xiaomi_account_dialog_btn">Utiliser un compte Xiaomi</string>
   <string name="add_xiaomi_account_dialog_msg">Pour une meilleure expérience pensez à utiliser votre compte Xiaomi pour synchroniser et récupérer vos contacts, et pour les gérer à partir de votre ordinateur.</string>
   <string name="add_xiaomi_account_dialog_title">Choisir le compte de synchronisation</string>
@@ -107,6 +107,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="callrecordview_menu_delete_confirm">Confirmer %s ?</string>
   <string name="callrecordview_menu_delete_missed">Effacer les appels manqués du journal d\'appels</string>
   <string name="callrecordview_menu_delete_new">Effacer les nouveaux contacts du journal d\'appels</string>
+  <string name="callrecordview_menu_delete_sim">Effacer %s entrées du journal d\'appels</string>
   <string name="callrecordview_menu_delete_one">Retirer du journal d\'appels</string>
   <string name="callrecordview_menu_delete_stranger">Effacer les numéros inconnus du journal d\'appels</string>
   <string name="callrecordview_menu_edit_call_note">Éditer note d\'appel</string>
@@ -118,6 +119,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="callrecordview_menu_show_called">Afficher les appels sortants</string>
   <string name="callrecordview_menu_show_missed">Afficher les appels manqués</string>
   <string name="callrecordview_menu_show_new">Nouveaux contacts</string>
+  <string name="callrecordview_menu_show_sim">%s appels</string>
   <string name="callrecordview_menu_show_stranger">Afficher les appels inconnus</string>
   <string name="callrecordview_menu_show_title">Filtre du journal d\'appels</string>
   <string name="cancel_confirmation_dialog_message">Voulez-vous annuler les modifications ?</string>
@@ -351,6 +353,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
+  <string name="export_to_sim2">Exporter vers la carte SIM 2</string>
   <string name="export_to_sim_title">Export vers la carte SIM…</string>
   <string name="export_vcard_description">Exporter au format vCard (carte de visite) vers la carte SD</string>
   <string name="exporting_contact_failed_message">"Échec de l'exportation des données des contacts. (Raison : %s)"</string>
@@ -364,7 +367,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="fail_reason_could_not_initialize_exporter">Impossible de démarrer le programme d\'exportation : \"%s\".</string>
   <string name="fail_reason_could_not_open_file" formatted="false">"Impossible d'ouvrir "%s" : %s
 (Raison : %2$s)"</string>
-  <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite lors de l\'exportation : "%s".</string>
+  <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite lors de l\'exportation : \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Impossible de collecter des métadonnées contenues dans le ou les fichiers vCard."</string>
   <string name="fail_reason_failed_to_read_files">"Impossible d'importer un ou plusieurs fichiers (%s)."</string>
   <string name="fail_reason_io_error">Erreur E/S</string>
@@ -427,6 +430,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="import_from_other_phone">Importer à partir d\'un autre téléphone</string>
   <string name="import_from_sdcard">Importer depuis la carte SD</string>
   <string name="import_from_sim">Importer depuis la carte SIM</string>
+  <string name="import_from_sim2">Importer depuis la carte SIM 2</string>
   <string name="import_multiple_vcard_string">Importer plusieurs fichiers de carte de visite</string>
   <string name="import_name">nom</string>
   <string name="import_one_vcard_string">Importer le fichier de carte de visite</string>
@@ -508,6 +512,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="menu_call">Appeler le contact</string>
   <string name="menu_callNumber">Appel de %s</string>
   <string name="menu_call_ip_number">Composer appel IP (compose %s)</string>
+  <string name="menu_dial_ip_number">Composer appel IP</string>
   <string name="menu_clear_frequents">Effacer les contacts fréquents</string>
   <string name="menu_contacts_filter">Contacts à afficher</string>
   <string name="menu_copy">Copier</string>
@@ -559,7 +564,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="name_given">Prénom</string>
   <string name="name_middle">2e prénom</string>
   <string name="name_phonetic">Nom phonétique</string>
-  <string name="name_phonetic_family">Phonétique du nom de famille</string>
+  <string name="name_phonetic_family">Phonétique du nom</string>
   <string name="name_phonetic_given">Phonétique du prénom</string>
   <string name="name_phonetic_middle">Phonétique 2e prénom</string>
   <string name="name_prefix">Titre</string>
@@ -630,6 +635,7 @@ Pour ajouter un contact à la liste de favoris :
 • Sauvegardez vos contacts en toute sécurité."</string>
   <string name="no_contact_details">Aucune autre information n\'est disponible pour ce contact.</string>
   <string name="no_contact_in_other_phone">Il n\'y a pas de contact dans votre téléphone</string>
+  <string name="no_connection_dialog_title">Échec de la connexion Bluetooth</string>
   <string name="no_contacts_dialog_message">Il n\'y a personne dans vos contacts. Ils sont peut-être stockés dans la carte SIM, veuillez importer les informations de la carte SIM dans le téléphone.</string>
   <string name="no_contacts_dialog_title">Aucun contact trouvé</string>
   <string name="no_contacts_selected">Aucun contact sélectionné</string>
@@ -666,7 +672,6 @@ Pour ajouter un contact à la liste de favoris :
   <string name="percent_sign">%</string>
   <string name="percentage">%s %%</string>
   <string name="phoneLabelsGroup">Téléphone</string>
-  <string name="phone_info_divider">"  |  "</string>
   <string name="phone_primary">Principal</string>
   <string name="photoPickerNotFoundText">Aucune image disponible</string>
   <string name="photo_package_activity_title">Lot de photos</string>
@@ -909,7 +914,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="scanning">Recherche de périphériques…</string>
   <string name="scanning_sdcard_failed_message">Échec de la recherche sur la carte SD (Raison : %s)</string>
   <string name="scanning_sdcard_failed_title">"Recherche impossible sur la carte SD"</string>
-  <string name="sdcard_not_mounted_dialog_message">"Carte SD non disponible, veuillez en ajouter une."</string>
+  <string name="sdcard_not_mounted_dialog_message">"Veuillez insérer une carte SD.
+ "</string>
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
   <string name="sdcard_status_changed_dialog_message">"L'application va fermer. Veuillez la rouvrir pour actualiser les ressources."</string>
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
@@ -1019,7 +1025,6 @@ Pour ajouter un contact à la liste de favoris :
   <string name="strequentList">Favoris</string>
   <string name="success_message_import_from_account">Importé avec succès</string>
   <string name="summary_kind_title">Résumé</string>
-  <string name="t9_search_guide">Entrez le numéro ou recherchez des contacts avec l\'index T9.</string>
   <string name="take_new_photo">Prendre une autre photo</string>
   <string name="take_photo">Prendre une photo</string>
   <string name="titleJoinContactDataWith">Joindre les contacts</string>
@@ -1038,6 +1043,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="today">Aujourd\'hui</string>
   <string name="type_incoming">Appel entrant</string>
   <string name="type_missed">Appel manqué</string>
+  <string name="type_mx_msg">Messagerie Cloud</string>
   <string name="type_outgoing">Appel sortant</string>
   <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Messagerie vocale</string>
@@ -1088,10 +1094,9 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_account_login">Connexion</string>
   <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Xiaomi.</string>
   <string name="resource_account_login_title">Connexion</string>
-  <string name="resource_account_switch">Changer de compte</string> 
+  <string name="resource_account_switch">Changer de compte</string>
   <string name="resource_comment_loading_list">Chargement des commentaires…</string>
   <string name="resource_comment_score_count">%1$s utilisateurs</string>
- <!-- resource_exchange & resource_exchange_window_title à revoir ? -->
   <string name="resource_exchange">Activer un code</string>
   <string name="resource_exchange_confirm">Confirmer</string>
   <string name="resource_exchange_empty_format">Veuillez saisir un code !</string>
@@ -1100,14 +1105,13 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_exchange_has_used">Ce code a déjà été utilisé.</string>
   <string name="resource_exchange_hint">Saisissez votre code</string>
   <string name="resource_exchange_purchase_unkown_error">Une erreur inconnue s\'est produite. Veuillez vous connecter via http://market.xiaomi.com pour voir l\'état de votre paiement.</string>
-  <string name="resource_exchange_share_code_content">Vous avez reçu un code pour %1$s sur le magasin de thèmes MIUI. Votre code MiCredit est : %2$s. Appuyer %3$s pour l\'utiliser maintenant.</string>
- <!-- resource_exchange_share_code_dlg_content à revoir? : "pour %1$s est : %2$s" ?? -->
-  <string name="resource_exchange_share_code_dlg_content">Code acheté avec succès pour %1$s est : %2$s. Vous pouvez maintenant le partager avec des amis.</string>
+  <string name="resource_exchange_share_code_content">Vous avez reçu un code cadeau pour le thème MIUI \"%1$s\". Votre code est : %2$s. Appuyer sur %3$s pour l\'utiliser maintenant.</string>
+  <string name="resource_exchange_share_code_dlg_content">Code cadeau, pour le thème \"%1$s\", acheté avec succès. Le code est : %2$s. Vous pouvez le partager avec un ami.</string>
   <string name="resource_exchange_share_code_dlg_title">Envoyer un code</string>
   <string name="resource_exchange_success">Transaction réussie</string>
   <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>
   <string name="resource_exchange_universal_finish">Utilisez ce code pour télécharger un thème depuis le magasin de thèmes MIUI.</string>
-  <string name="resource_exchange_universal_goon">Ce code peut être utilisé pour télécharger n\'importe quel thème depuis le magasin de thèmes MIUI.</string> 
+  <string name="resource_exchange_universal_goon">Ce code peut être utilisé pour télécharger n\'importe quel thème depuis le magasin de thèmes MIUI.</string>
   <string name="resource_exchange_window_title">Activer un code</string>
   <string name="resource_exchange_wrong_format_by_local">Code saisi non valide</string>
   <string name="resource_exchange_wrong_format_by_server">Le code n\'a pas pu être validé. Veuillez vérifier votre code.</string>
@@ -1125,4 +1129,41 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_unknow_error">Une erreur inconnue s\'est produite.</string>
   <string name="resource_user_know">OK</string>
   <string name="to_activate_the_account">Veuillez activer votre compte Xiaomi</string>
+  <string name="login_before_recharging">Veuillez vous identifier pour pouvoir recharger.</string>
+  <string name="login_ok">Connexion</string>
+  <string name="refresh">Actualiser</string>
+  <string name="t9_search_guide">Saisir un numéro ou rechercher des contacts avec le T9.</string>
+  <string name="t9_search_guide_pinyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
+  <string name="t9_search_guide_zhuyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
+  <string name="yellowPageNavigationIconLabel">Annuaire</string>
+  <string name="yellowPageNavigationLabel">Annuaire</string>
+  <string name="yellowpage_navigation_no_content">Aucun résultat</string>
+  <string name="yellowpage_navigation_search_city_name_hint">Recherche par ville</string>
+  <string name="yellowpage_navigation_search_hint">Recherche</string>
+  <string name="yellowpage_navigation_search_offline_hint">Réseau indisponible</string>
+  <string name="yellowpage_navigation_search_result_network_error">Impossible de se connecter au réseau</string>
+  <string name="yellowpage_navigation_search_result_no_more">Aucun autre résultat</string>
+  <string name="yellowpage_navigation_search_result_service_error">Service actuellement indisponible</string>
+  <string name="yellowpage_navigation_search_result_unknown_error">Une erreur inconnue s\'est produite !</string>
+  <string name="yellowpage_navigation_search_select_city">Veuillez sélectionner une ville</string>
+  <string name="imei_invalid">IMEI non valide</string>
+  <string name="has_double_phone_number">Impossible de sauvegarder 2 fois le même type de numéro, veuillez vérifier.</string>
+  <string name="phone_book_busy">Le carnet d\'adresses est occupé, veuillez réessayez plus tard.</string>
+  <string name="sim_invalid">Impossible de sauver un contact quand la carte SIM n\'est pas valide.</string>
+  <string name="cannot_insert_null_number">Impossible de sauvegarder le contact, le nom et le numéro sont vides.</string>
+  <string name="AirPlane_mode_on">Impossible de sauvegarder un contact quand le mode avion est actif.</string>
+  <string name="FDNEnabled">Impossible de sauvegarder un contact quand la restriction d\'appels est active.</string>
+  <string name="sim_invalid_number">Impossible de sauvegarder un numéro non valide.</string>
+  <string name="email_invalid">Impossible de sauvegarder un email non valide.</string>
+  <string name="email_2g_invalid">Impossible de sauvegarder un email sur la SIM 2G, sélectionnez la carte SIM 3G.</string>
+  <string name="sim_invalid_fix_number">Impossible de sauvegarder un numéro fixe non valide.</string>
+  <string name="AirPlane_mode_on_edit">Impossible d\'éditer un contact quand le mode avion est actif.</string>
+  <string name="msg_loading_sim_contacts_toast">Chargement des contacts SIM en arrière-plan, veuillez patienter.</string>
+  <string name="fix_number_too_long">Numéro fixe trop long.</string>
+  <string name="name_too_long">Nom trop long.</string>
+  <string name="storage_full">Espace de stockage plein.</string>
+  <string name="number_too_long">Numéro trop long.</string>
+  <string name="generic_failure">Échec général.</string>
+  <string name="email_too_long">Email trop long.</string>
+  <string name="error_save_usim_contact_email_lost">Impossible de sauvegarder l\'email car le stockage USIM pour les emails est complet.</string>
 </resources>

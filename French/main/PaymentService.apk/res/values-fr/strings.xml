@@ -5,6 +5,7 @@
   <string name="app_name">Service de paiement</string>
   <string name="balance">Solde : %1$s MiCredits</string>
   <string name="balance_giftcard_payment">%1$s MiCredits (%2$s MiCredit carte-cadeau)</string>
+  <string name="balance_no_giftcard_payment">%1$s MiCredits (impossible d\'utiliser une carte-cadeau pour cet achat)</string>
   <string name="balance_payment">%1$s MiCredits</string>
   <string name="bankcall_bank_account">Carte bancaire :</string>
   <string name="bankcall_call_hint">"Vous allez recevoir une demande de règlement d'Union (020-96585). Veuillez suivre les instructions pour compléter la transaction."</string>
@@ -89,7 +90,7 @@ Veuillez réessayer dans cinq minutes"</string>
   <string name="fee">%1$s MiCredit</string>
   <string name="forget_password">&lt;u&gt;Réinitialiser le mot de passe&lt;/u&gt;</string>
   <string name="format_date">dd MMM yyyy</string>
-  <string name="format_time">dd MMM yyyy hh:mmaa</string>
+  <string name="format_time">dd MMM yyyy H:mm</string>
   <string name="frozen">(Gelé)</string>
   <string name="giftcard_acitivity_and_denomination">Carte-cadeau %2$s MiCredit de %1$s</string>
   <string name="giftcard_denom">MiCredit</string>
@@ -305,13 +306,13 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer :</string>
   <string name="lockpattern_recording_inprogress">Ôtez le doigt lorsque vous avez terminé.</string>
   <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
-  <string name="lockpattern_retry_text">&lt;u&gt;Réinitialiser le schéma de verrouillage&lt;/u&gt;</string>
+  <string name="lockpattern_retry_text"><u>Réinitialiser le schéma de verrouillage</u></string>
   <string name="lockpattern_settings_help_how_to_record">Comment dessiner un schéma de déverrouillage :</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Réessayer dans %d secondes.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Trop de tentatives échouées !&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Annuler</string>
   <string name="lockpattern_tutorial_continue_label">Suivant</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Schéma oublié ?&lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text"><u>Schéma oublié ?</u></string>
   <string name="login">Connexion</string>
   <string name="memu_refresh">Actualiser</string>
   <string name="mibi_license_message">Service MiCredit de Xiaomi. En appuyant sur OK, vous acceptez être en accord avec le %1$s.</string>
@@ -436,4 +437,34 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="voucher_error_password">Code de bon MiCredit non valide !</string>
   <string name="voucher_error_password_empty">Champ vide, veuillez saisir un code !</string>
   <string name="voucher_input_password_prompt">Saisir le code</string>
+  <string name="button_confirm">Confirmer</string>
+  <string name="button_next">Suivant</string>
+  <string name="colon">" : "</string>
+  <string name="detail_consume_account">ID client</string>
+  <string name="detail_consume_amount">Montant</string>
+  <string name="detail_consume_name">Article</string>
+  <string name="detail_consume_order">ID commande</string>
+ <!-- à traduire : date ? 
+  <string name="detail_consume_time">Time</string>
+ -->
+  <string name="detail_consume_title">Historique de paiements</string>
+  <string name="detail_giftcard_activity">Promotion</string>
+  <string name="detail_giftcard_expired_time">Date d\'expiration </string>
+  <string name="detail_giftcard_theme">Acheter des thèmes</string>
+  <string name="detail_giftcard_title">Détails de la carte cadeau</string>
+  <string name="detail_giftcard_total">Total de la carte cadeau</string>
+  <string name="detail_pay_account">ID paiement</string>
+  <string name="detail_recharge_account">ID recharge</string>
+  <string name="detail_recharge_amount">Montant</string>
+  <string name="detail_recharge_method">Méthode</string>
+  <string name="detail_recharge_order">Commande No :</string>
+ <!-- à traduire : date ?
+  <string name="detail_recharge_time">Time</string>
+ -->
+  <string name="detail_recharge_title">Historique de recharges</string>
+ <!-- à traduire : 
+  <string name="scan_prompt_number">Scan %1$s prepaid card number</string>
+  <string name="scan_prompt_password">Scan %1$s prepaid card password</string>
+  <string name="scan_prompt_voucher">Scan MiCredit password</string>
+ -->
  </resources>
