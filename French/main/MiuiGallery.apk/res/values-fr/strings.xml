@@ -70,7 +70,7 @@
   <string name="camera_folder_display_name">Appareil photo</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Fond d\'écran</string>
-  <string name="camera_view_none_message">Les photos prises seront affichées ici.</string>
+  <string name="camera_view_none_message">Les photos et vidéos prises seront affichées ici.</string>
   <string name="can_modified">Autoriser le partageur à ajouter des images</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_hint">L\'opération a été annulée</string>
@@ -112,7 +112,7 @@
   <string name="cloudfolder_name_reserved">Le nom du dossier est réservé.</string>
   <string name="comfirm_delete_current_album">Supprimer l\'album actuel ?</string>
   <string name="confirm">OK</string>
-  <string name="confirm_delete">Confirmer la suppression de %s ?</string>
+  <string name="confirm_delete">Supprimer %s élément(s) ?</string>
   <string name="confirm_delete_album" formatted="false">Êtes-vous sûr de vouloir supprimer %s albums (contenant %s éléments) ?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) dans %s album(s), êtes-vous sûr de vouloir les supprimer ?</string>
   <string name="confirm_delete_folders_and_pictures">Êtes-vous sûr de vouloir supprimer %s ?</string>
@@ -202,7 +202,7 @@
   <string name="flip_tooltip">Faire glisser la photo pour la retourner</string>
   <string name="focal_length">Longueur focale</string>
  <!-- à traduire :
-  <string name="folder_holder_file">File placeholder</string>
+  <string name="folder_holder_file">File placeholder</string>  xiaomi : should delete this file later
  -->
   <string name="frame_black">Noir</string>
   <string name="frame_button">Cadre</string>
@@ -225,11 +225,10 @@
   <string name="has_invalid_recipient">Destinataire(s) non valide(s) : %1$s</string>
   <string name="height">Hauteur</string>
   <string name="highlight">Reflets</string>
-  <string name="home_my_captured_items">photo(s) au total</string>
+  <string name="home_my_captured_items">Photo(s) capturée(s)</string>
   <string name="how_many_pics">%d photo(s)</string>
   <string name="how_many_sub_folders">%d dossier(s)</string>
   <string name="how_many_videos">%d vidéo(s)</string>
-  <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_quota_fulfiled">"Impossible de créer l'image, le quota d'images a atteint sa limite."</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importation terminée</string>
@@ -298,7 +297,7 @@
   <string name="no_location">Aucun lieu</string>
   <string name="no_map_app">Aucune application de cartographie installée</string>
   <string name="no_network_connected">Aucune connexion réseau disponible</string>
-  <string name="no_picture_or_video">Pas de photos ou de vidéos</string>
+  <string name="no_picture_or_video">Aucun fichier</string>
   <string name="no_storage_disable_cloud_albums">Les albums du MiCloud sont désactivés, veuillez réessayer lorsque le stockage externe sera disponible.</string>
   <string name="no_such_item">"Impossible de trouver l'élément."</string>
   <string name="no_thumbnail">Aucune vignette</string>
@@ -461,7 +460,7 @@
   <string name="tab_wallpaper_text">Accueil</string>
   <string name="tags">Tags</string>
   <string name="temperature">Chaud</string>
-  <string name="tencent_mobile_qq_img_save">QQ2012</string>
+  <string name="tencent_mobile_qq_img_save">QQ 2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
   <string name="there_is_no_image">Aucune image.</string>
@@ -470,7 +469,7 @@
   <string name="times">Heures</string>
   <string name="tint">Coloration</string>
   <string name="title">Titre</string>
-  <string name="to_count">%d total</string>
+  <string name="to_count">%d au total</string>
   <string name="too_many_recipients">Le message a trop de destinataires (%1$s), le nombre total autorisé est de %2$s.</string>
   <string name="try_to_send">Tentative d\'envoi</string>
   <string name="turn_left">Faire pivoter à gauche</string>
@@ -524,4 +523,8 @@
   <string name="loading_image">Téléchargement de l\'image…</string>
   <string name="loading_suspend">Téléchargement mis en attente : il redémarrera lorsqu\'une connexion Wi-Fi sera disponible.</string>
   <string name="loading_video">Téléchargement de la vidéo…</string>
+  <string name="external_usb_device_hm">Stockage externe USB</string>
+  <string name="internal_sd_card_hm">Stockage interne</string>
+  <string name="item_not_sync">Cet élément n\'a pas été synchronisé sur le cloud et ne peut pas être téléchargé</string>
+  <string name="move">Déplacer</string>
 </resources>

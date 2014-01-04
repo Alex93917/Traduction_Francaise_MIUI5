@@ -570,7 +570,22 @@ Vous pouvez maintenant transférer des fichiers"</item>
        <item>Appareil photo</item>
        <item>Albums</item>
        <item>Musique</item>
-       <item>Vidéo</item>
        <item>E-mail</item>
    </string-array>
+   <string-array name="sim_slot">
+       <item>(non spécifié)</item>
+       <item>Sim Slot 1</item>
+       <item>Sim Slot 2</item>
+   </string-array>
+ <!-- à traduire
+   <string-array name="multi_sim_summaries_voice">
+       <item>Subscription 1</item>
+       <item>Subscription 2</item>
+       <item>Prompt User</item>
+   </string-array>
+   <string-array name="multi_sim_summaries">
+       <item>Subscription 1</item>
+       <item>Subscription 2</item>
+   </string-array>
+ -->
 </resources>

@@ -50,6 +50,7 @@
   <string name="custom_adjust_sender">Numéro de l\'expéditeur</string>
   <string name="custom_adjust_sender_hint">Numéro de l\'opérateur utilisé pour recevoir les détails de la requête de l\'utilisateur</string>
   <string name="custom_adjust_title">Ajuster les paramètres personnalisés</string>
+  <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
   <string name="daily_limit_dialog_disconnect_hint">Déconnecter Internet lorsque le trafic dépasse la limite définie</string>
   <string name="daily_limit_dialog_hint">Limite journalière de trafic (vide ou 0 signifie aucune limite)</string>
   <string name="daily_limit_result">Être informé et déconnecter Internet lorsque le trafic journalier dépasse %d Mo</string>
@@ -173,4 +174,18 @@
   <string name="network_control_service_notification_title_single">Connexion %2$s bloquée pour %1$s</string>
   <string name="pref_connect_settings_monitor_running_app">Afficher les notifications</string>
   <string name="pref_connect_settings_monitor_running_app_summary">Affiche une notification quand une appli est bloquée du réseau</string>
+  <string name="notify_traffic_settings_format">"%s n\'a pas été configuré pour votre forfait de données ? Configurer maintenant ?</string>
+  <string name="notify_carrier_settings_format">"%s n\'a pas été configuré pour votre forfait voix/SMS. Configurer maintenant ?"</string>
+  <string name="yesterday_mobile_format">%s Trafic d\'hier</string>
+  <string name="today_mobile_format">%s Trafic d\'aujourd\'hui</string>
+  <string name="this_month_mobile_format">%s Trafic du mois</string>
+  <string name="yesterday_wlan">Trafic Wi-Fi d\'hier</string>
+  <string name="today_wlan">Trafic Wi-Fi d\'aujourd\'hui</string>
+  <string name="this_month_wlan">Trafic Wi-Fi du mois</string>
+  <string name="yesterday_total_traffic_format">%s Trafic d\'hier</string>
+  <string name="today_total_traffic_format">%s Trafic d\'aujourd\'hui</string>
+  <string name="this_month_total_traffic_format">%s Trafic du mois</string>
+ <!-- à traduire :
+  <string name="another_sim_card_adjusting">Another SIM card is adjusting.</string>
+ -->
 </resources>
