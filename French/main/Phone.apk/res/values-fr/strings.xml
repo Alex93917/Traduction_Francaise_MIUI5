@@ -17,8 +17,6 @@
   <string name="administrative_disable">Option "Administration" désactivée</string>
   <string name="administrative_enable">Option "Administration" activée</string>
   <string name="advanced_settings">Paramètres facultatifs</string>
- <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="advanced_settings_container">conteneur de paramètres avancés</string> -->
   <string name="advanced_settings_hide">▽ Appuyer ici pour tout masquer</string>
   <string name="advanced_settings_show">▷ Appuyer ici pour tout afficher</string>
   <string name="advertisements_disable">Option "Annonces" désactivée</string>
@@ -59,8 +57,6 @@
   <string name="audio_mode_wired_headset">Écouteurs filaires</string>
   <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Nom d\'utilisateur utilisé pour l\'authentification</string>
-  <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="auth_username_title">Nom d\'utilisateur d\'authentification</string> -->
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
   <string name="auto_answer_delay_entries_delay_3s_miui">3s</string>
   <string name="auto_answer_delay_entries_delay_5s_miui">5s</string>
@@ -74,7 +70,7 @@
   <string name="auto_answer_scenario_enteries_headset_only_miui">Casque uniquement</string>
   <string name="auto_answer_scenario_title_miui">Scénario pour le décrochage auto</string>
   <string name="auto_answer_setting_title_miui">Réglages de réponse automatique</string>
-  <string name="auto_answer_summary_delay">(délai : %ss)</string>
+  <string name="auto_answer_summary_delay">" (délai : %ss)"</string>
   <string name="auto_answer_summary_not_enabled">Inactif</string>
   <string name="auto_country_code_miui">Ajout automatique du code pays</string>
   <string name="auto_country_code_sum_miui">Ajouter automatiquement le code du pays avant de composer les contacts connus</string>
@@ -146,13 +142,13 @@
   <string name="call_lost">L\'appel a été perdu.</string>
   <string name="call_number">À :</string>
   <string name="call_record_button_label">Enregistrement %s</string>
+  <string name="call_record_error_access">"Impossible d'enregistrer en mode Invité"</string>
   <string name="call_record_notification_message_low_space_miui">L\'enregistrement s\'est arrêté en raison de mémoire faible, appuyez pour voir %s.</string>
   <string name="call_record_notification_message_miui">Appuyez pour voir %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Enregistrement arrêté parce que la carte SD est démontée.</string>
   <string name="call_record_notification_message_start_failed">L\'appareil d\'enregistrement est utilisé par une autre application.</string>
   <string name="call_record_notification_title_error_miui">Échec de l\'enregistrement des appels</string>
   <string name="call_record_notification_title_miui">Enregistrement de l\'appel réussi</string>
-  <string name="call_record_path_name_of_sdcard_miui">Carte SD</string>
   <string name="call_record_sd_error_miui">Erreur d\'accès à la carte SD !</string>
   <string name="call_record_sd_space_low_miui">La mémoire de la Carte SD est faible, veuillez essayer à nouveau après avoir libéré de l\'espace</string>
   <string name="call_record_setting_miui">Paramètres d\'enregistrement d\'appel</string>
@@ -297,7 +293,7 @@
   <string name="crystaltalk_title_miui">Paramètre du Multiplexage audio à compression quasi-instantanée</string>
   <string name="current_areacode_miui">Code de zone actuel</string>
   <string name="current_areacode_sum_miui">Indicatif régional de l\'emplacement actuel, ou indicatif régional d\'itinérance si vous êtes en itinérance. Par exemple : 010</string>
-  <string name="current_areacode_sum_set_miui">Emplacement de l\'indicatif régional actuel : %s</string>
+  <string name="current_areacode_sum_set_miui">Indicatif régional actuel : %s</string>
   <string name="cursorError">Erreur de curseur</string>
   <string name="custom_location_location_hint_miui">Nom</string>
   <string name="custom_location_location_no_item_miui">"Appuyez sur "Ajouter" ci-dessous pour ajouter l'attribution personnalisée"</string>
@@ -365,12 +361,8 @@
   <string name="disable_pin_ok">Code PIN de la carte SIM désactivé.</string>
   <string name="disable_sim_pin">Désactiver le code PIN de la carte SIM</string>
   <string name="disable_sim_pin_miui">Désactiver le code PIN de la carte SIM</string>
-  <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="display_name">Afficher le nom</string> -->
   <string name="display_name_summary">&lt;Identique au nom d\'utilisateur&gt;</string>
   <string name="display_name_title">Nom affiché</string>
-  <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="domain_address">Adresse Sip</string> -->
   <string name="domain_address_title">Serveur</string>
   <string name="doneButton">OK</string>
   <string name="dtmf_tone_enable_title">Numérotation sonore</string>
@@ -396,8 +388,8 @@
   <string name="empty_alert">Le champ %s est obligatoire.</string>
   <string name="empty_networks_list">Aucun réseau trouvé.</string>
   <string name="enable">Activer</string>
-  <string name="enable_antispam_strange_summary">Couper le son du premier appel d\'un numéro inconnu</string>
-  <string name="enable_antispam_strange_title">Appel anti étranger</string>
+  <string name="enable_antispam_strange_summary">Coupe le son du premier appel d\'un numéro inconnu</string>
+  <string name="enable_antispam_strange_title">Numéros inconnus en silencieux</string>
   <string name="enable_disable_administrative">Administration</string>
   <string name="enable_disable_advertisements">Annonces</string>
   <string name="enable_disable_atr">Infos trafic locales</string>
@@ -642,7 +634,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="notification_missedCallTitle">Appel manqué</string>
   <string name="notification_missedCall_call_back">Rappeler</string>
   <string name="notification_missedCall_message">Message</string>
-  <string name="notification_missedCallsMsg">%s appels manqués</string>
+  <string name="notification_missedCallsMsg">%s appel(s) manqué(s)</string>
   <string name="notification_missedCallsTitle">Appels manqués</string>
   <string name="notification_network_selection_text">Réseau sélectionné (%s) non disponible</string>
   <string name="notification_network_selection_title">Aucun service</string>
@@ -724,8 +716,6 @@ Il est possible que vous deviez vous déplacer vers une zone disposant d'une mei
 Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="other_settings">Autres paramètres d\'appel</string>
   <string name="other_settings_miui">Autres paramètres d\'appel</string>
- <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="password">Mot de passe</string> -->
   <string name="password_title">Mot de passe</string>
   <string name="pause_prompt_no">Non</string>
   <string name="pause_prompt_str">Envoi des tonalités\n</string>
@@ -761,8 +751,6 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="place_a_call1">Abonnement 1</string>
   <string name="place_a_call2">Abonnement 2</string>
   <string name="place_a_call3">Abonnement 3</string>
- <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="port">Port</string> -->
   <string name="port_title">N° de port</string>
   <string name="pref_custom_location_summary_miui">Personnaliser l\'attribution régionale et l\'attribution du numéro</string>
   <string name="pref_custom_location_title_miui">Personnaliser l\'attribution</string>
@@ -778,7 +766,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="preferred_network_mode_global_summary">Mode réseau préféré : général</string>
   <string name="preferred_network_mode_gsm_only_summary">Mode réseau préféré : GSM uniquement</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Mode réseau préféré : GSM/WCDMA</string>
-  <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré : CDMA/LTE/EVDO</string>
+  <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré : CDMA/LTE/EvDo</string>
   <string name="preferred_network_mode_lte_cdma_summary">Mode réseau préféré : LTE/CDMA</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Mode réseau préféré : GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_lte_summary">Mode réseau préféré : LTE</string>
@@ -788,9 +776,9 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="preferred_network_mode_wcdma_only_summary">Mode réseau préféré : WCDMA uniquement</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Mode réseau préféré : WCDMA de préférence</string>
   <string name="preferred_network_mode_td_scdma_only_summary">Mode réseau préféré : TD-SCDMA uniquement</string>
-  <string name="preferred_network_mode_td_scdma_wcdma_summary">Mode réseau préféré : TD-SCDMA / WCDMA</string>
-  <string name="preferred_network_mode_td_scdma_lte_summary">Mode réseau préféré : TD-SCDMA / LTE</string>
-  <string name="preferred_network_mode_td_scdma_gsm_summary">Mode réseau préféré : TD-SCDMA / GSM</string>
+  <string name="preferred_network_mode_td_scdma_wcdma_summary">Mode réseau préféré : TD-SCDMA/WCDMA</string>
+  <string name="preferred_network_mode_td_scdma_lte_summary">Mode réseau préféré : TD-SCDMA/LTE</string>
+  <string name="preferred_network_mode_td_scdma_gsm_summary">Mode réseau préféré : TD-SCDMA/GSM</string>
   <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Mode réseau préféré : TD-SCDMA/GSM/LTE</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Mode réseau préféré : TD-SCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Mode réseau préféré : TD-SCDMA/WCDMA/LTE</string>
@@ -816,8 +804,6 @@ Appuyez sur OK pour continuer."</string>
   <string name="progress_dialog_exiting_ecm">Sortie du mode de rappel d\'urgence…</string>
   <string name="prompt">Demander</string>
   <string name="prompt_user">Demander à l\'utilisateur</string>
-  <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="proxy_address">Adresse du proxy</string> -->
   <string name="proxy_address_title">Adresse de proxy sortant</string>
   <string name="pstn_phone">Appel de mobile</string>
   <string name="puk2_blocked">Le PUK2 est définitivement bloqué.</string>
@@ -914,12 +900,8 @@ Appuyez sur OK pour continuer."</string>
   <string name="sendSms">Envoyer un SMS</string>
   <string name="send_button">Envoyer</string>
   <string name="send_keepalive">Envoyer Keep Alive</string>
- <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="send_keepalive_title">Envoyer un keep-alive</string> -->
   <string name="separate_from_conference_miui">Appel simple</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Le type de réseau préféré n\'est disponible que lorsque des données sont désactivées</string>
- <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="set_primary">Définir principal</string> -->
   <string name="set_primary_summary">Utilisé pour les appels sortants</string>
   <string name="set_primary_title">Définir comme compte principal</string>
   <string name="set_smsc_address_error_miui">Impossible d\'obtenir le numéro du centre SMS, veuillez recommencer plus tard.</string>
@@ -1068,8 +1050,6 @@ La prochaine période démarre dans %4$d jours (%5$s)."</string>
   <string name="throttle_time_frame_subtext">"%1$d ٪ du cycle écoulé
 La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="title_data_settings">Paramètres des données</string>
- <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="transport">Protocole</string> -->
   <string name="transport_title">Type de transport</string>
   <string name="tty_mode_entries_full_miui">TTY complet</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1093,8 +1073,6 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="updating_fdn_contact">Mise à jour du numéro autorisé…</string>
   <string name="updating_settings">Mise à jour des paramètres…</string>
   <string name="updating_title">Paramètres d\'appel</string>
- <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
-  <string name="username">Nom d\'utilisateur</string> -->
   <string name="username_title">Nom d\'utilisateur</string>
   <string name="ussdRunning">Exécution du code USSD…</string>
   <string name="vibrate_on_ring_title">Mode Vibreur lorsque le tél. sonne</string>
@@ -1180,18 +1158,32 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="use_ims_default_title">Toujours utiliser IMS</string>
   <string name="remove_ims_account">Supprimer me compte</string>
   <string name="respond_via_sms_menu_reset_default_activity">Rétablir application par défaut</string>
-  
- <!-- à traduire
-  <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
- -->
   <string name="retry">Réessayer</string>
- <!-- à traduire
-  <string name="call_lost_title">Call Lost</string>
-  <string name="enter_input">Input Required. Try again!!</string>
- -->
+  <string name="call_lost_title">Appel perdu</string>
+  <string name="enter_input">Saisie requise. Réessayez !</string>
   <string name="modify_call_prompt_yes">Oui</string>
   <string name="modify_call_prompt_no">Non</string>
+  <string name="onscreenSwitchText">Changer d\'abonnement</string>
+  <string name="onscreenAddParticipant">Ajouter un participant</string>
+  <string name="managed_roaming_title">Gestion de l\'itinérance</string>
+  <string name="managed_roaming_title_sub1">Itinérance (SUB1)</string>
+  <string name="managed_roaming_title_sub2">Itinérance (SUB2)</string>
+  <string name="managed_roaming_title_sub3">Itinérance (SUB3)</string>
+  <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
+  <string name="managed_roaming_dialog_ok_button">Oui</string>
+  <string name="managed_roaming_dialog_cancel_button">Non</string>
+  <string name="description_target_answer_video">Répondre avec Vidéo</string>
+  <string name="description_target_answer_tx_video">Répondre avec TX Vidéo</string>
+  <string name="description_target_answer_rx_video">Répondre avec RX Vidéo</string>
+  <string name="description_direction_up_right">Haut Droite</string>
+  <string name="description_direction_up_left">Haut Gauche</string>
+  <string name="description_direction_down_left">Bas Gauche</string>
+  <string name="description_direction_down_right">Bas Droite</string>
+  <string name="set_sub_global_activate_failed">Activation globale échouée</string>
+  <string name="set_sub_global_deactivate_failed">Désactivation globale échouée</string>
+  <string name="set_sub_not_supported_phone_in_call">Activation ou désactivation non autorisée lorsque le téléphone est en appel.</string>
  <!-- à traduire
+  <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
   <string name="modify_call_failure_str">"Modify Call request failed
 "</string>
   <string name="modify_call_option_title">Which type of call?</string>
@@ -1206,28 +1198,10 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
 "</string>
   <string name="onscreenModifyCallText">Modify Call</string>
- -->
-  <string name="onscreenSwitchText">Changer d\'abonnement</string>
-  <string name="onscreenAddParticipant">Ajouter un participant</string>
-  <string name="managed_roaming_title">Gestion de l\'itinérance</string>
- <!-- à traduire
-  <string name="managed_roaming_title_sub1">Managed Roaming (SUB1)</string>
-  <string name="managed_roaming_title_sub2">Managed Roaming (SUB2)</string>
-  <string name="managed_roaming_title_sub3">Managed Roaming (SUB3)</string>
- -->
-  <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
-  <string name="managed_roaming_dialog_ok_button">Oui</string>
-  <string name="managed_roaming_dialog_cancel_button">Non</string>
- <!-- à traduire
-  <string name="description_target_answer_video">Answer with Video</string>
-  <string name="description_target_answer_tx_video">Answer with TX Video</string>
-  <string name="description_target_answer_rx_video">Answer with RX Video</string>
-  <string name="description_direction_up_right">Up Right</string>
-  <string name="description_direction_up_left">Up Left</string>
-  <string name="description_direction_down_left">Down Left</string>
-  <string name="description_direction_down_right">Down Right</string>
-  <string name="set_sub_global_activate_failed">Activate global failed</string>
-  <string name="set_sub_global_deactivate_failed">Deactivate global failed</string>
-  <string name="set_sub_not_supported_phone_in_call">Activate or Deactivate subscription is not allowed while phone in call.</string>
+  <string name="no_volte">Unable to make IMS call</string>
+  <string name="ims_edit_title">IMS account details</string>
+  <string name="ims_accounts_title">IMS Account</string>
+  <string name="ims_domain_address_title">IMS Server</string>
+  <string name="use_ims_default_summary">Use IMS for all voice calls</string>
  -->
  </resources>

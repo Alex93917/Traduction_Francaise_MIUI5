@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_app_name">Vidéos</string>
+  <string name="about_app_name">Lecteur vidéo</string>
   <string name="about_developer_label">Développeur</string>
-  <string name="about_developer_name">XiaoMi digit</string>
+  <string name="about_developer_name">XiaoMi Inc.</string>
   <string name="about_title">À propos</string>
   <string name="about_version_label">Version :</string>
   <string name="adjust_position_next_media_notice">Suivant</string>
@@ -15,8 +15,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="airkan_video_playing_in">La vidéo est en lecture…</string>
   <string name="app_name">MiVideo</string>
   <string name="buffering">Mise en mémoire tampon…</string>
-  <string name="episode_prefix">"épisode "</string>
-  <string name="episode_suffix"/>
+  <string name="episode_suffix">"Ep. %d "</string>
   <string name="buffering_video_netplay_label_v5">Mise en mémoire tampon…</string>
   <string name="loading_video_netplay_label">Chargement, veuillez patienter…</string>
   <string name="loading_video_netplay_label_v5">Chargement du flux, veuillez patienter…</string>
@@ -36,14 +35,14 @@ la vidéo sur votre box ou TV"</string>
   <string name="menu_wh_item_using_4_3_label">Forcer 4:3</string>
   <string name="nowifi_alert_dialog_continue">Continuer</string>
   <string name="nowifi_alert_dialog_exit">Quitter</string>
-  <string name="nowifi_alert_dialog_message">Utilisation du réseau mobile pour diffuser la vidéo, êtes-vous sûr de vouloir continuer ?</string>
-  <string name="nowifi_alert_dialog_title">Alerte de trafic</string>
+  <string name="nowifi_alert_dialog_message">Non connecté à un réseau Wi-Fi, utiliser le réseau mobile pour lire la vidéo ?</string>
+  <string name="nowifi_alert_dialog_title">Alerte trafic</string>
   <string name="temp_play_history_button_label">Afficher l\'historique</string>
-  <string name="to_be_play_label_v5">Démarrage de la lecture</string>
+  <string name="to_be_play_label_v5">" "</string>
   <string name="toast_back_key_pressed_notice">Réappuyez sur la touche retour pour quitter.</string>
   <string name="toast_message_continue_play_from">Continuer la lecture de</string>
-  <string name="toast_message_continue_play_hour">heures</string>
-  <string name="toast_message_continue_play_minute">min</string>
+  <string name="toast_message_continue_play_hour">"h "</string>
+  <string name="toast_message_continue_play_minute">"m "</string>
   <string name="toast_message_continue_play_second_and_play">s</string>
   <string name="top_status_local_media">Médias locaux</string>
   <string name="top_status_online_media">Médias en ligne</string>

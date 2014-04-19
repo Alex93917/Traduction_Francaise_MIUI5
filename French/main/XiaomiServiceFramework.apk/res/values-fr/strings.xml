@@ -104,7 +104,7 @@
   <string name="find_device_notice_p3">pour localiser, verrouiller ou restaurer votre téléphone à distance.</string>
   <string name="find_device_success_title">Localisation de l\'appareil activé</string>
   <string name="find_password_on_web_msg">Veuillez visiter account.xiaomi.com pour récupérer votre mot de passe</string>
-  <string name="forget_password">Mot de passe oublié ?</string>
+  <string name="forget_password"><u>Mot de passe oublié ?</u></string>
   <string name="get_back_pwd">Récupérer le mot de passe du compte</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
   <string name="i_know">OK</string>
@@ -117,9 +117,10 @@
   <string name="internet_message">Messagerie MiCloud</string>
   <string name="login">Se connecter</string>
   <string name="login_failed">Échec de la connexion</string>
+  <string name="logout_failed">Échec de la déconnexion</string>
   <string name="login_instead_reg">Connexion avec ce numéro de téléphone</string>
   <string name="login_notice">Connexion…</string>
-  <string name="master_alert_notif_dspt" formatted="false">"Durant cette période, ont été ajoutés : %s contacts téléphoniques, % SMS, %s photos, %s notes et d\'autres données. 
+  <string name="master_alert_notif_dspt" formatted="false">"Durant cette période, ont été ajoutés : %s contacts téléphoniques, %s SMS, %s photos, %s notes et d\'autres données. 
 
  Si votre téléphone est perdu ou cassé, ces données seront définitivement perdues. Il est recommandé de rétablir la synchronisation afin d\'assurer la sécurité des données"</string>
   <string name="master_alert_notif_title">Les données n\'ont pas été synchronisées depuis %s jours</string>
@@ -152,12 +153,12 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_error_empty_vcode">Saisissez le code de vérification</string>
   <string name="micloud_error_illegal_pwd">Mot de passe incorrect</string>
   <string name="micloud_input_password_prompt">Saisissez le mot de passe</string>
-  <string name="micloud_intro_01_part_01">Sauvegarde vos données mobiles</string>
+  <string name="micloud_intro_01_part_01">Sauvegardez vos données dans le cloud</string>
   <string name="micloud_intro_01_part_02">Messagerie gratuite via Wi-Fi</string>
-  <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB et mails pour déplacer vos fichiers !</string>
-  <string name="micloud_intro_02_part_02">Synchronise vos contacts, messages, photos et autres données sur divers appareils.</string>
-  <string name="micloud_intro_03_part_01">Sécurise le contenu de votre téléphone à distance</string>
-  <string name="micloud_intro_03_part_02">Localise, verrouille ou supprime le contenu de votre appareil à distance sur i.xiaomi.com.</string>
+  <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB/Mails pour déplacer vos fichiers !</string>
+  <string name="micloud_intro_02_part_02">Synchronisez vos contacts, messages, photos et autres données sur divers appareils.</string>
+  <string name="micloud_intro_03_part_01">Sécurisez le contenu de votre appareil à distance</string>
+  <string name="micloud_intro_03_part_02">Localisez, verrouillez ou supprimez le contenu de votre appareil via i.xiaomi.com.</string>
   <string name="micloud_is_what">Qu\'est-ce que MiCloud ?</string>
   <string name="micloud_more">En apprendre plus</string>
   <string name="micloud_password_confirm_hint">Confirmer mot passe</string>
@@ -183,7 +184,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="quick_login_step2_title">Vérification en 2 étapes</string>
   <string name="reg_by_email_failure">Échec de l\'inscription : %1$s</string>
   <string name="reg_failed">Échec de l\'inscription</string>
-  <string name="reg_success">Inscription réussi</string>
+  <string name="reg_success">Inscription réussie</string>
   <string name="reg_success_summary">%1$s a été associé à votre compte. Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe.</string>
   <string name="reg_type_email">S\'inscrire par Mail</string>
   <string name="reg_type_phone">S\'inscrire par téléphone (recommandé)</string>
@@ -198,7 +199,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
   <string name="send_sms_for_sync_title">Service de synchronisation non activé</string>
   <string name="service_error">Erreur de service</string>
-  <string name="show_password">Afficher le mot de passe</string>
+  <string name="show_password">Afficher le MDP</string>
   <string name="sim_changed_notification_content">Carte SIM non activée.</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Ignorer la connexion</string>
@@ -223,11 +224,13 @@ Vous pouvez faire autre chose…"</string>
   <string name="update_contacts_description">Met à jour vos contacts téléphoniques et d\'autres informations</string>
   <string name="updated_contacts">%s contacts mis à jour</string>
   <string name="updated_nothing">Rien à synchroniser.</string>
-  <string name="user_agreement_p1">En vous connectant, vous acceptez les</string>
+  <string name="user_agreement_p1">"En vous connectant, vous acceptez les
+"</string>
   <string name="user_agreement_p2">Conditions d\'utilisation de Xiaomi</string>
   <string name="user_agreement_p3"> et </string>
   <string name="user_agreement_p4">Règles de confidentialité</string>
-  <string name="user_agreement_p5">En vous inscrivant, vous acceptez les</string>
+  <string name="user_agreement_p5">"En vous inscrivant, vous acceptez les
+"</string>
   <string name="vcode">Code de vérification</string>
   <string name="vcode_prompt_long">Veuillez saisir le code de vérification généré par Xiaomi</string>
   <string name="vcode_notification_title">La vérification de votre compte est incomplète.</string>
@@ -272,5 +275,6 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_warn_low_title">Espace de stockage faible !</string>
   <string name="micloud_web_discription_01">Connectez-vous à http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">pour stocker et accéder à vos fichiers depuis n\'importe où.</string>
-  <string name="micloud_welcome_skip_login">Passer l\'inscription</string>
+  <string name="micloud_welcome_skip_login"><u>Passer l\'inscription</u></string>
+  <string name="micloud_upgrade_space">Augmenter l\'espace</string>
 </resources>

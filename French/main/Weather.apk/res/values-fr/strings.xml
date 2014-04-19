@@ -4,7 +4,7 @@
     <string name="act_find_city_hint">Rechercher</string>
     <string name="act_find_city_hot_title">Villes populaires</string>
     <string name="act_find_city_null_data">Aucun résultat.</string>
-    <string name="act_find_city_title">Ajouter un lieu</string>
+    <string name="act_find_city_title">Ajouter une ville</string>
     <string name="act_init_dialog_finish">Infos météo ajoutées.</string>
     <string name="act_set_city_find_side">Géolocalisation…</string>
     <string name="act_set_city_find_side_error">Impossible de vous géolocaliser.</string>
@@ -12,11 +12,11 @@
     <string name="act_set_city_re_find_side">Nouvelle tentative de géolocalisation…</string>
     <string name="act_weather_aqi_share">Partager</string>
     <string name="act_weather_aqi_title">Indice de qualité de l\'air</string>
-    <string name="act_weather_cycle_link_china">Chinese Weather Network</string>
+    <string name="act_weather_cycle_link_china">weather.com.cn</string>
     <string name="act_weather_cycle_low_temp">min.</string>
     <string name="act_weather_cycle_update">Actualisation…</string>
-    <string name="act_weather_find_city_connect_net">connectez-vous à un réseau puis réessayez</string>
-    <string name="act_weather_find_city_search_online">appuyer pour rechercher en-ligne</string>
+    <string name="act_weather_find_city_connect_net">Connectez-vous à un réseau puis réessayez</string>
+    <string name="act_weather_find_city_search_online">"Appuyer pour rechercher "</string>
     <string name="act_weather_find_city_searching">Recherche…</string>
     <string name="act_weather_main_aqi_index">Qualité de l\'air : %s</string>
     <string name="act_weather_main_data_null">Aucune donnée météo, appuyer pour actualiser</string>
@@ -29,10 +29,11 @@
     <string name="alert_provider_title">Notification de géolocalisation</string>
     <string name="alert_title_delete">Supprimer</string>
     <string name="app_love_font_lng">%s</string>
-    <string name="app_love_sms_title">Contenu du message</string>
+    <string name="app_love_sms_title">Message</string>
     <string name="app_love_view_title">Aperçu</string>
     <string name="app_name">Météo</string>
-    <string name="app_nohave_net">Aucun réseau de données disponible</string>
+    <string name="network_unavailable">Aucun réseau de données disponible</string>
+    <string name="weather_data_unreachable">Impossible d\'obtenir les prévisions météorologiques. Attendez une ou deux minutes et réessayez.</string>
     <string name="app_unquiet_net">Mauvaise connexion réseau</string>
     <string name="aqi_details_dangerous">Les personnes ayant une maladie cardiaque ou pulmonaire, les personnes âgées et les enfants doivent éviter toute activité physique en plein air, tout le monde devrait éviter de faire des efforts intenses ou prolongés.</string>
     <string name="aqi_details_fine">Les personnes particulièrement sensibles devraient envisager d\'éviter de faire des efforts intenses ou prolongés.</string>
@@ -46,6 +47,9 @@
     <string name="aqi_quality_index_light_pollution">pollution légère</string>
     <string name="aqi_quality_index_moderate">modéré</string>
     <string name="aqi_quality_index_pure">excellent</string>
+  <!--à traduire
+    <string name="aqi_quality_index_break">Yikes!</string>
+   -->
     <string name="aqi_quality_index_unhealthy">malsain</string>
     <string name="button_allow">Autoriser</string>
     <string name="button_not_allow">Refuser</string>
@@ -55,12 +59,12 @@
     <string name="enable_notification_city">%s notifications météo affichées, des notifications seront affichées lors conditions météo défavorables (pluie, neige ou fortes variations de températures).</string>
     <string name="enable_notification_summary">Affiche une notification si les conditions météorologiques changent défavorablement</string>
     <string name="first_start_network_toast_text">Accès au réseau pour obtenir les prévisions météorologiques.</string>
-    <string name="format_date_md">d/MM kk:mm</string>
-    <string name="format_date_trend_md">d/MM</string>
+    <string name="format_date_md">dd/MM kk:mm</string>
+    <string name="format_date_trend_md">dd/MM</string>
     <string name="format_date_week">EEE</string>
     <string name="format_date_wmd">EEE d MMM</string>
     <string name="loading_weather">Chargement…</string>
-    <string name="local_city">Villes locales</string>
+    <string name="local_city" />
     <string name="location_allow_err">Impossible de vous géolocaliser.</string>
     <string name="location_management">Géolocalisation</string>
     <string name="location_notification">Notifications de géolocalisation</string>
@@ -92,21 +96,19 @@
     <string name="settings_weather_pre_title">Météo</string>
     <string name="settings_weather_preview">Prévisualisation d\'animation météo</string>
     <string name="settings_weather_title">Paramètres</string>
-    <string name="share_aqi_content">"\#MIUI weather#
-Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
+    <string name="share_aqi_content">"Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
     <string name="share_button_text">Partager</string>
     <string name="share_choice_titile">Partager</string>
     <string name="share_content">\#MIUI weather#</string>
-    <string name="share_weather_content">"\#MIUI weather#
-Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
+    <string name="share_weather_content">"Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
     <string name="share_weather_title">Partager les données météo</string>
-    <string name="sina_share_fail">Échec de l\'envoi !</string>
-    <string name="sina_share_pendding">Envoi en cours…</string>
-    <string name="sina_share_success">Envoyé avec succès !</string>
+    <string name="sina_share_fail">Échec de l\'envoi</string>
+    <string name="sina_share_pendding">Envoi…</string>
+    <string name="sina_share_success">Envoyé</string>
     <string name="sina_token_expired_warning">Jeton de sécurité du compte Weibo expiré, veuillez le réassocier</string>
     <string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
     <string name="sms_notification">Partager par SMS</string>
-    <string name="tip_weather">Notifications météo MIUI</string>
+    <string name="tip_weather">Notifications météo</string>
     <string name="tip_weather_info_content_1">Habillez-vous chaudement !</string>
     <string name="tip_weather_info_title_1">%1$s une différence de température de %2$d dégrées est prévue</string>
     <string name="tip_weather_info_title_2">%1$s aujourd\'hui la température estimée sera de %2$s</string>
@@ -114,4 +116,5 @@ Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
     <string name="trend_weather_tomorrow">Demain</string>
     <string name="weather_notification">Notifications météo</string>
     <string name="widget_loading">Aucun donnée météo</string>
+    <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
 </resources>

@@ -1,5 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <!--Sina -->
+  <string name="sina_share_pendding">Envoi…</string>
+  <string name="sina_share_success">Envoyé</string>
+  <string name="sina_share_fail">Échec de l\'envoi</string>
+  <string name="sina_token_expired_warning">Jeton de sécurité du compte Weibo expiré, veuillez le réassocier</string>
+  <string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
+
   <!-- Name of the application -->
   <string name="app_label">Pages jaunes</string>
   <string name="phone_info_divider">" | "</string>
@@ -11,6 +18,19 @@
   <string name="service_unavailiable">Votre réseau actuel n\'est pas bon, veuillez réessayer plus tard</string>
   <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
   <string name="locating_fail">Échec de localisation, veuillez vérifier vos paramètres de localisation ou réessayer</string>
+  <string name="no_more_result">Aucun autre résultat</string>
+  
+  <string name="downloading">Téléchargement…</string>
+  <string name="download_completed">Téléchargement terminé ! Chemin d\'accès : %s</string>
+  <string name="download_failed">Échec du téléchargement</string>
+  <string name="download_failed_storage">Échec du téléchargement, veuillez vérifier votre carte SD</string>
+  <string name="download_failed_network">Échec du téléchargement, veuillez vérifier vos paramètres réseaux</string>
+  <string name="download_failed_gone">Échec du téléchargement, fichier introuvable</string>
+  <string name="download_failed_server">Échec du téléchargement, veuillez réessayer plus tard</string>
+  <string name="download_failed_cannot_resume">Échec du téléchargement, veuillez réessayer plus tard</string>
+  <string name="download_failed_file_exists">Fichier déjà existant</string>
+  <string name="download_failed_space">Échec du téléchargement, espace de stockage insuffisant</string>
+  <string name="download_failed_blocked">Échec du téléchargement, impossible de se connecter au réseau</string>
 
   <!-- YellowPage related -->
   <string name="yellow_page_detail_title">À propos</string>
@@ -70,7 +90,9 @@
   <string name="user_notice_yp_detail_summary_format">L\'information partielle sur cette page jaune doit être mise à jour en ligne, veuillez lire %1$s et %2$s, appuyez sur "Accepter" pour valider ou sur "Annuler" pour voir les informations (en cache uniquement).</string>
   <string name="about_smart_antispam_summary">À propos de l\'identification de numéros inconnus</string>
   <string name="about_telephone_fraud">À propos de la fraude téléphonique</string>
-
+  <string name="notify_connect_every_time">Demander l\'autorisation d\'accès au réseau à chaque fois</string>
+  <string name="do_not_remind_me">Ne pas me rappeler</string>
+  
   <!-- Common web page related -->
   <string name="title_about_yellow_page">À propos</string>
 
@@ -96,6 +118,7 @@
   <string name="recharge_payment_result_failed_summary">Veuillez réessayer</string>
   <string name="recharge_payment_result_progress_summary">Vérification du résultat du paiement…</string>
   <string name="recharge_phone_number_error">Numéro de téléphone non valide.</string>
+  <string name="recharge_phone_number_empty">Veuillez saisir votre numéro de téléphone</string>
   <string name="recharge_user_confirm_title">Confirmer</string>
   <string name="recharge_user_confirm_summary">Vous serez facturé %1$s pour %2$s RMB.\n\nMontant total : %3$s RMB</string>
   <string name="recharge_order_id">ID de commande :</string>
@@ -133,7 +156,7 @@
   <string name="express_inquiry_serial_number_indication">Numéro de suivi</string>
   <string name="express_inquiry_logistics_indication">Entreprise postale</string>
   <string name="express_inquiry_button_text">Suivre</string>
-  <string name="express_inquiry_serial_number_prefix">"Numéro de série : "</string>
+  <string name="express_inquiry_serial_number_prefix">"Numéro : "</string>
   <string name="express_inquiry_no_result">Aucun résultat.</string>
   <string name="express_inquiry_internal_failure">Une erreur est survenue.\nVeuillez vérifier le numéro de suivi</string>
   <string name="express_inquiry_data_owner_prefix">Infos de suivi fourni par</string>
@@ -147,6 +170,37 @@
   <string name="express_inquiry_no_history">Pas d\'historique</string>
   <string name="express_inquiry_delete_warning_single">Supprimer l\'élément sélectionné ?</string>
   <string name="express_inquiry_delete_warning_multiple">Supprimer les %d éléments sélectionnés ?</string>
+  <string name="express_sender">Expéditeur</string>
+  <string name="express_sender_info">Info expéditeur</string>
+  <string name="express_addressee">Adresse</string>
+  <string name="express_addressee_info">Info adresse</string>
+  <string name="express_add_new_address">Ajouter une adresse</string>
+  <string name="express_next_step">Suivant</string>
+  <string name="express_create_order">Créer</string>
+  <string name="express_view_order">Voir les commandes</string>
+  <string name="express_go_back">Retour</string>
+  <string name="express_address_delete_warning">Êtes-vous sûr ?</string>
+  <string name="express_sender_name">Nom de l\'expéditeur</string>
+  <string name="express_addressee_name">Adresse</string>
+  <string name="express_phone">Téléphone</string>
+  <string name="express_detailed_address">Adresse</string>
+  <string name="express_no_address">Vide</string>
+  <string name="express_order_confirmation">Confirmation</string>
+  <string name="express_select_sender">De</string>
+  <string name="express_select_addressee">À</string>
+  <string name="express_region_pick_title">Choisir la région</string>
+  <string name="express_address_warning_no_name">Nom requis</string>
+  <string name="express_address_warning_no_phone">Téléphone Nom requis</string>
+  <string name="express_address_warning_no_area">Région requise</string>
+  <string name="express_address_warning_no_full_address">Adresse requise</string>
+  <string name="exapress_save_address_to_contact">Enregistrer l\'adresse dans les contacts</string>
+  <string name="express_sender_region">Région de l\'expéditeur</string>
+  <string name="express_addressee_region">Région</string>
+  <string name="express_select_address">Adresse</string>
+  <string name="express_address_info">Info</string>
+  <string name="express_address_name">Nom</string>
+  <string name="express_address_region">Région</string>
+  <string name="express_address_deleted">Adresse supprimée</string>
 
   <!-- Scams numbers related -->
   <string name="remind_user_suspect_number_title">Méfiez-vous des appels frauduleux</string>

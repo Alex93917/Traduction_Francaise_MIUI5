@@ -22,7 +22,7 @@
   <string name="acessibility_selected_marker_description">Événement sélectionné</string>
   <string name="acessibility_snooze_notification">Notification de répétition d\'alarme</string>
   <string name="add_account">Ajouter un compte</string>
-  <string name="agenda_today">AUJOURD\'HUI, %1$s</string>
+  <string name="agenda_today">AUJ., %1$s</string>
   <string name="agenda_tomorrow">DEMAIN, %1$s</string>
   <string name="agenda_view">Mon planning</string>
   <string name="agenda_yesterday">HIER, %1$s</string>
@@ -40,9 +40,9 @@
   <string name="copy_db">Envoyer la base de données</string>
   <string name="copy_email">Copier l\'adresse mail</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
-  <string name="create_an_account_desc">"Tirez le meilleur parti de Google Agenda en utilisant un compte Google.
+  <string name="create_an_account_desc">"Tirez le meilleur parti de l\'agenda en utilisant un compte Xiaomi ou Google.
 
-• Accédez-y depuis n\'importe quel navigateur Web. 
+• Accédez-y depuis n\'importe quel navigateur Web.
 • Sauvegardez vos événements en toute sécurité."</string>
   <string name="creating_event">Événement créé.</string>
   <string name="creating_event_with_guest">Les invitations vont être envoyées.</string>
@@ -58,7 +58,7 @@
   <string name="directory_searching_fmt">Recherche en cours dans %s…</string>
   <string name="discard_label">Annuler</string>
   <string name="dismiss_all_label">Tout supprimer</string>
-  <string name="do_not_check">Ne PAS cocher -&gt;</string>
+  <string name="do_not_check">Ne pas cocher -&gt;</string>
   <string name="does_not_repeat">Événement ponctuel</string>
   <string name="done">OK</string>
   <string name="edit_event_all_day_label">Journée entière</string>
@@ -151,7 +151,7 @@
   <string name="preferences_week_start_day_title">1er jour de la semaine :</string>
   <string name="presence_label">Ma disponibilité</string>
   <string name="privacy_label">Confidentialité</string>
-  <string name="quick_response_custom_msg">Réponse personnalisée</string>
+  <string name="quick_response_custom_msg">Réponse personnalisée…</string>
   <string name="quick_response_dialog_title">Sélectionner une réponse rapide</string>
   <string name="quick_response_email_failed">Impossible de trouver un programme de messagerie électronique.</string>
   <string name="quick_response_settings">Réponses rapides</string>
@@ -211,9 +211,6 @@
   <string name="event_show_more">Plus d\'options…</string>
   <string name="today_no_events">Aucun événement</string>
   <string name="lunar_date">Date lunaire</string>
- <!-- show_all_lunar à revoir -->
-  <string name="show_all_lunar">Afficher lunaire</string>
-  <string name="show_almanac">Afficher l\'almanach</string>
   <string name="time_zone">Fuseau horaire</string>
   <string name="widget_events">Événements à venir</string>
   <string name="widget_no_events">Aucun événement à venir</string>
@@ -222,8 +219,36 @@
  <!-- work_day_indication rest_day_indication blank space to remove smileys :) :( -->
   <string name="work_day_indication">" "</string>
   <string name="rest_day_indication">" "</string>
- <!-- à traduire éventuellement :
-  <string name="event_lunar_month">月</string>
+  <string name="event_lunar_month">Mois</string>
+  <string name="action_bar_today">A</string>
+  <string name="refresh">Actualiser</string>
+  <string name="tab_local">Local</string>
+  <string name="tab_online">En ligne</string>
+  <string name="tab_category">Catégories</string>
+  <string name="huangli_label">Huang Li</string>
+  <string name="holiday_label">Fête</string>
+  <string name="pref_title_no_remind">Aucun rappel</string>
+  <string name="pref_title_notification_remind">Notification de rappel</string>
+  <string name="pref_title_alert_remind">Pop-up de rappel</string>
+  <string name="pref_title_alarm_remind">Alarme de rappel</string>
+  <string name="event_date_format">dd/MM</string>
+  <string name="event_full_date_format">dd/MM/yyyy</string>
+
+ <!-- extra affiché uniquement si téléphone en chinois
+  <string name="online_calendar_activity_label">订阅日历</string>
+  <string name="add_calendar">订阅</string>
+  <string name="exist_calendar">已订阅</string>
+  <string name="delete_calendar">退订</string>
+  <string name="delete_topic_dialog_title">确认要退订\"%s\"吗？</string>
+  <string name="add_topic_success">订阅\"%s\"成功</string>
+  <string name="delete_topic_success">退订\"%s\"成功</string>
+  <string name="calendar_server_error">网络错误</string>
+  <string name="label_recent_events">近期事件</string>
+  <string name="no_local_calendar">没有订阅日历 :)</string>
+  <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
+  <string name="movable_list_header_label">简介</string>
+  <string name="subscribe_all">全部订阅</string>
+  <string name="enter_calendar">进入日历</string>
   <string name="huangli_good_type">宜</string>
   <string name="huangli_bad_type">忌</string>
   <string name="chongsha">冲煞</string>
@@ -232,12 +257,12 @@
   <string name="taishen">胎神</string>
   <string name="pengzu">彭祖</string>
   <string name="zhushen">诸神</string>
-  <string name="gou_piao_event_title">Train reminders %s</string>
-  <string name="gou_piao_item1">Remind me of times for trains</string>
-  <string name="gou_piao_item2">For telephone bookings call 12306</string>
-  <string name="gou_piao_item3">Purchase tickets by calling 12306</string>
-  <string name="gou_piao_website_start_time">Purchase at %s online or by phone</string>
-  <string name="gou_piao_window_start_time">Tickets can be purchased at the station from %s</string>
-  <string name="show_gou_piao">Display spring festival ticket calendar</string>
+  <string name="button_online">订</string>
+  <string name="topic_event_list_header_label">近期活动</string>
+  <string name="setting_load_images_under_data_conn">非WIFI网络下加载在线订阅大图</string>
+  <string name="online_reminder_header_text">提醒</string>
+  <string name="online_reminder_slider_text">启用提醒</string>
+  <string name="online_reminder_minutes_text">提醒时间</string>
+  <string name="online_reminder_change_text">修改提醒</string>
  -->
 </resources>

@@ -58,11 +58,11 @@
   <string name="delete_playlist_menu">Supprimer</string>
   <string name="delete_song_desc">Cela supprimera définitivement %s de votre carte SD.</string>
   <string name="deselect_all">Tout désélectionner</string>
-  <string name="dirac_mode_general">Mode général</string>
-  <string name="dirac_mode_earbuds">Écouteurs classiques</string>
-  <string name="dirac_mode_in_ear">Écouteurs intra-auriculaires</string>
+  <string name="dirac_mode_general">Général</string>
+  <string name="dirac_mode_earbuds">Classiques</string>
+  <string name="dirac_mode_in_ear">Intra-auriculaires</string>
   <string name="dirac_mode_off">Dirac désactivé</string>
-  <string name="dirac_mode_piston_100">Écouteurs Piston Xiaomi</string>
+  <string name="dirac_mode_piston_100">Piston Xiaomi</string>
   <string name="download">Télécharger</string>
   <string name="download_album_settings">Téléchargement de pochette auto</string>
   <string name="download_album_summary">Peut coûter plus cher via le réseau mobile, privilégiez une connexion Wi-Fi</string>
@@ -248,7 +248,7 @@
   <string name="search_title">Rechercher</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_folder">Choix des dossiers</string>
-  <string name="select_quit_time">Régler la minuterie pour arrêter la lecture (en minute)</string>
+  <string name="select_quit_time">Délai avant l\'arrêt de la lecture (en minute)</string>
   <string name="send_to">Envoyer à</string>
   <string name="send_to_application">Envoyer à une autre application</string>
   <string name="shake_and_skip">Secouer pour passer</string>
@@ -333,6 +333,8 @@
   <string name="vip_expired">Votre accès à musique haute qualité a expiré</string>
   <string name="vip_rebuy">Renouveler</string>
   <string name="vip_recommend_rebuy">Renouveler l\'accès VIP pour 30 jours coûte 5 MiCredits</string>
+  <string name="no_music_to_play">Aucune musique à lire</string>
+  <string name="source_from">Source : %1$s</string>
  <!-- à traduire : 
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
   <string name="ktv_connected_alert_message">The songs you select will be added to the playlist named My KTV</string>

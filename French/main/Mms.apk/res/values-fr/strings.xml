@@ -33,8 +33,8 @@
   <string name="back_to_message_list">retour à la liste des messages</string>
   <string name="batch_adding_progress_message">Ajout en cours…</string>
   <string name="batch_delete_confirm_dialog_message">Supprimer les %1$s messages sélectionnés ?</string>
-  <string name="batch_deleting_message_progress_message">Supprimer message(s) sélectionné(s)</string>
-  <string name="batch_deleting_progress_message">Suppression de la sélection</string>
+  <string name="batch_deleting_message_progress_message">Suppression…</string>
+  <string name="batch_deleting_progress_message">Suppression de la sélection…</string>
   <string name="bcc_label">"Cci : "</string>
   <string name="bookmark">Favoris</string>
   <string name="bookmark_confirm_delete_message">Les éléments sélectionnés seront supprimés des favoris</string>
@@ -66,7 +66,7 @@
   <string name="confirm_export_dialog_description">Supprimer la sélection de contact privé, la conversation sera déplacé vers avec les SMS normaux. Voulez-vous continuer ?</string>
   <string name="confirm_export_dialog_title">Supprimer les contacts privés</string>
   <string name="confirm_no_block_positive">"Ne pas bloquer et restaurer"</string>
-  <string name="confirm_no_block_title">"Ne pas bloquer le numéro et restaurer tous les messages ?"</string>
+  <string name="confirm_no_block_title">"Ne pas bloquer le numéro et restaurer tous les messages envoyés depuis ce numéro ?"</string>
   <string name="confirm_rate_limit">Un grand nombre de messages multimédias sont en cours d\'envoi. Voulez-vous continuer ?</string>
   <string name="confirm_restore_all_title">Restaurer tous les messages de ce numéro ?</string>
   <string name="confirm_restore_positive">Restaurer</string>
@@ -113,15 +113,15 @@
   <string name="duration_not_a_number">La durée doit être indiquée par un chiffre.</string>
   <string name="duration_sec">Durée (%s s)</string>
   <string name="duration_selector_title">"Durée de la diapositive "</string>
-  <string name="duration_zero">La durée doit être supérieure à zéro.</string>
+  <string name="duration_zero">La durée doit être supérieure à 0 seconde</string>
   <string name="edit">Modifier</string>
   <string name="edit_nickname_for_nocontact">Aucun destinataire trouvé. Vous devez avoir au moins un destinataire pour éditer son nom.</string>
   <string name="edit_nickname_for_nocontact_by_robot">Vous devez avoir au moins un destinataire pour éditer des noms.</string>
   <string name="edit_phrase">Modifier la phrase</string>
   <string name="edit_slide_activity">Modifier la diapositive</string>
   <string name="edit_slideshow_activity">Modifier le diaporama</string>
-  <string name="enable_password_protect">Activer le mot de passe de protection</string>
-  <string name="enable_visible_pattern_title">Rendre le schéma visible</string>
+  <string name="enable_password_protect">Schéma de verrouillage requis</string>
+  <string name="enable_visible_pattern_title">Rendre visible le schéma</string>
   <string name="enter_edit_mode">Supprimer</string>
   <string name="error_code_label">"Code d'erreur : "</string>
   <string name="error_state">État incohérent</string>
@@ -315,11 +315,11 @@
   <string name="priority_label">"Priorité : "</string>
   <string name="priority_low">Faible</string>
   <string name="priority_normal">Normale</string>
-  <string name="privacy_mode_hint">Vous ne pouvez pas envoyer de message en mode privé</string>
+  <string name="privacy_mode_hint">Vous ne pouvez pas envoyer de message en mode invité</string>
   <string name="private_message">Message privé</string>
-  <string name="private_new_notification">Notification de nouveau message privé</string>
+  <string name="private_new_notification">Notification de nouveau message</string>
   <string name="private_protect">Protéger les messages privés</string>
-  <string name="private_settings">Paramètre privé</string>
+  <string name="private_settings">Paramètres de messagerie privée</string>
   <string name="processing">En cours…</string>
   <string name="prvate_contact">Contact privé</string>
   <string name="rate_limit_surpassed">Confirmer</string>
@@ -378,7 +378,7 @@
   <string name="sent_label">"Date d'envoi : "</string>
   <string name="service_message_not_found">Le message a expiré ou n\'est plus disponible.</string>
   <string name="service_network_problem">Impossible de procéder à l\'envoi en raison d\'un problème réseau.</string>
-  <string name="service_not_activated">Ce service n\'est pas activé sur le réseau.</string>
+  <string name="service_not_activated">Ce service n\'est pas activé sur le réseau</string>
   <string name="set">Définir</string>
   <string name="set_smsc_address_title_miui">Définir le numéro du centre SMS</string>
   <string name="show_all_messages">Afficher tous les messages</string>
@@ -420,7 +420,7 @@
   <string name="text_message">Message SMS</string>
   <string name="timed_message_expired_title">%d message(s) programmé(s) non envoyé(s)</string>
   <string name="timed_message_expired_title_2">Envoyer maintenant ?</string>
-  <string name="timed_message_in_total">… (%d au total)</string>
+  <string name="timed_message_in_total">(%d au total)</string>
   <string name="timed_message_to">À</string>
   <string name="title_date_type">Horodatage</string>
   <string name="title_timed_message_dialog">Définir l\'heure d\'envoi de ce message</string>
@@ -451,7 +451,7 @@
   <string name="view">Afficher</string>
   <string name="view_bookmark">Voir le message original</string>
   <string name="view_message_details">Afficher les détails</string>
-  <string name="wap_push_title">"[WAP Push]"</string>
+  <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
   <string name="sp_conversation_title">Messages de notification</string>
   <string name="title_collapse_sp_messages">Combiner les messages opérateur</string>
@@ -462,11 +462,10 @@
   <string name="feedback_description_hint">Veuillez saisir votre rapport, en anglais, ici</string>
   <string name="feedback_submit">Envoyer</string>
   <string name="pref_key_mx_feedback">Envoyer un rapport</string>
-  <string name="pref_summary_mx_feedback">"Aidez MIUI à s'améliorer ! 
-  
-Rapportez les erreurs et les bugs directement à XIAOMI."</string>
+  <string name="pref_summary_mx_feedback">Signalez les erreurs et les bugs directement à Xiaomi</string>
   <string name="toast_description_required">Veuillez saisir un message</string>
   <string name="toast_feedback_finish">Votre rapport sera envoyé lorsque vous vous connecterez à un réseau Wi-Fi</string>
-  <string name="toast_feedback_max">Limite dépassée, maximum 3 rapports par jour</string>
+  <string name="toast_feedback_max">Vous ne pouvez pas envoyer plus de 3 rapports par jour</string>
   <string name="toast_feedback_start">Envoi des données du rapport…</string>
+  <string name="confirm_send_mms">L\'un des destinataires contient une adresse e-mail. Ce message sera envoyé en tant que MMS.</string>
 </resources>
